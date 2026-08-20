@@ -44,7 +44,7 @@ to be exact about the limits of it: I heard the eleven minutes. I did not see th
 Then it stops.
 
 Here is what I can report. It does not stop with a battle. There is no answering force,
-because there is no answering force to have — the six who came back have been in the house
+because there is no answering force to have — the five who came back have been in the house
 for a fortnight doing nothing in particular and none of them is a soldier, and Athena, who
 would have been, is not speaking to anybody at all.
 
@@ -95,7 +95,7 @@ I was in the room and I do not judge him: there is nothing between the beginning
 of it in which a person could have moved.
 
 She goes into him through his hands. He steps back and he is steady on his feet and slightly
-out of breath, and he looks round the room at the five of them, and he says:
+out of breath, and he looks round the room at the four of them, and he says:
 
 "Anybody else want to be in the north?"
 
@@ -107,7 +107,7 @@ Nobody answers for a very long time, and then Hermes says, "No," and that is the
 argument, and it is the last time anyone in that family raises the question of what to do
 next in the hearing of the man it concerns.
 
-They eat at one. All five of them. Zeus carves, and asks Apollo about a house he is thinking
+They eat at one. The four of them, and him. Zeus carves, and asks Apollo about a house he is thinking
 of buying, and Apollo answers him — properly, in sentences, with detail about the roof — and
 that is the thing out of the whole morning that I have not been able to put down since. Not
 the terrace. Not the hands. A young god four hours after his twin was taken out of the world
