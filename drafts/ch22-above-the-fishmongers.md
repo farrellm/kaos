@@ -97,10 +97,10 @@ longer want it undisclosed. So: the question is what they wanted me there for.
 Somewhere else, then.
 
 Riddy sat in that room for two hours and was not, for the first time since Cassandra handed
-her the job on a road outside a welded bin, disbelieved. That is what I had gone to watch
-without knowing it. They took what she said, wrote it down, cross-referenced it against three
-things in the cupboard, corrected her on a detail of the Frame — corrected *her*, who has been
-inside it — and asked her to come back on the Tuesday.
+her the job on a road outside a bin that is welded shut now, disbelieved. That is what I had
+gone to watch without knowing it. They took what she said, wrote it down, cross-referenced it
+against three things in the cupboard, corrected her on a detail of the Frame — corrected
+*her*, who has stood in the Nothing — and asked her to come back on the Tuesday.
 
 She was completely undone by it. She hid it extremely badly. At one point she went and stood
 by the window with her back to the room in a manner I recognised from somewhere and could not

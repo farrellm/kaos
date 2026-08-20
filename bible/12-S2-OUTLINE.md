@@ -292,6 +292,14 @@ place it on all five.
 | **Tense** | past, with foreknowledge | past | past with present intrusions | present, from the break | present |
 | **The staging trick** (place a question, digress, return) | used invisibly | used | used and flagged | named, and burned on the page | unavailable |
 
+**One documented exception: address spikes at 20.** The dials otherwise fall monotonically,
+and rule 1 below says he never recovers a layer. Chapter 20 breaks that on purpose, and the
+drafted chapters measure it — roughly five direct-address moves against four in 16 and three
+in 22. It is the wager chapter: he stakes his authority on the reader an hour before the
+event, in as many words, and the event declines it. Leaning on the reader is what makes the
+loss cost something, and it is the last credit he has to spend before 24 finds nobody there.
+Do not "correct" the dip-then-rise in 16→20→22. It is the shape it is meant to be.
+
 ### Chapter by chapter
 
 | Ch | Still claims | Quietly drops | Prose tell |
@@ -322,6 +330,34 @@ place it on all five.
 3. **The reader should be able to date the collapse to 24 and then, on a reread, find it
    started at 14.** That is the test. If a rereader cannot point at 20 and say *there* —
    the theory of Zeus failing a prediction out loud — the slope is too shallow to feel.
+
+---
+
+## Length, and why the drafted sample reads short
+
+Eleven chapters drafted average about 1,650 words, which projects to roughly 67,000 across
+forty. **That projection is wrong, because the sample is biased.** The chapters drafted first
+were the hinges — 1, 13, 16, 20, 22, 23, 24, 25, 26, 27 — and hinges are *reckoning* chapters:
+one narrator processing one thing in one location. They are supposed to be tight.
+
+Most of what remains is *event* chapters, which carry cross-cut action, multiple locations and
+several speaking characters: the strike, the door being built, Orpheus arrested in three
+cities, the unresolved rising, Krete voting, the ending. Those cannot be done at 1,600 words
+without turning into summary, which is the one failure mode this book cannot survive — see
+craft reminder 1.
+
+**Target roughly 85,000**, reached by type rather than by padding:
+
+| Chapter type | Band | Examples |
+|---|---|---|
+| Reckoning — one narrator, one realisation | 1,300–1,900 | 13, 16, 23, 25, 27 |
+| Event — cross-cut, multiple speakers, things happen | 2,200–3,000 | 15, 19, 21, 26, 29, 30, 32, 33 |
+| Hinge — an event *and* its reckoning | 1,900–2,400 | 20, 24, 28, 36, 40 |
+
+Part One has the most room and the least written: chapters 2–12 are currently single-beat
+sketches, and several are event chapters carrying a whole strand's opening.
+
+Do not hit the number by lengthening the reckoning chapters. Their compression is the voice.
 
 ---
 
