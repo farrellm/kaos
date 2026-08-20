@@ -90,6 +90,7 @@ Season 2 novelization chapters, written against the outline in
 |---|---|
 | 1 — The Guest | [ch01-the-guest.md](drafts/ch01-the-guest.md) |
 | 13 — Grief | [ch13-grief.md](drafts/ch13-grief.md) |
+| 20 — The Old Method | [ch20-the-old-method.md](drafts/ch20-the-old-method.md) |
 | 24 — The Ferryman | [ch24-the-ferryman.md](drafts/ch24-the-ferryman.md) |
 | 25 — The Correction | [ch25-the-correction.md](drafts/ch25-the-correction.md) |
 | 28 — The One Who Has to Talk | [ch28-the-one-who-has-to-talk.md](drafts/ch28-the-one-who-has-to-talk.md) |
