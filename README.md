@@ -93,5 +93,6 @@ Season 2 novelization chapters, written against the outline in
 | 20 — The Old Method | [ch20-the-old-method.md](drafts/ch20-the-old-method.md) |
 | 24 — The Ferryman | [ch24-the-ferryman.md](drafts/ch24-the-ferryman.md) |
 | 25 — The Correction | [ch25-the-correction.md](drafts/ch25-the-correction.md) |
+| 26 — The Argument | [ch26-the-argument.md](drafts/ch26-the-argument.md) |
 | 27 — The Door | [ch27-the-door.md](drafts/ch27-the-door.md) |
 | 28 — The One Who Has to Talk | [ch28-the-one-who-has-to-talk.md](drafts/ch28-the-one-who-has-to-talk.md) |

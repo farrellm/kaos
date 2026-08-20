@@ -140,8 +140,10 @@ and does not recover its footing. *(newQ1, D1)*
 **25.** Prometheus goes to the Fates for a correction and receives none, because they have
 never said an untrue thing to him and are not about to start. *(O4, partial)*
 
-**26.** Hera, Ares and Poseidon strike Olympus and fail. Zeus kills one of his own children
-in front of the others to end the argument. The absent Olympians stop being absent. *(O15)*
+**26.** Hera, Ares and Poseidon strike Olympus and fail. Zeus kills **Artemis** in front of
+the others to end the argument — chosen because she was not part of the strike, and because a
+twin destroyed by a father's decision is the show's own central image. The absent Olympians
+stop being absent. *(O15)*
 
 **27.** Zeus puts the Nothing under direct guard and cuts Caeneus off from the river. The
 reservoir is now a garrison.
@@ -163,7 +165,7 @@ they now know is fictional, and there are more of them than there are guards. *(
 name. Riddy holds his past for him and reads it back nightly. *(newQ4)*
 
 **32.** Zeus ages in public. The Meander fails in the middle of a sentence. His children
-arrive — all six — not to fight, just to watch. *(P2, O15)*
+arrive — the five who are left — not to fight, just to watch. *(P2, O15)*
 
 **33.** Hera takes Olympus and finds it worthless: the throne was a distribution point and
 there is nothing left to distribute. She sits in it anyway, because it is hers. *(O9)*
