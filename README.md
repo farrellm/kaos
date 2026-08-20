@@ -7,6 +7,8 @@ Transcripts and subtitles for all 8 episodes of **KAOS** Season 1 (Netflix 2024,
 ```text
 kaos/
 ├── download_transcripts.py        # Python downloader and processor script
+├── bible/                         # Series bible derived from the transcripts
+├── drafts/                        # Season 2 novelization chapters, in progress
 └── transcripts/
     ├── KAOS_Season_1_Complete.txt # Full season transcript in a single file
     ├── txt/                       # Clean dialogue transcripts (plain text)
@@ -54,7 +56,7 @@ kaos/
 ## Series Bible
 
 Analytical reference built from these transcripts, as groundwork for a Season 2
-novelization. Ten Markdown files in [`bible/`](bible/):
+novelization. Thirteen Markdown files in [`bible/`](bible/):
 
 | File | Contents |
 |---|---|
@@ -74,3 +76,17 @@ novelization. Ten Markdown files in [`bible/`](bible/):
 
 Start with [00-OVERVIEW.md](bible/00-OVERVIEW.md). Claims the show states outright are
 stated plainly; conclusions drawn from implication are marked **(inference)**.
+
+Files `00`–`09` describe Season 1 as broadcast. Files `10`–`12` are groundwork for the
+novelization: `11-S2-CANON.md` records deliberate invention, not evidence, and should
+never be cited as though the show established it.
+
+## Drafts
+
+Season 2 novelization chapters, written against the outline in
+[12-S2-OUTLINE.md](bible/12-S2-OUTLINE.md):
+
+| Chapter | File |
+|---|---|
+| 24 — The Ferryman | [ch24-the-ferryman.md](drafts/ch24-the-ferryman.md) |
+| 28 — The One Who Has to Talk | [ch28-the-one-who-has-to-talk.md](drafts/ch28-the-one-who-has-to-talk.md) |
