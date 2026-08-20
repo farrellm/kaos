@@ -79,7 +79,7 @@ The other thing you should know about is the book.
 
 Caeneus is paying for every soul he brings back, and what he pays in is what's already
 happened to him. It goes backwards and it goes in order. Leos went first. Then the
-compound, then the dog, then the crossing, then his mother — he lost her about six weeks
+compound, then the dog, then the crossing, then his mother — he lost her about a year
 after we got her out, which if you have any sense of proportion at all is the single filthiest
 joke this universe has managed, and it's managed some.
 

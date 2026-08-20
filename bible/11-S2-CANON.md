@@ -214,6 +214,44 @@ old discrepancies in Charon's manifests that he has been complaining about for m
 should surface again when the unresolved rise in Chapter 29 — those men are the precedent for
 a population held out of the river on someone's say-so.
 
+### DC6 — Persephone carries Riddy
+Riddy is alive on Earth from the Season 1 curtain onward and never dies again. Chapter 28
+fixes that beyond argument: she has a flat above a chandler's with a balcony, she waters the
+thyme in the evening so she can tell him what it smells like, and she reads him his own past
+back **every night**. So she is living up here and getting down there regularly, and the
+route has to be named, because the Cave is welded shut from Chapter 5 and the only other
+door is dying.
+
+**The route is Persephone.** She is the one being in the story who crosses as a matter of
+course — Episode 7, unprompted: *I've heard him with Mom when I went to visit.* She is
+already the most decisive rebel among the gods, having released Orpheus against her
+husband's ruling as a deliberate act of war. Making her the resistance's logistics costs
+nothing to invent and pays off the show's own material: the abduction was a manufactured lie
+about her crossing, and the crossing turns out to be the thing Olympus cannot do without.
+
+**It begins because of Chapter 16, and not before.** Riddy identifies the cost, says she will
+need a bigger book, and the arrangement follows from the need. This is also why Chapter 16
+works the way it does — at that point the only channel is Prometheus carrying a question
+down and an answer back, which is the entire mechanism of his demotion. He is the courier
+until a god takes the job off him.
+
+**The span this sits in.** Chapter 28 states it directly — *I've had a year of it now* — so
+Season 2 runs about a year, not the weeks the early chapters' close intervals imply. The
+fixed short counts (eleven days to 13, a fortnight of children before 26, nine days to fit
+the door, eleven days off the river) are all local, with unnarrated gaps between them.
+Caeneus loses his mother in 31, after 28's narrating present, so that loss is about a year
+after she was brought back — not the six weeks the draft originally carried.
+
+*Forces:*
+- The crossings are a favour, not a facility. They are limited, scheduled, and known to a
+  small number of people, which means they are **discoverable** — and being discovered is
+  the jeopardy Part Three should spend rather than a convenience it leans on.
+- Persephone gains a function through Part Three beyond arguing with Hades, and the ledger
+  in Chapter 28 gets its provenance: the book is one of Charon's, and someone with a boat and
+  standing had to hand it over.
+- Riddy never becomes a tourist in the underworld. She goes down to read and comes back up
+  to water the plants, and the smallness of that is the point.
+
 ### DC5 — The Olympian ledger after Chapter 26
 
 | Who | Where, from 26 onward |

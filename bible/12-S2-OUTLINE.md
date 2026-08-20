@@ -164,7 +164,9 @@ they now know is fictional, and there are more of them than there are guards. *(
 **30.** Daedalus's door opens early, badly, and holds. The Nothing begins to drain.
 
 **31.** Caeneus at scale. He works for eleven days and comes out not knowing his mother's
-name. Riddy holds his past for him and reads it back nightly. *(newQ4)*
+name. Riddy holds his past for him and reads it back nightly, crossing with Persephone —
+see [DC6](11-S2-CANON.md). Roughly a year after the curtain — 28 says outright that she
+has had a year of being a prophet, and 31 is later still. *(newQ4)*
 
 **32.** Zeus ages in public. The Meander fails in the middle of a sentence. His children
 arrive — the five who are left — not to fight, just to watch. *(P2, O15)*
