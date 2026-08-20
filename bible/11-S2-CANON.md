@@ -160,6 +160,76 @@ picture.
 
 ---
 
+## Drafting canon
+
+**Also invention, and a weaker grade of it.** D1–D3 above were settled deliberately, against
+the constraints in [05-MYSTERIES.md](05-MYSTERIES.md). What follows was invented at the desk
+while drafting, because a scene needed it. It is recorded here because later chapters must
+honour it, and prose that exists only in a draft file is prose the next chapter will
+contradict.
+
+### DC1 — Alpheus
+The minor god Zeus kills in Chapter 20 to top up the Meander. God of a river in the south
+that silted centuries ago and now has a road along the bed and a bridge over nothing. He kept
+the title because nobody took it off him, came up for family occasions, brought a cake, stood
+slightly outside the group in photographs. Killed on the terrace without a speech, in less
+time than it takes to read about it.
+
+*Forces:* he is the **first** of the old-method kills, so every later one either escalates or
+happens off the page. The month's family dinner is smaller by one and nobody says his name —
+which is the template for how Olympus handles a disappearance, and is repeated with Artemis.
+
+### DC2 — The ask-chain
+Two beings hold the answer and are waiting to be asked, and Prometheus asks neither.
+
+- **Chapter 13.** Charon, at the desk, refuses to speak to him for an hour, then puts the pen
+  down and says: *You haven't asked me anything.* Prometheus takes it home and decides it is
+  grief.
+- **Chapter 25.** Lachesis, asked why she never told him, says: *You didn't ask.* He hears it
+  the second time.
+
+*Forces:* this is the spine of the arc and it is now spent. **No third character may say a
+version of it.** If a scene wants the beat again, the scene is wrong.
+
+### DC3 — The undelivered speech
+Prometheus writes his confession on the ninth day of freedom and goes down on the eleventh.
+Charon does paperwork through the whole of it and it is never delivered. He delivers it in
+Chapter 24 — **unrevised**, still opening "I have been free for eleven days," by then weeks
+out of date.
+
+*Forces:* no chapter may show him improving it, and its staleness in 24 is the measure of how
+little he has moved. Chapter 13 plants the line that makes this legible: *I did not change a
+word of it, in all the time that followed.* It pairs with the second undelivered preparation
+in Chapter 20 — the reassurance about the wrinkle, with the word *foxed* in it, saved a
+fortnight and never asked for.
+
+### DC4 — Ares's army
+Nine hundred dead men, kept out of the river for four centuries on Ares's own authority,
+because nobody in the underworld administration ever audits an Olympian. He was given war and
+is the only member of that family who ever maintained his portfolio. There are supply lines.
+There is a standing order about boots.
+
+*Forces:* this is an unpaid debt against the underworld's own accounting, and it explains the
+old discrepancies in Charon's manifests that he has been complaining about for millennia. It
+should surface again when the unresolved rise in Chapter 29 — those men are the precedent for
+a population held out of the river on someone's say-so.
+
+### DC5 — The Olympian ledger after Chapter 26
+
+| Who | Where, from 26 onward |
+|---|---|
+| **Ares** | North, with Hera, commanding |
+| **Athena** | Olympus. Not speaking to anybody at all |
+| **Apollo** | Olympus. Watched his twin killed four feet away and stayed |
+| **Aphrodite** | Olympus. Said the cruellest true thing in the argument |
+| **Hermes** | Olympus, then on the door of the Nothing from 27, with a chair and a list |
+| **Artemis** | Dead. Killed in 26 for saying she would rather be in the north |
+
+Five living children. The outline's count at 32 — *the five who are left* — depends on this
+table, and Chapter 26's own arithmetic depends on Ares being absent from Olympus.
+
+---
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

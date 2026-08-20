@@ -33,11 +33,11 @@ for as long as I have known him.
 They are extremely good. They come up the west face in the dark, and they take the terrace,
 and they take the house to the second floor, and Poseidon takes the Meander itself and stands
 in it, which is the correct move, which is the move that should have finished it, and for
-about eleven minutes on a Tuesday morning Zeus is standing in his own garden with his wife's
+about ten minutes on a Tuesday morning Zeus is standing in his own garden with his wife's
 son's army between him and everything he owns.
 
 I am on the plateau. I have a view of the west face and no view at all of the garden. I want
-to be exact about the limits of it: I heard the eleven minutes. I did not see them.
+to be exact about the limits of it: I heard the ten minutes. I did not see them.
 
 ---
 
@@ -77,7 +77,7 @@ with her back to the room, which is where she has been standing for a fortnight,
 Apollo puts it to her directly she says, without turning round, that she would rather be in
 the north.
 
-That is what she says. Nine words. She would rather be in the north.
+That is what she says. Seven words. She would rather be in the north.
 
 Zeus is very reasonable about it. He asks her to say it again so that the others can hear it
 properly. She says it again.
@@ -107,8 +107,8 @@ Nobody answers for a very long time, and then Hermes says, "No," and that is the
 argument, and it is the last time anyone in that family raises the question of what to do
 next in the hearing of the man it concerns.
 
-They eat at one. The four of them, and him. Zeus carves, and asks Apollo about a house he is thinking
-of buying, and Apollo answers him — properly, in sentences, with detail about the roof — and
+They eat at one. The four of them, and him. Zeus carves, and asks Apollo about a
+house he is thinking of buying, and Apollo answers him — properly, in sentences, with detail about the roof — and
 that is the thing out of the whole morning that I have not been able to put down since. Not
 the terrace. Not the hands. A young god four hours after his twin was taken out of the world
 in front of him, sitting at a table describing a roof to the man who did it, because the
@@ -122,7 +122,7 @@ done before, and Hermes has been given something to do.
 I was in the long room for the whole of it.
 
 I came in behind Aphrodite at about ten to eleven and I stood by the door and I was there for
-the argument and for the nine words and for what he did with his hands, and I was there when
+the argument and for the seven words and for what he did with his hands, and I was there when
 they went in to eat, and I did not go in.
 
 Nobody addressed me at any point. Not one of them. Not to greet me, not to send me out, not

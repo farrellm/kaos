@@ -120,7 +120,9 @@ him unbearable — turns out to be the only distribution network the resistance 
 
 **20.** Zeus notices the Meander running thin. He goes back to the old method, personally,
 on a minor god who will not be missed. It works. He is calm for the first time in the book.
-*(P2, O5)*
+*(P2, O5)* — **and this is why the absent children come home.** He calls after this, not
+before, and five of the six answer; they are in the house by 24. They return to strength,
+not to an apology. Ares does not come, being in the north with his mother. *(O15)*
 
 **21.** Theseus returns to Ari's service and brings the Trojans with him. Krete and the
 Trojan remnant ally — the first alliance in the story made by humans, without a god

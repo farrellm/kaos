@@ -13,7 +13,7 @@ thing you cannot look into, and it becomes a thing you can — and then the weig
 changes in the glass, and then, last, the taste, which I am told goes from something like
 iron to something like the water in a vase.
 
-Eleven souls had gone back to the world eleven days earlier. Since then, more. Not many
+Eleven souls had gone back to the world at the start of the month. Since then, more. Not many
 against the size of the reservoir, not a tenth of a tenth of it, but the thing about a
 system that has run at a surplus for four thousand years is that nobody has built it a
 gauge, and the first gauge it ever gets is the taste.
@@ -99,7 +99,7 @@ turns out to be nothing. I do not mean he was triumphant. Triumph I have seen an
 account for. Triumph is a mode of fear.
 
 He was *calm*. He sat down at his own table in his own house and ate a peach and told me a
-story about Hercules that I have heard eleven times, and told it badly, and did not care that
+story about Hercules that I have heard a great many times, and told it badly, and did not care that
 he told it badly, and looked out at his garden with the untroubled face of a man who has
 remembered where he put something.
 
@@ -154,8 +154,8 @@ from the table and go on with the day.
 The family occasion that month was smaller by one and nobody said anything.
 
 That is the part I would keep, if you are only keeping one. Not the terrace, not the jacket.
-The following Tuesday there were eleven of them at a long table for a thing about the
-harvest, and there had been twelve, and it went the whole way through — the toasts, the
+The following Tuesday there were nine of them at a long table for a thing about the
+harvest, and there had been ten, and it went the whole way through — the toasts, the
 business, the interminable bit at the end where they ask each other about houses — and not
 one of them said his name.
 
