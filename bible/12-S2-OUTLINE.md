@@ -95,7 +95,9 @@ himself it is grief.
 ---
 
 # PART TWO — THE RESERVOIR
-*Chapters 14–27. Prometheus narrating, with the confidence coming off him a layer at a time.*
+*Chapters 14–27. Prometheus narrating, with the confidence coming off him a layer at a
+time. Which layer comes off when is specified in [the narration ledger](#the-narration-ledger--part-two)
+below; draft against it rather than by feel.*
 
 **14.** The plan gets its name: empty the Nothing. Persephone says it out loud and Hades
 does not object, which is how everyone knows it is real.
@@ -249,6 +251,66 @@ Things the outline refuses to resolve, on purpose:
   discovers that ruling for people is a separate skill she does not yet have.
 - **Orpheus and Riddy do not reconcile.** He gets belief, which is what he wanted. He does
   not get her, which is what he thought he wanted.
+
+## The narration ledger — Part Two
+
+The collapse in Chapter 24 only lands if it is the last step of a slope, not the first
+step of a cliff. Chapter 1 has Prometheus in full command and Chapter 24 has him unable to
+finish a sentence; the fourteen chapters between them have to spend that authority in
+visible increments.
+
+**The principle: he is not eroded by argument. He is eroded by evidence that things happen
+without him.** Each chapter below removes one specific claim, and the order is not
+arbitrary — it runs from the peripheral (he has stopped keeping track of a minor thread) to
+the structural (his theory of Zeus, his belief that his plan is the only one). By the time
+Charon speaks in 24, every load-bearing claim except authorship is already gone, and
+authorship is the only thing left to take.
+
+### The five dials
+
+Each moves in one direction only. A drafter should be able to open any Part Two chapter and
+place it on all five.
+
+| Dial | Ch 14 | Ch 18 | Ch 22 | Ch 24 | Ch 27 |
+|---|---|---|---|---|---|
+| **Possessive on the plan** | "my plan" | "the plan" | "their plan" | "her plan" | no possessive available |
+| **Foreknowledge verb** | "I knew" | "I had assumed" | "I had been told" | "I was told" | "I don't know" |
+| **Address to the reader** | freely, several times | sparingly | twice | once — and it fails | none |
+| **Tense** | past, with foreknowledge | past | past with present intrusions | present, from the break | present |
+| **The staging trick** (place a question, digress, return) | used invisibly | used | used and flagged | named, and burned on the page | unavailable |
+
+### Chapter by chapter
+
+| Ch | Still claims | Quietly drops | Prose tell |
+|---|---|---|---|
+| **14** | Authorship of the whole design | That he named the objective — Persephone does, out loud, and he has to fold her sentence into his account | Still "my plan," but the chapter's central sentence is in someone else's mouth |
+| **15** | That he put the pieces where they are | Any claim to understand the mechanism that just worked | Credit shifts from design to logistics: *I placed her there* is the strongest thing he can say |
+| **16** | Privileged knowledge of his three humans | That he knows them better than they know each other — Riddy spots the cost first, by having listened twice | He learns something about Caeneus from Riddy, and reports it without comment |
+| **17** | Comprehensiveness | That he has been tracking everything | First admission of a gap: he had stopped counting Daedalus, and says so |
+| **18** | Relevance | That divine action is the operative force — the door is human engineering and he cannot contribute to it | No divine verb anywhere in the chapter; he watches people work |
+| **19** | His read on Orpheus | The sharpest character judgment he made in Season 1 — that an ego like that accepts a cosmic purpose without suspecting co-option | He re-quotes his own line about Orpheus and it no longer fits what Orpheus is doing |
+| **20** | His theory of Zeus | That belief drives the prophecy — Zeus does worse and is steadier, which the theory forbids | **The hinge of the slope.** He tells the reader what Zeus will do next, and Zeus does the opposite, on the page |
+| **21** | Necessity | That a god has to broker anything — Krete and the Trojans ally without one | First chapter he narrates entirely secondhand; he was not there |
+| **22** | Singularity | That his is the only plan — the network is older than his imprisonment and never needed him | He counts the room, eleven people, and cannot place a single one |
+| **23** | That waiting is a strategy | That the instruction he was given has no bottom — prophecies are a finite stock | First question he puts to the reader that he cannot then answer |
+| **24** | — | **Authorship.** Charon supplies what Lachesis withheld: the murder was not the plan's price, it was the plan's first operation, performed on him | Address fails mid-gesture — *and there is nobody there* — and the tense goes out from under him |
+| **25** | — | That a correction is available. The Fates have never said an untrue thing to him and do not start now | Present tense throughout; no foreknowledge verbs survive |
+| **26** | — | Participation. Gods fight, a child dies, and he is a witness with no more standing than the reader | Pure report. No first-person plural anywhere |
+| **27** | — | The ability to say what happens next, which is the whole job | Ends on not knowing — which is what hands the narration to Riddy in 28 |
+
+### Three rules while drafting
+
+1. **Monotonic.** He never recovers a layer because a scene would be easier to write with it.
+   If a chapter needs authoritative narration, that is a signal the chapter is misplaced in
+   the sequence, not a licence to lend him confidence back.
+2. **He never names the decline.** Riddy names it in 28, from outside. Any paragraph in
+   which he says *I was losing my grip on this* is the book explaining itself, which
+   [09-VOICE-AND-STYLE.md](09-VOICE-AND-STYLE.md) and the show both forbid.
+3. **The reader should be able to date the collapse to 24 and then, on a reread, find it
+   started at 14.** That is the test. If a rereader cannot point at 20 and say *there* —
+   the theory of Zeus failing a prediction out loud — the slope is too shallow to feel.
+
+---
 
 ## Craft reminders while drafting
 
