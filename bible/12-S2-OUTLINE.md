@@ -99,8 +99,14 @@ himself it is grief.
 time. Which layer comes off when is specified in [the narration ledger](#the-narration-ledger--part-two)
 below; draft against it rather than by feel.*
 
-**14.** The plan gets its name: empty the Nothing. Persephone says it out loud and Hades
-does not object, which is how everyone knows it is real.
+**14.** The plan gets its name in Persephone's office above the port. Four options are live —
+protect the capability, study it, spend it on a few, or trade it to Zeus — and nobody can say
+the fifth until **Ione**, on the Lethe desk, complains that eleven hundred unresolved have
+already heard a woman came back out of the water and she needs a line to give them. Then
+Persephone, silent for forty minutes, says it: **"We empty the Nothing."** That is the
+operation's name from here on; use it. Hades does not object, which is the actual decision —
+he built the Frame and *the dead do not come back* is the one thing he has instead of a
+defence. They have a rota by six.
 
 **15.** The first mass renewal. It works. Eleven souls go back to the world.
 

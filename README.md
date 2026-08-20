@@ -90,6 +90,7 @@ Season 2 novelization chapters, written against the outline in
 |---|---|
 | 1 — The Guest | [ch01-the-guest.md](drafts/ch01-the-guest.md) |
 | 13 — Grief | [ch13-grief.md](drafts/ch13-grief.md) |
+| 14 — The Name of It | [ch14-the-name-of-it.md](drafts/ch14-the-name-of-it.md) |
 | 15 — Volunteers | [ch15-volunteers.md](drafts/ch15-volunteers.md) |
 | 16 — Fotis | [ch16-fotis.md](drafts/ch16-fotis.md) |
 | 20 — The Old Method | [ch20-the-old-method.md](drafts/ch20-the-old-method.md) |
