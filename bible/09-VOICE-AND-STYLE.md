@@ -3,6 +3,9 @@
 Craft notes for the novelization: how this world sounds, how it is narrated, and which of
 its effects are load-bearing rather than decorative.
 
+For working authors who have solved these same problems, and what to take from each, see
+[10-INFLUENCES.md](10-INFLUENCES.md).
+
 ---
 
 ## The narrator

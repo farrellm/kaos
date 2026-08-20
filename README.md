@@ -68,6 +68,7 @@ novelization. Ten Markdown files in [`bible/`](bible/):
 | [07-UNDERWORLD.md](bible/07-UNDERWORLD.md) | The bureaucracy of death |
 | [08-EARTH-POLITICS.md](bible/08-EARTH-POLITICS.md) | Krete, Troy, the Amazons, Athens |
 | [09-VOICE-AND-STYLE.md](bible/09-VOICE-AND-STYLE.md) | Narration, tonal register, dialogue idiom, structural habits |
+| [10-INFLUENCES.md](bible/10-INFLUENCES.md) | Authorial models for the novelization, by craft problem |
 
 Start with [00-OVERVIEW.md](bible/00-OVERVIEW.md). Claims the show states outright are
 stated plainly; conclusions drawn from implication are marked **(inference)**.
