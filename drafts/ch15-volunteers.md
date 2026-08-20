@@ -16,7 +16,7 @@ into operation on a Wednesday in a corridor under the world, and it did not work
 They had picked the soul carefully. That was Hades. He had been into the Nothing four times
 that week, which is four more times than in the preceding two centuries, and he came out
 each time greyer and with more notes, and what he had settled on was a woman about ninety
-years dead, from a fishing town, chosen on the grounds that she was near the front, that she
+years dead, from a town in the hills, chosen on the grounds that she was near the front, that she
 had been in there a comparatively short time, and that nothing about her was complicated.
 
 They took Caeneus down. Medusa went, and Persephone, and I went, and Hades stood at the door
@@ -58,7 +58,7 @@ carried it.
 
 And she wanted to come back **to him**. Specifically. A named person she was going towards.
 
-The woman ninety years dead from the fishing town wanted nothing. She had had it taken out of
+The woman ninety years dead from the hill town wanted nothing. She had had it taken out of
 her. That is what the Frame does — not kill, exactly; it makes an unwanting thing, and you
 cannot carry a thing that is not going anywhere, and there is nothing for a man to hold.
 
@@ -118,7 +118,7 @@ it, including him. And Adrian said, "Right, well. That's the good bit, isn't it,
 Prue's list, and went to work, and was on shift at the turnstiles that afternoon as usual.
 
 They took eleven in the end. Not because eleven was a target — they had thirty-one on the
-list by the Thursday — but because eleven was what the day held before it became obvious
+list by the Monday — but because eleven was what the day held before it became obvious
 that the day had held enough.
 
 ---
@@ -180,7 +180,7 @@ And she said, "Fewer than eleven."
 
 ---
 
-I went up on the Friday to tell Riddy, because somebody had to and because I wanted to be
+I went up the next morning to tell Riddy, because somebody had to and because I wanted to be
 the one, which I did not examine at the time.
 
 I had it arranged on the way. I had the number and I had Adrian and I had the thing about
@@ -202,7 +202,7 @@ do fewer next time, and Medusa had stopped watching the water and started watchi
 
 And she went quiet for a while and then asked me when I was next going down.
 
-I said Sunday.
+I said Saturday.
 
 She said, "Right," and did not tell me why she wanted to know, and I did not ask, and I went
 back to Olympus that evening and thought about eleven people in a canteen and not once, in

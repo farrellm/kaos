@@ -214,6 +214,90 @@ old discrepancies in Charon's manifests that he has been complaining about for m
 should surface again when the unresolved rise in Chapter 29 — those men are the precedent for
 a population held out of the river on someone's say-so.
 
+### DC5 — The Olympian ledger after Chapter 26
+
+| Who | Where, from 26 onward |
+|---|---|
+| **Ares** | North, with Hera, commanding |
+| **Athena** | Olympus. Not speaking to anybody at all |
+| **Apollo** | Olympus. Watched his twin killed four feet away and stayed |
+| **Aphrodite** | Olympus. Said the cruellest true thing in the argument |
+| **Hermes** | Olympus, then on the door of the Nothing from 27, with a chair and a list |
+| **Artemis** | Dead. Killed in 26 for saying she would rather be in the north |
+
+Five living children. The outline's count at 32 — *the five who are left* — depends on this
+table, and Chapter 26's own arithmetic depends on Ares being absent from Olympus.
+
+### DC6 — Persephone carries Riddy
+Riddy is alive on Earth from the Season 1 curtain onward and never dies again. Chapter 28
+fixes that beyond argument: she has a flat above a chandler's with a balcony, she waters the
+thyme in the evening so she can tell him what it smells like, and she reads him his own past
+back **every night**. So she is living up here and getting down there regularly, and the
+route has to be named, because the Cave is welded shut from Chapter 5 and the only other
+door is dying.
+
+**The route is Persephone.** She is the one being in the story who crosses as a matter of
+course — Episode 7, unprompted: *I've heard him with Mom when I went to visit.* She is
+already the most decisive rebel among the gods, having released Orpheus against her
+husband's ruling as a deliberate act of war. Making her the resistance's logistics costs
+nothing to invent and pays off the show's own material: the abduction was a manufactured lie
+about her crossing, and the crossing turns out to be the thing Olympus cannot do without.
+
+**It begins because of Chapter 16, and not before.** Riddy identifies the cost, says she will
+need a bigger book, and the arrangement follows from the need. This is also why Chapter 16
+works the way it does — at that point the only channel is Prometheus carrying a question
+down and an answer back, which is the entire mechanism of his demotion. He is the courier
+until a god takes the job off him.
+
+**The span this sits in.** Chapter 28 states it directly — *I've had a year of it now* — so
+Season 2 runs about a year, not the weeks the early chapters' close intervals imply. The
+fixed short counts (eleven days to 13, a fortnight of children before 26, nine days to fit
+the door, eleven days off the river) are all local, with unnarrated gaps between them.
+Caeneus loses his mother in 31, after 28's narrating present, so that loss is about a year
+after she was brought back — not the six weeks the draft originally carried.
+
+*Forces:*
+- The crossings are a favour, not a facility. They are limited, scheduled, and known to a
+  small number of people, which means they are **discoverable** — and being discovered is
+  the jeopardy Part Three should spend rather than a convenience it leans on.
+- Persephone gains a function through Part Three beyond arguing with Hades, and the ledger
+  in Chapter 28 gets its provenance: the book is one of Charon's, and someone with a boat and
+  standing had to hand it over.
+- Riddy never becomes a tourist in the underworld. She goes down to read and comes back up
+  to water the plants, and the smallness of that is the point.
+
+### DC7 — The network, as it actually is
+Established in Chapter 22, and the answer to newQ2.
+
+- **Ekhi** chairs it. She runs the fishmonger's on the harbour road in Heraklion and has run
+  the room above it for twenty-two years. Cassandra defers to her the way you defer to
+  someone whose house it is. Cassandra is the network's centre; she is not its chair, which
+  is what a structure that survives generations looks like.
+- **Fourteen members** in the room. Ordinary: a man with a bad chest who gets the last bus,
+  two sisters who do not sit together, a boy of about nineteen who keeps the notes.
+- **They keep, they do not interpret.** A prophecy belongs to the person it was written for
+  and is nearly always misread by them, and four hundred years of experience says the
+  misreading is where the damage lives. So: hold the words exactly, deliver them to the right
+  person at the right hour, then shut up. This is why they never corrected Prometheus. It
+  would have been against procedure.
+- **Two forms of storage.** A shelf of books in a cupboard, and memory, because books burn.
+  Every prophecy is also in at least three heads, and the boy is tested on Thursdays.
+- **It predates Troy**, and therefore predates Prometheus's imprisonment. He was free when it
+  started.
+- **Procedure logs visitors.** Prometheus consents to being written down — name, date,
+  attendance, not counsel — because that is the procedure and has been for four centuries.
+
+*Forces:*
+- *Today's the day* is confirmed on the page as operational vocabulary: a member says "Today's
+  not the day" across the room about a woman in a village, in the tone of a bus time, and
+  Riddy hears it and understands what she has been part of.
+- **Caeneus's mother's entry exists in the cupboard**, in her own hand, with the wait recorded
+  and a later hand confirming she accepted it. Riddy reads it and now carries the fact that
+  the betrayal was assigned work. Caeneus does not know. Whether and when she tells him is a
+  live decision for Part Three, and it is hers, not Prometheus's — he says so himself.
+- Hecuba and Andromache are nodes elsewhere in the same structure, which means Dionysus is
+  inside the human resistance without knowing it exists.
+
 ### DC8 — Prophecy stopped, and the room's second procedure
 Established in Chapter 23. Answers newQ3 and newQ6 as far as Part Two is allowed to.
 
@@ -289,90 +373,6 @@ wife of forty-one years, and asks only whether she will be all right.
 - The first hairline of the cost shows here and is not named: he is slow by the ninth, in the
   way a man is slow at the end of a day of moving furniture. Medusa stops watching the water
   and starts watching him. Nobody says anything. Riddy identifies it in 16.
-
-### DC7 — The network, as it actually is
-Established in Chapter 22, and the answer to newQ2.
-
-- **Ekhi** chairs it. She runs the fishmonger's on the harbour road in Heraklion and has run
-  the room above it for twenty-two years. Cassandra defers to her the way you defer to
-  someone whose house it is. Cassandra is the network's centre; she is not its chair, which
-  is what a structure that survives generations looks like.
-- **Fourteen members** in the room. Ordinary: a man with a bad chest who gets the last bus,
-  two sisters who do not sit together, a boy of about nineteen who keeps the notes.
-- **They keep, they do not interpret.** A prophecy belongs to the person it was written for
-  and is nearly always misread by them, and four hundred years of experience says the
-  misreading is where the damage lives. So: hold the words exactly, deliver them to the right
-  person at the right hour, then shut up. This is why they never corrected Prometheus. It
-  would have been against procedure.
-- **Two forms of storage.** A shelf of books in a cupboard, and memory, because books burn.
-  Every prophecy is also in at least three heads, and the boy is tested on Thursdays.
-- **It predates Troy**, and therefore predates Prometheus's imprisonment. He was free when it
-  started.
-- **Procedure logs visitors.** Prometheus consents to being written down — name, date,
-  attendance, not counsel — because that is the procedure and has been for four centuries.
-
-*Forces:*
-- *Today's the day* is confirmed on the page as operational vocabulary: a member says "Today's
-  not the day" across the room about a woman in a village, in the tone of a bus time, and
-  Riddy hears it and understands what she has been part of.
-- **Caeneus's mother's entry exists in the cupboard**, in her own hand, with the wait recorded
-  and a later hand confirming she accepted it. Riddy reads it and now carries the fact that
-  the betrayal was assigned work. Caeneus does not know. Whether and when she tells him is a
-  live decision for Part Three, and it is hers, not Prometheus's — he says so himself.
-- Hecuba and Andromache are nodes elsewhere in the same structure, which means Dionysus is
-  inside the human resistance without knowing it exists.
-
-### DC6 — Persephone carries Riddy
-Riddy is alive on Earth from the Season 1 curtain onward and never dies again. Chapter 28
-fixes that beyond argument: she has a flat above a chandler's with a balcony, she waters the
-thyme in the evening so she can tell him what it smells like, and she reads him his own past
-back **every night**. So she is living up here and getting down there regularly, and the
-route has to be named, because the Cave is welded shut from Chapter 5 and the only other
-door is dying.
-
-**The route is Persephone.** She is the one being in the story who crosses as a matter of
-course — Episode 7, unprompted: *I've heard him with Mom when I went to visit.* She is
-already the most decisive rebel among the gods, having released Orpheus against her
-husband's ruling as a deliberate act of war. Making her the resistance's logistics costs
-nothing to invent and pays off the show's own material: the abduction was a manufactured lie
-about her crossing, and the crossing turns out to be the thing Olympus cannot do without.
-
-**It begins because of Chapter 16, and not before.** Riddy identifies the cost, says she will
-need a bigger book, and the arrangement follows from the need. This is also why Chapter 16
-works the way it does — at that point the only channel is Prometheus carrying a question
-down and an answer back, which is the entire mechanism of his demotion. He is the courier
-until a god takes the job off him.
-
-**The span this sits in.** Chapter 28 states it directly — *I've had a year of it now* — so
-Season 2 runs about a year, not the weeks the early chapters' close intervals imply. The
-fixed short counts (eleven days to 13, a fortnight of children before 26, nine days to fit
-the door, eleven days off the river) are all local, with unnarrated gaps between them.
-Caeneus loses his mother in 31, after 28's narrating present, so that loss is about a year
-after she was brought back — not the six weeks the draft originally carried.
-
-*Forces:*
-- The crossings are a favour, not a facility. They are limited, scheduled, and known to a
-  small number of people, which means they are **discoverable** — and being discovered is
-  the jeopardy Part Three should spend rather than a convenience it leans on.
-- Persephone gains a function through Part Three beyond arguing with Hades, and the ledger
-  in Chapter 28 gets its provenance: the book is one of Charon's, and someone with a boat and
-  standing had to hand it over.
-- Riddy never becomes a tourist in the underworld. She goes down to read and comes back up
-  to water the plants, and the smallness of that is the point.
-
-### DC5 — The Olympian ledger after Chapter 26
-
-| Who | Where, from 26 onward |
-|---|---|
-| **Ares** | North, with Hera, commanding |
-| **Athena** | Olympus. Not speaking to anybody at all |
-| **Apollo** | Olympus. Watched his twin killed four feet away and stayed |
-| **Aphrodite** | Olympus. Said the cruellest true thing in the argument |
-| **Hermes** | Olympus, then on the door of the Nothing from 27, with a chair and a list |
-| **Artemis** | Dead. Killed in 26 for saying she would rather be in the north |
-
-Five living children. The outline's count at 32 — *the five who are left* — depends on this
-table, and Chapter 26's own arithmetic depends on Ares being absent from Olympus.
 
 ---
 
