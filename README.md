@@ -70,6 +70,7 @@ novelization. Ten Markdown files in [`bible/`](bible/):
 | [09-VOICE-AND-STYLE.md](bible/09-VOICE-AND-STYLE.md) | Narration, tonal register, dialogue idiom, structural habits |
 | [10-INFLUENCES.md](bible/10-INFLUENCES.md) | Authorial models for the novelization, by craft problem |
 | [11-S2-CANON.md](bible/11-S2-CANON.md) | Decisions settled for the Season 2 novelization (invention, not evidence) |
+| [12-S2-OUTLINE.md](bible/12-S2-OUTLINE.md) | Forty-chapter Season 2 outline, with a thread-resolution ledger |
 
 Start with [00-OVERVIEW.md](bible/00-OVERVIEW.md). Claims the show states outright are
 stated plainly; conclusions drawn from implication are marked **(inference)**.

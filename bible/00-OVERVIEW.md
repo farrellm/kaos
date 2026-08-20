@@ -26,6 +26,7 @@ draws a conclusion the show implies but never says out loud, it is marked
 | [09-VOICE-AND-STYLE.md](09-VOICE-AND-STYLE.md) | Narration, tone, dialogue idiom, needle-drop logic |
 | [10-INFLUENCES.md](10-INFLUENCES.md) | Authors who solved the same craft problems, and what to take from each |
 | [11-S2-CANON.md](11-S2-CANON.md) | **Invention, not evidence** — decisions settled for the novelization |
+| [12-S2-OUTLINE.md](12-S2-OUTLINE.md) | **Invention, not evidence** — forty-chapter outline, with a resolution ledger |
 
 ---
 

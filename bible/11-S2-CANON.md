@@ -162,7 +162,9 @@ picture.
 
 ## New questions this opens
 
-Live problems for the drafting stage, deliberately unsettled:
+Live problems for the drafting stage. Each is now placed in
+[12-S2-OUTLINE.md](12-S2-OUTLINE.md) — see its resolution ledger — but the answers
+remain provisional until drafted:
 
 1. **Does Prometheus learn what he was, and from whom?** The cruellest available source is
    Charon, who has known since before he died that he was killed for a reason his lover
