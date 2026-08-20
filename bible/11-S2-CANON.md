@@ -251,6 +251,45 @@ sitting on the shape of the largest crime in the world without seeing it.
 - It converts Prometheus's four thousand years of patience from discipline into expenditure,
   which is the claim he drops in 23 — see the ledger.
 
+### DC9 — How renewal actually works, and why it does not scale
+Established in Chapter 15. This is the operational half of [D3](#d3--caeneus-renews-souls-because-he-is-the-only-being-who-has-ever-genuinely-done-it),
+worked out on the page by failing first.
+
+**It takes three parties, not one.**
+1. **A soul with a direction in it.** Caeneus's mother worked because she *wanted to come
+   back*, to a named person, and had spent ten years arranging to be in that water on that
+   day. The Frame's function is to remove exactly this: it does not destroy a soul, it makes
+   an unwanting thing. There is nothing for a man to hold.
+2. **Someone who is still coming for them.** A person in Asphodel stands in the shallows and
+   says who they are — their own name, then the dead one's, then something particular — until
+   a direction appears. Nobody designed this. Adrian did it at the first one because he did
+   not know what else to do, and it turned out to be necessary.
+3. **Caeneus, who carries it.** He does not generate it and does not make it. He takes hold
+   of something already pointing and carries it across. Write him as labour, not as a source.
+
+**Therefore the work scales by the grief, not by the renewer.** The only souls in the Nothing
+that can be reached are those with somebody in Asphodel still waiting — which is most of
+them, because *everyone in Asphodel is waiting for someone* (Medusa, E2), and that is the
+condition of a two-hundred-year sentence.
+
+**The price is paid by the volunteer.** A renewed soul goes into a life on Earth as somebody
+new. It does not come back to Asphodel, does not remember, will never know. The person who
+waited sixty or ninety years gives that face away permanently in exchange for nothing.
+Medusa takes the offer to them herself and does not dress it. Adrian volunteers first, for a
+wife of forty-one years, and asks only whether she will be all right.
+
+*Forces:*
+- **Prue cannot participate.** She is not waiting for anyone — she says so cheerfully on the
+  dock in E2 — so she organises the room, does the chairs and the list and the notice, and is
+  ineligible for the only thing happening. Do not have her volunteer later.
+- **This is the problem Daedalus's door solves in 30**: something that lets one man's capacity
+  serve a reservoir, rather than one grief at a time.
+- Eleven is not a target. It is what the day held before it became obvious the day had held
+  enough, and Persephone ends it by saying they should do fewer next time.
+- The first hairline of the cost shows here and is not named: he is slow by the ninth, in the
+  way a man is slow at the end of a day of moving furniture. Medusa stops watching the water
+  and starts watching him. Nobody says anything. Riddy identifies it in 16.
+
 ### DC7 — The network, as it actually is
 Established in Chapter 22, and the answer to newQ2.
 
