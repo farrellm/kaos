@@ -25,6 +25,7 @@ draws a conclusion the show implies but never says out loud, it is marked
 | [08-EARTH-POLITICS.md](08-EARTH-POLITICS.md) | Krete, Troy, the Amazons, Athens |
 | [09-VOICE-AND-STYLE.md](09-VOICE-AND-STYLE.md) | Narration, tone, dialogue idiom, needle-drop logic |
 | [10-INFLUENCES.md](10-INFLUENCES.md) | Authors who solved the same craft problems, and what to take from each |
+| [11-S2-CANON.md](11-S2-CANON.md) | **Invention, not evidence** — decisions settled for the novelization |
 
 ---
 

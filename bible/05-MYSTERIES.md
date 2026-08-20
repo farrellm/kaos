@@ -140,7 +140,12 @@ vague.
 
 The real Season 2 workload. Ordered by structural importance.
 
+> **O1, O2 and O6 have been settled for the novelization.** The decisions live in
+> [11-S2-CANON.md](11-S2-CANON.md); the constraints below stay put as the audit trail
+> those decisions had to satisfy. Everything else here is still open.
+
 ### O1. Who is Cassandra working for, and how does she keep finding Riddy?
+**Settled — see [D2 in 11-S2-CANON.md](11-S2-CANON.md).**
 **Evidence.** E1: arrested for stealing cat food, ranting that the gods steal souls and
 that she warned Troy about the horse. She tells Riddy today's the day, that she will
 leave everyone, and that her love is dead — and is present again at the crash. E8: waiting
@@ -161,6 +166,7 @@ resistance. (d) She was at Troy, which ties her to Hecuba, Andromache and Nax �
 connection the show sets up and never uses.
 
 ### O2. Who visited Prometheus, and whose plan is this?
+**Settled — see [D1 in 11-S2-CANON.md](11-S2-CANON.md).**
 **Evidence.** E5, before his imprisonment. An unseen speaker knocks, chides him for not
 answering the door, tells him it is not his fate to kill Zeus, that he must kill Charon,
 that he must regain Zeus's trust and submit to his punishment, and that there is a greater
@@ -219,6 +225,7 @@ come to pass. A Zeus who genuinely stopped believing would be safe — which mea
 prophecy's completion requires that he cannot stop.
 
 ### O6. Why can Caeneus renew souls?
+**Settled — see [D3 in 11-S2-CANON.md](11-S2-CANON.md).**
 **Evidence.** E5: he physically feels Hades extracting Nax; Riddy, standing next to him,
 feels nothing. E8: he goes into the Lethe after his mother and she comes back. Hades
 witnesses it and names it: *you can renew human souls.* Prometheus, watching, expected
