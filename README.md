@@ -88,5 +88,6 @@ Season 2 novelization chapters, written against the outline in
 
 | Chapter | File |
 |---|---|
+| 1 — The Guest | [ch01-the-guest.md](drafts/ch01-the-guest.md) |
 | 24 — The Ferryman | [ch24-the-ferryman.md](drafts/ch24-the-ferryman.md) |
 | 28 — The One Who Has to Talk | [ch28-the-one-who-has-to-talk.md](drafts/ch28-the-one-who-has-to-talk.md) |
