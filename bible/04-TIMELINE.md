@@ -57,7 +57,7 @@ and was a small child at the fall)**.
 
 | When | Event |
 |---|---|
-| ~30+ years ago | Poseidon installs Minos as president of Krete after the previous incumbent proves headstrong and ends up dead. Three rules: it's all on loan, I put you here, and please me and I'll make you immortal. First task: release a lion into the Heraklion zoo's city. |
+| ~30+ years ago | Poseidon installs Minos as president of Krete after the previous incumbent proves headstrong and ends up dead. Three rules: it's all on loan, I put you here, and please me and I'll make you immortal. First task: let the lion out of the Heraklion zoo, because it will eat people and be fun. |
 | Same meeting | Minos confesses his prophecy forbids children. Poseidon's fix: have twins and kill the firstborn. |
 | ~30 years ago | Ari and Glaucus are born. Glaucus first, quiet and blue; Ari second, screaming. |
 | Days or weeks later | Minos orders Daedalus — already his prisoner — to kill Glaucus, threatening Icarus. Daedalus takes the baby but does not kill him. |
@@ -91,8 +91,9 @@ and was a small child at the fall)**.
 
 ## Season 1 — the present
 
-The season spans roughly **three to five days** **(inference: dialogue tracks "last
-night," "today," and "tonight" continuously, with no stated gaps)**.
+The season spans roughly **six days**, enumerated below **(inference: dialogue tracks
+"last night," "today," and "tonight" continuously, with no stated gaps, so the day
+boundaries are reconstructed rather than stated)**.
 
 ### Day 1 — Olympia Day
 Zeus finds the wrinkle and the Meander blip. The monument is desecrated by the Trojan 7.

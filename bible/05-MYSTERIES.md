@@ -347,7 +347,11 @@ phone — and, given O9, for who might be raising troops.
 - **Dennis.** Killed to make a point. Dionysus's grief over him is the hinge of his defection.
 - **Fotis** — "light" — left with Charon, and Caeneus promised to visit.
 - **Theseus**, last seen in Episode 3, a Trojan operative inside the palace of a dead president.
-- **Calli**, Orpheus's mother, who told him to bring Riddy back and whom Persephone offered to visit.
+- **Calli**, who manages Orpheus's schedule in Episode 1 and is never seen again. The show
+  does not establish whether she is family or staff. She is *not* the woman at the Cave who
+  says *bring him back* — in context that is Anatole's wife, about their son
+  **(inference)**. Persephone separately offers to visit Orpheus's mother, who never
+  appears.
 - **Agatha**, who lived to die and, at the water, thought of everything she hadn't done.
 - **The bees** — the mothers of Zeus's children, burned. Dionysus never learned which one was his.
 - **Hercules's watch**, twice-lucky, now on a burned Fate's wrist.

@@ -76,7 +76,8 @@ to a game show; Zeus's children don't answer the phone.
 **Beats**
 1. Cold open, ten years earlier: a young bartender is recognized by Amazon women as
    *Caenis*, told he has dishonored the gods and his tribe, and shot dead with a
-   crossbow at his mother's word.
+   crossbow. His mother is present — he says *Mom?* as he dies — but that she gave the
+   order is **(inference)**; Episode 4 shows Hippolyta firing the shot.
 2. Orpheus wakes hungover with Dionysus in his kitchen. They must move before Riddy
    goes through the Frame.
 3. The ferry across the Styx, and Hades's orientation video: death is the only
@@ -303,9 +304,10 @@ breaking. Caeneus's inexplicable sensitivity to soul-extraction.
 the system is breaking and is struck by lightning for it.
 
 **Beats**
-1. Caeneus tells Riddy how he left the Amazons: his friend Leos came back and was killed,
-   along with Sofie, the woman who sheltered him;
-   his mother named him Caeneus and told him to go; her own prophecy had foretold a boy.
+1. Caeneus tells Riddy how he left the Amazons: his friend Leos came back and was killed;
+   Sofie, the woman who had harbored him, is left wailing and reminded that she knew the
+   rules; his mother named him Caeneus and told him to go; her own prophecy had foretold a
+   boy.
    They agree they hate the gods. They kiss.
 2. Charon leaves Orpheus at the wilderness — the final test, which nobody has ever reached.
 3. Persephone dresses Hades for the confrontation. The Nothing is overloaded; that's why
