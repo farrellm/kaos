@@ -134,9 +134,13 @@ fishmonger's, holding prophecies between them going back four hundred years — 
 cupboard's entry for Caeneus's mother and learns the betrayal was assigned work. *(D2)*
 *(Fourteen, not eleven: 28 already has "eleven people listening" for a different group.)*
 
-**23.** And the problem with the network: prophecies are a stock, not a supply. Zeus abolished
-fate, the Fates are content to let him believe it, and what these eleven people hold is
-everything anyone will ever have. *(newQ3, newQ6)*
+**23.** And the problem with the network: prophecies are a stock, not a supply. Nothing has
+arrived since the night of the fire — Ekhi keeps the intake in pencil on the inside of the
+cupboard door, and the last stroke is eight months old. Prometheus tells them the Fates are
+alive, which makes it worse: it means the stopping is not damage. *(newQ3)* Riddy, reading
+the shelf, puts four prophecies on the table together that are nonsense if Renewal is real —
+the room has held them for centuries and never assembled them, because assembling is
+interpretation and they do not interpret. *(newQ6)*
 
 **24.** Charon tells Prometheus what he was. Not out of cruelty — because he has known since
 before he died and has been waiting to be asked. **The narration breaks here**, mid-account,

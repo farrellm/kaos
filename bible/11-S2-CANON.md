@@ -214,6 +214,43 @@ old discrepancies in Charon's manifests that he has been complaining about for m
 should surface again when the unresolved rise in Chapter 29 — those men are the precedent for
 a population held out of the river on someone's say-so.
 
+### DC8 — Prophecy stopped, and the room's second procedure
+Established in Chapter 23. Answers newQ3 and newQ6 as far as Part Two is allowed to.
+
+**Nothing has arrived since the night Zeus burned the Fates.** The network's intake runs at
+roughly one new prophecy a quarter and has for four centuries; Ekhi keeps it in pencil on the
+inside of the cupboard door, which is older than the shelf. The last stroke is eight months
+old. Two members walk the southern routes to rule out a delivery failure; it is not one.
+
+**Nobody knows where prophecies come from.** *They arrive* is the network's whole theory
+after four hundred years, and the book should not improve on it. The mechanism stays
+unexplained.
+
+**Prometheus tells them the Fates are alive**, which is the one useful thing he contributes,
+and it makes the situation worse rather than better: if the writers walked out of the fire and
+the writing stopped anyway, the stopping is a decision or a consequence, not a murder — and
+neither can be fixed by winning. Ekhi gets there before he does.
+
+*Reserved for Chapter 37:* **why** it stopped. The cause is that a thread cannot be written
+truthfully while one being is hoarding the futures threads are made from. Nobody may state
+this in Part Two. The room is permitted to reach "it isn't damage" and stop.
+
+**newQ6 — the network half-knew.** There are prophecies in that cupboard, held between ninety
+and three hundred years, that are nonsense if Renewal is real and plain sense if it is not.
+Riddy finds four by putting them on the table side by side. Nobody had, because that is
+interpretation, and the room's oldest rule is that they keep and do not interpret — which is
+exactly why the words are uncorrupted after four centuries, and exactly why they have been
+sitting on the shape of the largest crime in the world without seeing it.
+
+*Forces:*
+- Ekhi changes four hundred years of practice between one agenda item and the next, and asks
+  Riddy to write the second procedure. Riddy is now the network's interpreter, which is the
+  job Cassandra's curse makes impossible for Cassandra.
+- The network has a finishing date. When the last living holder's prophecy has been
+  delivered, it is done. Nobody in the room says this twice.
+- It converts Prometheus's four thousand years of patience from discipline into expenditure,
+  which is the claim he drops in 23 — see the ledger.
+
 ### DC7 — The network, as it actually is
 Established in Chapter 22, and the answer to newQ2.
 
