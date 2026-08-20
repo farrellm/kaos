@@ -92,6 +92,7 @@ Season 2 novelization chapters, written against the outline in
 | 13 — Grief | [ch13-grief.md](drafts/ch13-grief.md) |
 | 16 — Fotis | [ch16-fotis.md](drafts/ch16-fotis.md) |
 | 20 — The Old Method | [ch20-the-old-method.md](drafts/ch20-the-old-method.md) |
+| 22 — Above the Fishmonger's | [ch22-above-the-fishmongers.md](drafts/ch22-above-the-fishmongers.md) |
 | 24 — The Ferryman | [ch24-the-ferryman.md](drafts/ch24-the-ferryman.md) |
 | 25 — The Correction | [ch25-the-correction.md](drafts/ch25-the-correction.md) |
 | 26 — The Argument | [ch26-the-argument.md](drafts/ch26-the-argument.md) |

@@ -214,6 +214,38 @@ old discrepancies in Charon's manifests that he has been complaining about for m
 should surface again when the unresolved rise in Chapter 29 — those men are the precedent for
 a population held out of the river on someone's say-so.
 
+### DC7 — The network, as it actually is
+Established in Chapter 22, and the answer to newQ2.
+
+- **Ekhi** chairs it. She runs the fishmonger's on the harbour road in Heraklion and has run
+  the room above it for twenty-two years. Cassandra defers to her the way you defer to
+  someone whose house it is. Cassandra is the network's centre; she is not its chair, which
+  is what a structure that survives generations looks like.
+- **Fourteen members** in the room. Ordinary: a man with a bad chest who gets the last bus,
+  two sisters who do not sit together, a boy of about nineteen who keeps the notes.
+- **They keep, they do not interpret.** A prophecy belongs to the person it was written for
+  and is nearly always misread by them, and four hundred years of experience says the
+  misreading is where the damage lives. So: hold the words exactly, deliver them to the right
+  person at the right hour, then shut up. This is why they never corrected Prometheus. It
+  would have been against procedure.
+- **Two forms of storage.** A shelf of books in a cupboard, and memory, because books burn.
+  Every prophecy is also in at least three heads, and the boy is tested on Thursdays.
+- **It predates Troy**, and therefore predates Prometheus's imprisonment. He was free when it
+  started.
+- **Procedure logs visitors.** Prometheus consents to being written down — name, date,
+  attendance, not counsel — because that is the procedure and has been for four centuries.
+
+*Forces:*
+- *Today's the day* is confirmed on the page as operational vocabulary: a member says "Today's
+  not the day" across the room about a woman in a village, in the tone of a bus time, and
+  Riddy hears it and understands what she has been part of.
+- **Caeneus's mother's entry exists in the cupboard**, in her own hand, with the wait recorded
+  and a later hand confirming she accepted it. Riddy reads it and now carries the fact that
+  the betrayal was assigned work. Caeneus does not know. Whether and when she tells him is a
+  live decision for Part Three, and it is hers, not Prometheus's — he says so himself.
+- Hecuba and Andromache are nodes elsewhere in the same structure, which means Dionysus is
+  inside the human resistance without knowing it exists.
+
 ### DC6 — Persephone carries Riddy
 Riddy is alive on Earth from the Season 1 curtain onward and never dies again. Chapter 28
 fixes that beyond argument: she has a flat above a chandler's with a balcony, she waters the

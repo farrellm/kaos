@@ -128,8 +128,11 @@ not to an apology. Ares does not come, being in the north with his mother. *(O15
 Trojan remnant ally — the first alliance in the story made by humans, without a god
 brokering it. *(O12, O16)*
 
-**22.** Cassandra takes Riddy to meet the network: eleven people in a room above a
-fishmonger's, holding prophecies between them going back four hundred years. *(D2, newQ2)*
+**22.** Cassandra takes Riddy to meet the network: fourteen people in a room above a
+fishmonger's, holding prophecies between them going back four hundred years — the chair is
+**Ekhi**, who runs the shop below, and Cassandra defers to her *(newQ2)*. Riddy finds the
+cupboard's entry for Caeneus's mother and learns the betrayal was assigned work. *(D2)*
+*(Fourteen, not eleven: 28 already has "eleven people listening" for a different group.)*
 
 **23.** And the problem with the network: prophecies are a stock, not a supply. Zeus abolished
 fate, the Fates are content to let him believe it, and what these eleven people hold is
