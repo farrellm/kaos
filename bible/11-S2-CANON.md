@@ -736,6 +736,54 @@ it is a tidy sort of place, having lost the habit of the specific.
 - She ends the chapter counting, which is what she has done at every table for four thousand
   years. What is new is that she now knows there is more than she thought there was.
 
+### DC18 — Krete after Minos, and why Riddy cannot get a hearing
+Established in Chapter 3.
+
+**The doctrine cannot process the succession.** *The gods choose who rules* is Krete's
+constitutional position, not a sentiment, and it is why there has never been a vote. A
+president stabbed by his own heir breaks it three ways at once. The priesthood's answer, after
+four days of bad-tempered meetings, is that Minos was **called** — summoned by Olympus in a
+manner not given to men to understand — and his daughter placed by the same hand. Nobody
+thinks it is a good answer. It has the only quality anyone was shopping for, which is that it
+requires nothing to change.
+
+**He gets the full rite**, coin and choir and *the Renewal of all human souls*, in front of
+two hundred thousand people, exactly one of whom knows where he is actually going.
+
+**Riddy's obstacle is not access, it is that she is dead.** She died in the street at a
+concert in front of thousands, there was a funeral, and the song is still sung nightly. She is
+recognised eleven times in six days and it holds none of them: people say *you're the image
+of*, she says it's me, and they laugh — kindly — and one man says "That's not funny, my sister
+loved her," and a woman gives her money. **Nobody calls her a liar all week**, which she says
+would have been easier. A very well-established fact is not damaged by someone contradicting
+it in front of you; the person is.
+
+**The Orpheus option, refused.** One sentence from him ends the recognition problem, because
+what that man says about that woman is believed in Krete the way rain is believed. She will
+not have it. Prometheus reads it as pride, then as tenderness, and is pleased with the second.
+Her actual answer: *"If he says it, it's his."* **This is DC11 sixteen chapters early**, and
+he does not understand it until he is standing at the back of a square in a later year.
+
+**The tacita apparatus is abandoned, not ended** — the payoff of Hera leaving without a single
+one of them in Chapter 2. The booths still open on the hour, the attendants still say the
+words, people still come in numbers and confess the worst things they have done, and there is
+now nobody at the other end. Four thousand years those went to a woman on a mountain who used
+them, which was monstrous and was at least a use. Now they stop in the room. Nobody has told
+the tacitas and there is no mechanism by which anybody would.
+
+*Forces:*
+- **Riddy's mother is alive and still in the booth.** Riddy tells her everything — the coin,
+  the water, the Nothing, no Renewal — in about four minutes and badly, then puts a pen in her
+  hand. Her mother writes: ***Did it hurt?*** She understood all of it. There was something
+  nearer.
+- Prometheus's response is to make an operational note about tacitas as a distribution
+  network, which is a sound note that Ekhi later agrees with, and which is the wrong thing to
+  have said. He flags on the page that this will keep happening and will eventually happen to
+  him.
+- **Ari and Riddy are thirty yards apart at the funeral** and do not meet for another five
+  weeks. Riddy spends the minute trying to work out whether Ari believes the words she is
+  reading, cannot tell, and finds that encouraging.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

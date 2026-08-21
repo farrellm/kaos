@@ -90,6 +90,7 @@ Season 2 novelization chapters, written against the outline in
 |---|---|
 | 1 — The Guest | [ch01-the-guest.md](drafts/ch01-the-guest.md) |
 | 2 — Gather the Troops | [ch02-gather-the-troops.md](drafts/ch02-gather-the-troops.md) |
+| 3 — The Booth | [ch03-the-booth.md](drafts/ch03-the-booth.md) |
 | 13 — Grief | [ch13-grief.md](drafts/ch13-grief.md) |
 | 14 — The Name of It | [ch14-the-name-of-it.md](drafts/ch14-the-name-of-it.md) |
 | 15 — Volunteers | [ch15-volunteers.md](drafts/ch15-volunteers.md) |
