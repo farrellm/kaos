@@ -535,7 +535,8 @@ genuinely *built* was built by a mortal who charged for it.
 the grievers have to stand in the Nothing to be heard, so the number is not the rock, it is
 how many human beings can be asked to walk into the worst place that has ever existed and say
 a name at one of the people standing up in it. His estimate: the first forty are the hardest,
-and after that it either stops entirely or does not stop at all. **This is what 29 answers.**
+and after that it either stops entirely or does not stop at all. **30 answers it, not 29** —
+the drafted 29 went to the Stoppage and never got to the forty.
 
 **Two years, if nothing goes wrong.** Hand tools only — no blasting near a structure nobody
 can characterise — short shifts, dead crews. Asked for an eight-month version he says there
@@ -1278,6 +1279,101 @@ person who is told.*
   never says which**, and nobody may establish it later.
 - Apollo packing by leaving one bag out for a fortnight rhymes with Artemis's unpacked bag in
   [DC25](#dc25--the-strike-on-olympus-and-the-five-things-it-fixed). Neither text remarks on it.
+
+### DC28 — The channel opens, and the nineteen days
+Established in Chapters 30 and 31. Between them they close O13 and answer newQ4, and they are
+the last of the underworld's machinery the book has to build.
+
+**The Nothing goes by absence, not collapse.** On the Sunday there is a room whose end you
+cannot see; on the Monday you can, and it is four hundred yards nearer. No noise, no fall.
+Whatever was in the part that is not there **is not anywhere** — not dead, not in the river,
+not in Asphodel. Hades stands at that end for a day with a lamp and says he cannot tell whether
+they were destroyed or moved and will not guess in front of people. It goes again four days
+later, less. **This is the ticking clock from Episode 6 finally going off**, and he had been
+right about it for four thousand years and put in a swimming pool for saying so, and on the
+week it happens he is the only person down there who is not surprised and is no use at all.
+Riddy does not hold that against him and neither should the prose.
+
+**Persephone decides it in about a minute and a half.** She asks Daedalus which of the several
+bad versions is least bad — standing in front of him, not by messenger — and he takes a day and
+says: the last nineteen feet at speed, lose the stepping at the far end, go in at a worse fall
+than he wants, and it will probably come down at the third bend, and he can say where and not
+when. She looks at Hades. He says nothing. She writes it down.
+
+**The fall, on the ninth day, at the third bend.** Three men under it: Aristeas, Kimon, and
+**Bakkhos**, who had been on the working since the beginning and was in the argument about the
+lamps. ***They are dead, so nothing happens to them.*** They are conscious under forty feet of
+rock and will still be conscious in four hundred years if nobody gets them out. Two came out in
+nineteen days. **Bakkhos is still there.** He is on one of Prue's sheets with a date, Daedalus
+has a plan to reach him from another side, and every few months somebody goes and knocks so
+that the knocking is still happening. Nobody knows whether he can hear it. *Do not resolve
+this, and do not use it for pathos anywhere else — one paragraph, in 30, and then it is simply
+a thing that is true in the background of the rest of the book.*
+
+**Nobody lets the water in.** You do not open a channel; you cut it to a fall, the rock gets
+thin, and the river finds out. It is irreversible from the first second. Twelfth day: a wet
+patch, then a run, then a foot of water moving slowly. By the second week the floor of the
+Nothing is the shallow end of the river.
+
+**It was not forty.** Caeneus's estimate in 18 — the first forty are the hardest, and after
+that it either stops entirely or it does not stop at all — is answered on a Tuesday when four
+hundred and some turn up. **They come because of the dock**: two hundred thousand people spent
+twenty-three days in the autumn finding out that they were the ones who did everything and that
+nothing happened when they stopped, and you do not un-learn that. The steel door that took nine
+days to fit stands open at the end of the corridor with nobody in front of it. **Prue reads the
+list out and then stops reading the list out** — *once people have decided a thing needs doing
+your whole job is to stop getting in their way and make sure there's tea.* **Melite**, fourth
+sector, ninety-odd years waiting for a brother, goes in first with her shoes in her hand; the
+hard part is not the walk or the people, it is that you have to say the particular thing out
+loud and there is no way of doing that quietly. She asks to come back on the Thursday for
+somebody else's.
+
+**Nineteen days, something over eight thousand, and it does not show.** The number for how long
+the whole of it would take was worked out on the back of a relief sheet and **Riddy refuses to
+reproduce it**, because it assumed he would still be doing it and everybody in that water knew
+by the fourth day that he would not.
+
+**Losses are not clean, and 28's order is the tidy version.** Riddy says so and explicitly
+declines to go back and correct it. A thing goes and some of it stays; the story goes and the
+feeling stays a month; worst of all, the feeling goes and the shape is still in there, so he
+laughs in the right place at a story about a man he cannot identify. **The last piece of a
+thing can outlive the thing by a season.** Refines
+[DC9](#dc9--how-renewal-actually-works-and-why-it-does-not-scale).
+
+**She stopped being able to keep up.** A second ledger, out of order, never reconciled, and
+three or four days in that stretch where she did not get there in time and whatever it was is
+written down nowhere and is gone, **because the only record of it was him.**
+
+**What the nineteen days took was the ten years** — the port, the turnstiles, the dogs, which of
+the three jokes he used on the ones who were angry, standing slightly to the left of people, the
+smell of wet rope. And Prue, to whom he is now perfectly nice. Prue's entire comment on this is
+that she has had sixty-one years of being the person people are perfectly nice to and would
+rather have him here being nice than not have him, and then she went and did the chairs. **If
+any later chapter gives Prue a speech, it is wrong.** The cruelty is specific and 31 names it:
+those ten years were the only stretch of his life he chose, and they are the stretch that paid.
+
+**Medusa asks and Riddy does not.** On the fourteenth day Medusa says he will do it until there
+is nothing left, that he will not stop, and that Riddy is the only person he would stop for.
+Riddy gives her the numbers; Medusa says she knows the numbers and is asking her to tell him
+anyway. **Riddy does not, and the reason is not the arithmetic** — it is that she has spent her
+whole death being the one who says the true thing nobody acts on, and here was the one thing
+that was actually moving, and she was not going to be the one who put a hand up. Medusa says
+"All right," goes back to the platform, and never mentions it again.
+
+*Forces:*
+- **The name, and the book's one withholding.** Reading the mother's page, Riddy says the name
+  and he says "Who's that?" — interested, not upset — and then, gently, *"Sorry — is it
+  important?"* She realises she has never written it down, out of a superstition she would have
+  denied: writing a thing in that book means it is gone. She goes up, Ekhi gets the entry out of
+  the cupboard, and she copies the name onto the flyleaf under the one thing he wrote in there
+  himself.
+- ***She refuses to print it, and says so.*** This is the single exception to her promise in 28
+  that the reader can have the lot, she names it as an exception, and she gives the reason: it
+  is his, he has not got it, and three places is enough places. **It is four syllables and no
+  chapter may ever supply it** — 40 does not, and must not.
+- 22 is adjusted to match: Prometheus declines to print the name there too, and says outright
+  that Caeneus still has it and says it easily and that it is one of about four things of hers
+  he has left. That is a plant, not a leak.
 
 ## New questions this opens
 

@@ -126,9 +126,9 @@ way that people who work together always end up with a phrase.
 
 The cupboard has an entry for Caeneus's mother.
 
-It is not long. It gives her name, which I am not going to put here because he does not
-currently know it and the order in which he finds things out has stopped being mine to
-arrange. It gives the prophecy she carried for her child, in full, in her own hand. It gives
+It is not long. It gives her name, which I am not going to put here. Not because he has lost
+it — he has it, and says it easily, and it is one of about four things of hers he still has.
+Because the order in which he finds things out has stopped being mine to arrange. It gives the prophecy she carried for her child, in full, in her own hand. It gives
 the date she was told the boy would have to die, and by whom, and it gives — in a different
 hand, added later — the date she was told to wait, and the length of the wait, and a single
 line confirming she had accepted it.

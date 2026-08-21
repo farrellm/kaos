@@ -85,7 +85,7 @@ Forty thousand people got the truth from a man who wasn't allowed to help them.
 
 On the sixth day they started putting people through the Frame.
 
-I'm going to do this bit plainly. Zeus had taken the City of the Dead in the autumn and it was
+I'm going to do this bit plainly. Zeus had taken the City of the Dead at the curtain and it was
 his, and he had somewhere between four and six hundred people down there who worked for him
 directly, and he told them to clear the dock, and clearing the dock means one thing, and they
 did it.
