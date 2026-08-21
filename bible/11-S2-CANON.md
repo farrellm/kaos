@@ -595,6 +595,59 @@ a dock. There was no interdiction. There was Adrian.
   because he has not been able to feel them since the spring.
 - The name is Prue's, unconsidered, in her head, because that is what it was.
 
+### DC15 — Renewing Zeus
+Established in Chapter 36. Closes P2 and O5. The book's thesis performed as an action, so the
+handling matters more here than anywhere else.
+
+**Nobody kills him, and the chapter says so outright.** The supply stopped in 29; the Meander
+failed mid-sentence in the winter in front of five of his children. By spring he is a very
+large old man in a house with a lot of rooms who has started asking people what day it was.
+
+**The griever is Prometheus.** This is the payoff of the whole arc: renewal requires someone
+still coming for the soul, and the only being in the universe still coming for Zeus is the man
+whose entire failure was that he loved him and could not do it. **His weakness is the
+qualification.** Nothing in the prose may say this; the reader assembles it.
+
+**What he says in the water**, and it is short: his own name, then Zeus's, then that he was
+born mortal, that his father was Kronos, that he had a brother given death and a brother given
+the sea, and a wife who is also his sister and would not go into the west wing. Then: *when
+you were a boy your father ran over your dog with a cart, and you loved her back to life, and
+she stayed with you the rest of her life, and that was the first one, and you have never done
+it since.* Hestia is from E2, along with Zeus's own answer to it: *This is true.* The first
+renewal in the story is Zeus's own, on a dog, before he learned to take.
+
+**Consent is necessary and insufficient.** Agreement is not the same as wanting — a soul that
+has consented and is not pointed at anything is indistinguishable from one out of the Nothing.
+Zeus asks one question, whether it will hurt, is told nobody knows, and says "All right."
+
+**He is not one soul.** Kronos, everyone taken by hand, then four thousand years of drinking
+the rest. Hades puts it in the hundreds of thousands and then says he would rather not guess.
+So it is restitution, not execution: what comes out goes into the river and through the
+channel into the room, where the ordinary rota is working through it the whole four hours.
+Some of it had been in there since before Troy.
+
+**What is left is one mortal life, owed nothing** — born four days later to a woman on the
+north coast who is on Prue's list. Nobody will ever tell him and nobody is going to check. He
+is not punished and not forgiven, because there is nobody left in him to do either to.
+
+*Forces:*
+- **Hera comes**, unasked, on the crew-change ferry, stands at the back, refuses a chair,
+  speaks to no one, and leaves at the third hour — the only person who leaves. She had a
+  hundred chances at him and took none. Riddy states she cannot make it fit and has stopped
+  trying, and explicitly does not call it love. Do not resolve this later; Hera is not seen
+  again.
+- **This is where Caeneus loses Riddy**, in the same water, in the same afternoon. He is
+  pleasant to her, asks whether she has come far, and says he is a bit slow after, and had
+  they met. She promised in 28 not to make a speech about it and does not: she finishes the
+  shift, because there were four hundred still to bring back that afternoon and the rota does
+  not care.
+- Prue walks her back afterwards talking at length about a problem with the lamps, and knows
+  exactly what she is doing, having been doing it for sixty-one years.
+- Charon takes Zeus across and reports saying nothing to him — *he's a fare* — then admits
+  Zeus tried to pay, had nothing, went through his pockets twice in front of everybody, and
+  that this was the worst minute of Charon's four thousand years. He asks Riddy not to put it
+  in. She puts it in.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in
