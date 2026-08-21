@@ -138,13 +138,13 @@ What they needed was somebody who would spend four thousand years arranging ever
 And the only way to get four thousand years of arranging out of a man is to make sure he can
 never take the short way. Not by stopping him. By choosing one who cannot.
 
-She told me. She told me in a drained swimming pool in the autumn with a pencil behind her ear
+She told me. She told me in a drained swimming pool in the spring with a pencil behind her ear
 and I wrote it down and did not read it: that the reason it had to be Charon is that it had to
 be somebody I could not do it to twice.
 
 I heard that as being about Charon.
 
-It was the whole of my job description and I have been carrying it in a notebook since October.
+It was the whole of my job description and I have been carrying it in a notebook since April.
 
 ---
 

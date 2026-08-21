@@ -14,7 +14,7 @@ And he said there wasn't an and.
 They put on a tenth every quarter. That is the rhythm of the thing and has been for longer
 than the room has existed — a new one arrives, it goes in the cupboard, it goes into three
 heads, the youngest holder takes the newest because he will have it longest. He had been
-waiting since the spring for his tenth and none had come, and he had assumed, because he is
+waiting since the autumn for his tenth and none had come, and he had assumed, because he is
 nineteen, that he had done something wrong.
 
 Ekhi went into the cupboard.

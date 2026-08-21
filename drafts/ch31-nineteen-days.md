@@ -12,8 +12,8 @@ The dead don't sleep. I want to explain that properly because people hear it as 
 and it isn't one. You lie down because lying down is what you did when you were alive and the
 routine is most of what keeps you a person; you get up because there's a shift. Nothing in you
 insists. There is no mechanism anywhere in the underworld that makes anybody stop doing
-anything, which is the same fact as *nobody can be forced*, seen from the other side, and
-which is why it took them four hundred years to notice they had a workforce.
+anything, which is the same fact as *nobody can be forced*, seen from the other side, and which
+is why it took them four hundred years to notice they had a workforce.
 
 So there was nothing to make him stop except a person telling him to.
 
@@ -51,11 +51,12 @@ Eight thousand.
 You cannot see eight thousand.
 
 That's the thing I have never worked out how to make anybody understand, up here or down there.
-Eight thousand people went back into the world in nineteen days — eight thousand babies over the
-following two years, on Prue's list, on three continents, none of whom will ever know anything
-about any of this — and you go and stand at the door of that room afterwards and it looks
-exactly the same as it did. The floor is water now. The far end still isn't there. And there
-are still several hundred thousand people standing up in it and no god will give you a number.
+Eight thousand people went back into the world in nineteen days — eight thousand babies over
+the following two years, on Prue's list, on three continents, none of whom will ever know
+anything about any of this — and you go and stand at the door of that room afterwards and it
+looks exactly the same as it did. The floor is water now. The far end still isn't there. And
+there are still several hundred thousand people standing up in it and no god will give you a
+number.
 
 Hades won't guess. He has never once guessed and I've stopped asking.
 
@@ -63,8 +64,8 @@ So the arithmetic is: nineteen days, eight thousand, and it doesn't show.
 
 Somebody in that corridor worked out how long the whole of it would take at the rate of those
 nineteen days, and wrote the number on the back of a relief sheet, and I have seen the sheet
-and I'm not going to reproduce it, because the number assumes he would still be doing it, and
-by the fourth day everybody standing in that water knew he would not be.
+and it is a number about a man rather than about a room: it assumes he would still be doing it,
+and by the fourth day everybody standing in that water knew he would not be.
 
 The real rate is whatever it is once you take him out of it and put a rota in, and it is a
 fraction, and it has been running for two years now and will go on running after everybody in
@@ -79,12 +80,12 @@ Now the book.
 
 I said earlier that it goes backwards and in order — Leos first, then the compound, then the
 dog, then the crossing, then his mother. That's what I had at the time and it's the tidy
-version and I'm not going back to change it, because the way it actually goes is the thing I
-want to tell you.
+version. It stays where it is, because the way it actually goes is the thing I want to tell
+you.
 
 It isn't clean. A thing goes and then some of it stays. The story goes and the feeling stays
-for a month. Or the feeling goes and the shape of it is still in there, which is the worst
-one, because he laughs in the right place at a story about a man he can't identify.
+for a month. Or the feeling goes and the shape of it is still in there, which is the worst one,
+because he laughs in the right place at a story about a man he can't identify.
 
 And the last piece of a thing can sit there for a very long time after the thing itself has
 gone.
@@ -107,7 +108,8 @@ That's the part I'd give you if you only took one thing out of this chapter. It 
 page and a half. He was losing faster than I could write, and I was writing in the margins and
 on the backs of the previous pages and eventually on a second ledger which is not in order and
 which I have never managed to reconcile, and there are three or four days in that stretch where
-I simply did not get there in time and whatever it was is not written down anywhere and is gone.
+I simply did not get there in time and whatever it was is not written down anywhere and is
+gone.
 
 I don't know what they were. That's the point. I can't know, because the only record of them
 was him.
@@ -117,7 +119,7 @@ was him.
 What went in the nineteen days was the ten years.
 
 The whole decade. The port, the turnstiles, the five lines, the dogs — he'd already lost Fotis
-in the autumn, which we knew about, but this was the job itself. How to do it. Which of the
+in the spring, which we knew about, but this was the job itself. How to do it. Which of the
 three jokes to use on the ones who are angry. Standing slightly to the left of people. The
 smell of wet rope.
 
@@ -139,9 +141,9 @@ and it is the stretch that paid.
 
 On the fourteenth day Medusa came and found me.
 
-She has been watching him since the first eleven, which I didn't know at the time and which
-she told me that afternoon. She said she stopped watching the water in the autumn a year ago
-and started watching him, and that she had not said anything for a year because she is not his
+She has been watching him since the first eleven, which I didn't know at the time and which she
+told me that afternoon. She said she stopped watching the water in the autumn a year ago and
+started watching him, and that she had not said anything for a year because she is not his
 mother and because everything he was doing was working.
 
 Then she said: he'll do it until there's nothing left, and he will not stop, and you're the
@@ -185,8 +187,8 @@ got it right. She shot herself the night they buried him without a coin, and she
 years at a port in the dark because it had to be the right day, and I read that out and he
 listened the way he listens.
 
-And then, because it was the end of the page and because I have done it a hundred times, I
-said her name.
+And then, because it was the end of the page and because I have done it a hundred times, I said
+her name.
 
 And he said: "Who's that?"
 
@@ -200,8 +202,8 @@ important?"
 And I sat there and I realised I had never written it down.
 
 Not once. Not in the ledger and not in the margins and not in the second one that isn't in
-order. I had written down that she waited and what she did and what it cost him, and I had never
-put her name on a page in two years, and I have thought about why and the answer is not
+order. I had written down that she waited and what she did and what it cost him, and I had
+never put her name on a page in two years, and I have thought about why and the answer is not
 complicated. Writing a thing in that book means it's gone. It's a book of things that are gone.
 And I had a superstition about it, which I would have denied if you had asked me at the time,
 and which cost the one thing I might actually have been able to keep.
@@ -224,8 +226,8 @@ And at the top of it, in her own writing, it gives her name.
 Ekhi put the kettle on and left me with it and did not ask what it was for, which is the single
 best thing anybody did for me that year.
 
-I copied it onto the flyleaf of the ledger, at the front, under the one thing he wrote in
-there himself.
+I copied it onto the flyleaf of the ledger, at the front, under the one thing he wrote in there
+himself.
 
 ---
 
@@ -237,9 +239,9 @@ make me look bad, including the fourteenth day.
 
 This is the one thing you don't get.
 
-It isn't mine. It's his, and he hasn't got it, and I'm keeping it in a book above a fishmonger's
-and on a flyleaf and in my head, and those are the three places it exists in the world, and
-that's enough places.
+It isn't mine. It's his, and he hasn't got it, and I'm keeping it in a book above a
+fishmonger's and on a flyleaf and in my head, and those are the three places it exists in the
+world, and that's enough places.
 
 You've been patient with me and I'm sorry. It's four syllables. It isn't anything.
 

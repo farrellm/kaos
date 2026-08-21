@@ -1375,6 +1375,39 @@ that was actually moving, and she was not going to be the one who put a hand up.
   that Caeneus still has it and says it easily and that it is one of about four things of hers
   he has left. That is a plant, not a leak.
 
+### DC29 — What kaos turns out to mean
+Supersedes the outline's original beat for Chapter 38, which said *the end of management —
+people die and go back and nobody administers it.* **The drafted book argues the opposite and
+argues it everywhere**: Prue's clipboard and the nine days of listing in 29, the forty-minute
+reliefs and the rota that closes 30, the second queue on the north side in 31, and 31's flat
+verdict that a rate you can sustain *is not a tragedy, that is what work is.* Administration is
+this book's spine and it is the thing the dead turn out to be good at. A chapter claiming
+nobody administers anything would contradict thirty-two chapters.
+
+**The definition: kaos is not the absence of order, it is order that nobody owns.**
+
+The gods called it chaos because from where they were standing, any arrangement they were not
+skimming from looked like collapse — and the fourth clause was never a prophecy of catastrophe.
+It describes what a world looks like when the people doing the work also decide what the work
+is for. Zeus was frightened of it for two years because he could not tell the difference
+between his own end and the end of everything, which is a confusion every god in this story
+has, and which is the same mistake Poseidon's sea makes visible in
+[DC26](#dc26--the-winter-32-33-and-34): the portfolios were titles, and nothing underneath them
+ever depended on the holder.
+
+**It is demonstrated, not argued.** 38 pays the promise Riddy makes in 30 — *I have been in
+there once, since, and I will do it properly somewhere else* — by putting her in the Nothing,
+in the water, with the reopened port around her: no ferry fare, Medusa running it, Hades
+working it. That arrangement is the definition, and 40 is already looking at it.
+
+*Forces:*
+- **The port moves out of 39**, which was carrying seven threads and is now carrying five.
+- **Three chapters in a row must not say the same thing.** 37 has *nobody was ever going to be
+  on our side*; 40 has *I never convinced anybody*; 38 is the only one of the three that is
+  about the world rather than about her, and it has to stay that way.
+- The word *kaos* appears in only two drafted chapters — Caeneus's mother saying it in the
+  river in 4, and Riddy reciting her own prophecy in 37. The ground is clean.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

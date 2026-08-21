@@ -63,7 +63,7 @@ He listened to all of that the way you'd listen to a story about a cousin — pr
 politely, with his head slightly on one side. And when I'd finished he said, "That's very
 sad," and I said yes, and he said, "Did he keep the dog long?"
 
-Fourteen years. I told him fourteen years.
+Ten years. I told him ten years.
 
 He said that was a good run for a dog, and looked pleased, and that's the sort of thing that
 happens now. He gets the shape and not the weight. Sometimes that seems like a mercy and I've

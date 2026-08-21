@@ -12,14 +12,14 @@ week.
 Ekhi took the pencil out from behind her ear and made a mark on the inside of the door.
 
 That's the chapter. I could stop there and I'm going to keep going for about nine pages, but I
-want it on the record that the whole of what happened is a woman making a pencil mark on a
-door in a room over a fish shop, and that everybody in that room understood exactly what it
-meant and nobody said anything.
+want it on the record that the whole of what happened is a woman making a pencil mark on a door
+in a room over a fish shop, and that everybody in that room understood exactly what it meant
+and nobody said anything.
 
 ---
 
-I went to see them about it because somebody had to and because I'd stopped being frightened
-of them somewhere around the winter.
+I went to see them about it because somebody had to and because I'd stopped being frightened of
+them somewhere around the winter.
 
 They're in the municipal baths on the north side. Drained since before the war, full of
 pigeons, card table set up in the deep end. That's where they were when Prometheus went and
@@ -35,7 +35,7 @@ Lachesis said, "Oh good, it's the one who asks."
 ---
 
 I'll give you the exchange because I said I'd give you everything, and because I've been told
-since that I should have written it up properly and I'm not going to.
+since that I should have written it up properly, and it is better like this.
 
 I asked whether they'd stopped on purpose.
 
@@ -59,8 +59,8 @@ Right. I'm going to do this once, flatly, and then we'll get on.
 A prophecy is written about a life. Not predicted — **written**, which is what they've been
 telling anybody who asked for four thousand years and which everybody has heard as poetry.
 
-And what a life is made of, as far as I can follow it, is what's available to it. The shapes
-it could take. That's the material. That's what's on their table.
+And what a life is made of, as far as I can follow it, is what's available to it. The shapes it
+could take. That's the material. That's what's on their table.
 
 Zeus had it.
 
@@ -69,19 +69,19 @@ wanting taken out, and he had been taking them for four thousand years, and it t
 past some point you cannot keep drawing that much of it out of the world and have there
 continue to be enough of it left to write with.
 
-So they stopped. Not in protest. Not as a strike, which is the version that got about and
-which I've had to correct nine times. They stopped the way a mill stops, and they went and sat
-in a drained swimming pool for a year and a half because there was nothing to do, and they let
-Zeus think he'd done it, because it cost them nothing and because they've never in their
-existence corrected anybody about anything.
+So they stopped. Not in protest. Not as a strike, which is the version that got about and which
+I've had to correct nine times. They stopped the way a mill stops, and they went and sat in a
+drained swimming pool for a year and a half because there was nothing to do, and they let Zeus
+think he'd done it, because it cost them nothing and because they've never in their existence
+corrected anybody about anything.
 
 I asked how they get out.
 
 That's the bit nobody in the network has ever known and it's the bit I actually wanted. Four
 hundred years of holding prophecies and the whole of Ekhi's theory of where they come from is
 *they arrive*. So I asked. It's written on a table in a drained swimming pool by three women
-with a pencil, and then somehow it is in a woman in a village who has never heard of any of
-us, and I would like to know what happens in between.
+with a pencil, and then somehow it is in a woman in a village who has never heard of any of us,
+and I would like to know what happens in between.
 
 Clotho said, "Yes."
 
@@ -113,15 +113,15 @@ large old man walking down to a port on his own feet.
 
 Working conditions.
 
-I sat with that on the way back and I've sat with it since and I want to be careful not to
-make it bigger than it is, because the temptation is to be bitter about it and I don't think
-bitter is right. They're not cruel. They're not kind either. They're the people whose job it
-is to write down what's true, and for a year and a half they couldn't, and now they can, and
-they're pleased, in the way you're pleased when the thing you're good at is available again.
+I sat with that on the way back and I've sat with it since and I want to be careful not to make
+it bigger than it is, because the temptation is to be bitter about it and I don't think bitter
+is right. They're not cruel. They're not kind either. They're the people whose job it is to
+write down what's true, and for a year and a half they couldn't, and now they can, and they're
+pleased, in the way you're pleased when the thing you're good at is available again.
 
-Nobody was ever going to be on our side. That's the actual finding. Not against us — that
-would be something, you can work with against. There was simply never anybody up there whose
-business was us.
+Nobody was ever going to be on our side. That's the actual finding. Not against us — that would
+be something, you can work with against. There was simply never anybody up there whose business
+was us.
 
 Caeneus said that in a room under the world before I'd properly met him, in different words,
 and I didn't take it in at the time because I was busy being dead.
@@ -134,8 +134,8 @@ I'm not sure it's good.
 
 Prophecy is back and everyone in that room over the fish shop is delighted, and I sat through
 the meeting where they discussed the second procedure and how the intake would be handled and
-whether the routes in the south still worked, and I said the right things and went home and
-sat on the balcony.
+whether the routes in the south still worked, and I said the right things and went home and sat
+on the balcony.
 
 Because look at what they do to people.
 
@@ -154,8 +154,8 @@ of what they are, and what people do with a true thing is not the fault of the t
 then she said the sentence I've decided to keep, which is: "It's not for their good. It's just
 what's so."
 
-I asked whether she'd rather have the year and a half back, when nothing was written and
-nobody was told anything.
+I asked whether she'd rather have the year and a half back, when nothing was written and nobody
+was told anything.
 
 She said no, immediately, and then thought about it for a long time, and then said no again,
 slightly differently.
@@ -187,12 +187,12 @@ water in front of him who could not swim.
 
 The boy got his tenth in the spring.
 
-He'd had nine by heart since before I met him and had been waiting for the tenth since a
-spring two years earlier and had spent most of that time quietly certain he'd done something
-wrong. He's twenty-one now. He's got a coat that fits and he's stopped calling Ekhi ma'am.
+He'd had nine by heart since before I met him and had been waiting for the tenth for the better
+part of two years and had spent most of it quietly certain he'd done something wrong. He's
+twenty-one now. He's got a coat that fits and he's stopped calling Ekhi ma'am.
 
-They gave it to him on a Thursday, which is when he's tested, and he took it away and had it
-by the evening the way he always does.
+They gave it to him on a Thursday, which is when he's tested, and he took it away and had it by
+the evening the way he always does.
 
 It's four lines about a woman in a village up the coast who has no idea, and who will not be
 told for years, and might never be, depending on how it reads when the time comes. He said it

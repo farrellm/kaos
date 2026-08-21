@@ -4,9 +4,9 @@
 
 There is no throne.
 
-I want to get that out of the way because everybody I have ever told this to has a picture,
-and the picture has a throne in it, and there isn't one and there never was. That's a human
-idea. We put a chair in it because we needed somewhere for the power to be sitting.
+I want to get that out of the way because everybody I have ever told this to has a picture, and
+the picture has a throne in it, and there isn't one and there never was. That's a human idea.
+We put a chair in it because we needed somewhere for the power to be sitting.
 
 What's actually up there is a house. A big white one with a pool and a terrace and a peacock
 and a long room with a long table in it, and forty staff, and a river running through the
@@ -27,21 +27,25 @@ parts in that order.
 
 She came up the road.
 
-Same as the spring. On her own feet, in daylight this time, with Ares behind her and Poseidon
-behind him and about forty people who were not soldiers, because the soldiers weren't the
-point of this trip.
+Same as the spring. On her own feet, in daylight this time, with Poseidon behind her and about
+forty people who were not soldiers, because the soldiers weren't the point of this trip.
+
+Her son was already in the house. He'd come down on his own a fortnight earlier, on foot,
+without telling her he was going, and she found that out when she walked into the hall and he
+was standing in it. Neither of them has ever said a word to me about that and I've asked them
+both.
 
 Nobody was on the gate. There has never been anybody on the gate. That house has never in its
 existence had a guard on it, because for four thousand years the idea of walking up to it was
-not a thing that occurred to anybody, and that turns out to be the entire security
-arrangement, and it had held.
+not a thing that occurred to anybody, and that turns out to be the entire security arrangement,
+and it had held.
 
 She went in through her own front door for the second time in a year and this time she did not
 leave.
 
-I've heard people call it a siege. There was no siege. She spent a year in a valley in the
-north building a position, and she came down and put her bags in a room, and by the end of the
-week she was signing things.
+I've heard people call it a siege. There was no siege. She spent fifteen months in a valley in
+the north building a position, and she came down and put her bags in a room, and by the end of
+the week she was signing things.
 
 ---
 
@@ -53,8 +57,8 @@ He was delighted.
 
 He came out when he heard the cars and he was, by every account including Prometheus's and
 including hers, straightforwardly pleased. He told the staff she'd come back. He said it that
-day and he said it the following week and he was still saying it in the spring, and there is
-no version of the winter in which anybody corrected him, because what would you say.
+day and he said it the following week and he was still saying it in the spring, and there is no
+version of the winter in which anybody corrected him, because what would you say.
 
 She didn't correct him either.
 
@@ -78,11 +82,11 @@ around and the reason there are forty staff and a peacock, and it is a ditch.
 **The cities.** Every city on Earth, taken personally by her husband in the summer, on the
 grounds that Poseidon was lazy. There had been no reports in a year, because reports were
 Poseidon's and Poseidon was in the north being fed out of her son's kitchen. She found the
-correspondence in the west room in a wooden tray and it was a year deep and none of it had
-been opened.
+correspondence in the west room in a wooden tray and it was a year deep and none of it had been
+opened.
 
-So in her second week she wrote to them. All of them. In her own hand, because that is what
-she does when she means it.
+So in her second week she wrote to them. All of them. In her own hand, because that is what she
+does when she means it.
 
 Nothing came back.
 
@@ -101,8 +105,8 @@ done. Nobody stopped it when she left in the summer. There's no mechanism by whi
 would.
 
 So she went up to her own bathroom, which her husband broke his oath to get into and which
-nearly ended the marriage, and she opened the cabinet, and the drawers were all still there
-and the whole apparatus still worked perfectly. She sat and listened to a few.
+nearly ended the marriage, and she opened the cabinet, and the drawers were all still there and
+the whole apparatus still worked perfectly. She sat and listened to a few.
 
 And they were exactly what they had always been. A man about his brother. A woman about a
 child. Somebody about money. The private truth of the mortal world, coming in at the rate it
@@ -110,9 +114,9 @@ comes in, which is constant, because people do not stop.
 
 And it did nothing for her.
 
-It's not that she'd gone off it. It's that what those confessions were *for* was knowing
-things a man in this house did not know, and having them when she needed them, and the man in
-this house was downstairs asking the staff what day it was. She had an intelligence network of
+It's not that she'd gone off it. It's that what those confessions were *for* was knowing things
+a man in this house did not know, and having them when she needed them, and the man in this
+house was downstairs asking the staff what day it was. She had an intelligence network of
 several hundred thousand people and there was no longer anybody to have it about.
 
 She shut the cabinet. As far as I know she has never opened it again, and the booths are still
@@ -136,10 +140,10 @@ home.
 Poseidon came with her and I should say what he did there, because in about a month he isn't
 going to be doing anything.
 
-Everybody expected one thing and got another. The whole of Olympus and a fair proportion of
-the underworld had spent a year assuming that the moment those two were in a building without
-Zeus standing over it they'd be conducting it in the open, and that the taking of the house
-was really about that.
+Everybody expected one thing and got another. The whole of Olympus and a fair proportion of the
+underworld had spent a year assuming that the moment those two were in a building without Zeus
+standing over it they'd be conducting it in the open, and that the taking of the house was
+really about that.
 
 They weren't. They didn't. As far as I can establish — and I asked, and I asked her, and she
 answered it the way she answers things — that was over, and had been over since before the
@@ -147,9 +151,9 @@ spring, and neither of them appears to have decided it.
 
 What it had been was two people getting something out of the same arrangement, and the
 arrangement was that there was a man on that mountain who had everything and gave nothing, and
-being in a bed with the person he had it all off was a way of taking a piece of it back.
-When he stopped having everything, it stopped being that. It was just two very old people who
-knew each other extremely well.
+being in a bed with the person he had it all off was a way of taking a piece of it back. When
+he stopped having everything, it stopped being that. It was just two very old people who knew
+each other extremely well.
 
 So he was in the house and he had no portfolio and no city and nothing to be, and what he did
 with his days was go and stand in the Meander.
@@ -192,19 +196,19 @@ pleased about the column and said nothing about anything else.
 
 Not one of them went through the Frame.
 
-They got told on the dock, the way everybody had been getting told since the autumn, by
-whoever was standing there — and they were four hundred years dead and had been in ranks the
-entire time and were, by every account, extremely calm about it. They asked questions. They
-asked good ones. And then nine hundred men who had spent four centuries doing exactly what
-they were told declined to do the one last thing, and went and got put on the strength
-instead, and that is the largest single intake Asphodel has ever had in a week.
+They got told on the dock, the way everybody had been getting told since the autumn, by whoever
+was standing there — and they were four hundred years dead and had been in ranks the entire
+time and were, by every account, extremely calm about it. They asked questions. They asked good
+ones. And then nine hundred men who had spent four centuries doing exactly what they were told
+declined to do the one last thing, and went and got put on the strength instead, and that is
+the largest single intake Asphodel has ever had in a week.
 
 Nikanor stopped. He's the one who told Prometheus about the garden. He's a handler at the port
 now and he's good at it.
 
 Ares stood on the dock for the whole nine days. Charon says he didn't say much. Charon says he
-knew the name of every one of them and used it, and that this took a while and that nobody
-was in a hurry.
+knew the name of every one of them and used it, and that this took a while and that nobody was
+in a hurry.
 
 ---
 
@@ -248,9 +252,9 @@ them are about love and I don't believe any of them.
 Here's mine, and it's worth what everybody else's is worth.
 
 She spent four thousand years being told the house was the consolation prize. She could have
-had the Earth or the underworld and she took queen, and every single thing she did after that
-— the bees, the confessions, the arrangement of the myths, the babies, all of it — was work
-done to make the consolation prize into a real position.
+had the Earth or the underworld and she took queen, and every single thing she did after that —
+the bees, the confessions, the arrangement of the myths, the babies, all of it — was work done
+to make the consolation prize into a real position.
 
 And then she got it, and it was a ditch and a lintel.
 

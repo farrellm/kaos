@@ -217,17 +217,41 @@ absorbed his father is handed back the thing he sold. *(P2, O5)*
 in which a thread can be written truthfully, which is impossible while one being is
 hoarding the futures the thread is made of. Prophecy resumes. *(O4, newQ3)*
 
-**38.** Kaos, defined. Not disorder — the end of management. People die and go back and
-nobody administers it. The fourth clause was never a catastrophe; it was a description of
-ordinary life, which the gods had been calling chaos for four thousand years. *(P1)*
+**38.** Kaos, defined — **and the definition has changed, because the drafted book earned a
+better one.** The old beat said *the end of management, nobody administers it*, and thirty-two
+chapters argue the opposite: Prue's clipboard, the forty-minute reliefs, the rota that closes
+30, and 31's *that is not a tragedy, that is what work is.* Administration is the spine of this
+book and the thing the dead turn out to be good at.
+
+So: **kaos is not the absence of order. It is order that nobody owns.** The gods called it
+chaos because from where they stood, any arrangement they were not skimming from looked like
+collapse. The fourth clause was never a prophecy of catastrophe — it describes what a world
+looks like when the people doing the work also decide what the work is for. And it terrified
+Zeus because he could not tell the difference between his own end and the end of everything,
+which is a confusion every one of them had.
+
+**Riddy pays 30's promise here.** She wrote *I have been in there once, since, and I will do it
+properly somewhere else*, and this is somewhere else: she walks into the Nothing, in the water,
+and the definition arrives as a thing she is standing in rather than a paragraph she writes.
+**Show it with the reopened port**, moved here from 39 — no ferry fare, Medusa running it,
+Hades working it — because that *is* the definition, demonstrated. *(P1, P3, O13)*
+
+*Guard rails:* 37 already has *nobody was ever going to be on our side* and 40 has *I never
+convinced anybody.* 38 must not restate either. It is the only one of the three that is about
+the world rather than about her.
 
 **39.** Endings, quickly, the way the show does them. Krete votes and Ari loses the first
 one. Ari goes down and stands in the water and says her brother's name, which is the one
-thing in this story nobody had to talk her into. Dionysus stays mortal-adjacent and does
-not get Ari. Hades and Persephone reopen the port with no ferry fare; Medusa runs it and
-Hades works it, which is the arrangement 40 is looking at. Fotis is old.
-Orpheus sings the last true song and is believed, which is all he ever actually wanted and
-he does not enjoy it. *(O8, O11, O12, O13, P3, P4, O16)*
+thing in this story nobody had to talk her into. The labyrinth is filled in with concrete —
+[DC10](11-S2-CANON.md)'s first item on the list, once the four hundred have somewhere to go.
+Dionysus stays mortal-adjacent and does not get Ari. Daedalus. Fotis — **decide whether the
+dog dies here**; 40 has Riddy answering *ten years* in the past tense. Orpheus sings the last
+true song and is believed, which is all he ever actually wanted and he does not enjoy it.
+*(O8, O11, O12, O16, P4)*
+
+*The port moved to 38.* This chapter was carrying seven threads and is now carrying five, and
+it is still the densest in the book — keep the register the show uses for this, which is fast
+and flat and refuses to linger.
 
 **40.** Riddy and Caeneus. He does not know her. She tells him who he was — the dog, the
 balcony herbs, the boy who came back for him, the mother who waited ten years — and he
@@ -245,7 +269,7 @@ Every open thread, and where it closes.
 |---|---|---|
 | P1 | What "kaos reigns" means | 38 |
 | P2 | Can Zeus be killed / is he mortal | 7, 20, 32, 36 |
-| P3 | What Hades is planning | 10, 14, 39 |
+| P3 | What Hades is planning | 10, 14, 38 |
 | P4 | How organized the rebellion is | 12, 22, 29, 39 |
 | P5 | Is Daedalus alive | 17 |
 | O1 | Cassandra's source | [D2](11-S2-CANON.md), dramatized 22 |
@@ -259,8 +283,8 @@ Every open thread, and where it closes.
 | O9 | What Hera is building | 2, 26, 33 |
 | O10 | Poseidon dispossessed | 11, 34 |
 | O11 | Dionysus and Troy | 8, 39 |
-| O12 | Ari and Krete | 6, 18, 21, 39 |
-| O13 | The Nothing and the collapse | 27, 30, 39 |
+| O12 | Ari and Krete | 6, 9, 18, 21, 39 |
+| O13 | The Nothing and the collapse | 27, 30, 38 |
 | O14 | The unresolved dead | 12, 29 |
 | O15 | Zeus's absent children | 2, 26, 32 |
 | O16 | Small threads | 21, 39 |

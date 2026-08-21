@@ -152,7 +152,7 @@ I know that's the same thing as doing nothing. I know. I've done the argument.
 
 ---
 
-It took another nine days and I'm not going to give you all of them.
+It took another nine days.
 
 The short version: the guards held the door and everything else stopped. No port, no
 turnstiles, no canteen, no boats. Hermes sat in his chair in front of the Nothing with his
