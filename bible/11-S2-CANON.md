@@ -648,6 +648,51 @@ is not punished and not forgiven, because there is nobody left in him to do eith
   that this was the worst minute of Charon's four thousand years. He asks Riddy not to put it
   in. She puts it in.
 
+### DC16 — The ending
+Established in Chapter 40. Nothing after this.
+
+**The structural payoff is stated on the page, once, by Riddy.** She never convinced anybody
+— not one person, in a year and a half of temples and squares and kitchens. Everything that
+changed was changed by Adrian on a dock, Prue with a clipboard, Daedalus with one hand and a
+sheet of accounts paper, and Orpheus singing her life back at four thousand people a night in
+a key she would not have chosen. What a prophet is for, in her account, is that you keep
+talking. Then she turns to the reader and says that they sat through the whole of it, which
+nobody has ever done, and that if they got to the end thinking *yes, that's what happened*,
+that is the entire thing. **That is the payoff of Cassandra's curse and the reason the
+narration changed hands. It is available to no other form.**
+
+**Cassandra is dead** — two winters before, quietly, in the room above the fishmonger's, with
+Ekhi there. Riddy has taken her seat and does not have her patience and is told she will.
+
+**The session is the shape of the chapter.** A page and a half, good one first, bad ones in
+the middle, page one last. The dog and why it is called Fotis — which closes 16, where he lost
+exactly that. His mother, whom Riddy does about every third session and has never got right.
+Then the balcony, which he always asks her to do again, so she waters the plants before she
+goes down specifically to have it, and has never told him and is not going to.
+
+**He gets the shape and not the weight.** Told about Leos he says "That's very sad" and asks
+whether he kept the dog long. Told his mother waited ten years he says *"That's a long time to
+be sure about something"* — which is the best thing anyone has said about her, and he will not
+remember saying it, so Riddy writes it in the front where he wrote the other one.
+
+**The name.** He asks; she tells him; the following Tuesday he says it from forty yards before
+she reaches him, then apologises for not knowing how he knew it and asks whether she has come
+far. **Riddy refuses to interpret it** and says everyone she has told has immediately
+explained it to her and all of them are guessing. It is not a recovery and must never be
+written as one.
+
+**Prometheus appears in the third person, on a beach, seen from two hundred yards and not
+approached** — shoes in one hand, coat over his arm, walking at the pace of a man who has not
+been told to be anywhere. He is on the shift most days and is bad at it: he cannot get a name
+out without arranging it, and by the time the sentence is ready the moment has gone. Prue
+keeps him on the rota anyway. Riddy notes he looked like a man with nothing whatsoever to do,
+that this is probably the first time that has been true of him in four thousand years, and
+that she does not know whether it is a good thing that happened to him or the last one.
+
+**Last beat:** she goes home and waters the plants, because it will be warm for a few more
+weeks and then it will not, and he will still want that part, and she will do it from memory
+and he will not know the difference and she will.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in
