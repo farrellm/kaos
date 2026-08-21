@@ -222,7 +222,7 @@ There wasn't one. There was Adrian.
 
 One more thing and then I'll get on.
 
-Eleven days later somebody asked me what we were calling it, because it had got into the songs
+A fortnight later somebody asked me what we were calling it, because it had got into the songs
 by then and Orpheus needed a word for it, which tells you something about how information
 moves now.
 

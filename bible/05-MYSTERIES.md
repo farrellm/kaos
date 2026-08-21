@@ -5,7 +5,14 @@ separation of what is **confirmed on screen** from what is **inferred**, and —
 for unresolved items — a set of **resolution constraints**: what any Season 2
 answer must satisfy to remain consistent with the show.
 
-These are constraints, not proposals. No answers are chosen here.
+These are constraints, not proposals. **No answers are chosen in this file** — the
+constraints below are the audit trail, and they stay exactly as first written even where
+a decision has since been taken against them.
+
+Where one has, the entry carries a pointer to the decision in
+[11-S2-CANON.md](11-S2-CANON.md) and to the chapters it runs in
+(**bold** = drafted, plain = outlined only). Everything in this file was written from the
+transcripts; everything it points at is invention.
 
 ---
 
@@ -70,6 +77,7 @@ required of him remains open — see O6.**
 Answered in part, with a load-bearing piece missing.
 
 ### P1. What does the shared prophecy actually mean?
+> **Not settled.** Closes in **38**, which is undrafted. What *kaos reigns* turns out to mean is the last large thing the drafting stage still has to choose.
 **Known.** *"A line appears, the order wanes, the family falls, and kaos reigns"* is held
 by Zeus, Riddy, Caeneus and Ari. Riddy and Caeneus establish in Episode 6 that "the
 family" is the gods. The first three clauses have visible referents by the end of the
@@ -88,6 +96,7 @@ duplication is explicitly flagged as impossible by the characters, so it must be
 meaningful, not a coincidence.
 
 ### P2. Can Zeus be killed, and is he already mortal?
+> **Settled — [DC15, DC21](11-S2-CANON.md).** Runs in **7**, **20**, 32, **36**.
 **Known.** Prometheus states Zeus was born mortal and can be destroyed by humans. Zeus's
 divinity is sustained by Meander water. He has found a wrinkle, seen a blip in the
 Meander, and had a vision of himself bleeding while a Fate tells him gods don't bleed.
@@ -101,6 +110,7 @@ not through force. The Fates' framing also matters — the possibility exists bu
 his belief, and he has spent the whole season believing.
 
 ### P3. What is Hades planning?
+> **Settled — [DC9, DC13](11-S2-CANON.md).** Runs in 10, **14**, 39.
 **Known.** He intends to go back into the Nothing and find a way to restore souls — to
 renew them, repair some of the damage, and get them back into the system. He tells Medusa
 he has taken too much from humans and is going to defy his brother.
@@ -113,6 +123,7 @@ in his own house: by his wife releasing Orpheus and by Caeneus renewing a soul. 
 philosophically cornered.
 
 ### P4. How organized is the underworld rebellion?
+> **Settled — [DC7, DC14](11-S2-CANON.md).** Runs in 12, **22**, **29**.
 **Known.** Medusa recruits Riddy and names "rebels — people who see the gods for what
 they are." Persephone gave the diver order that put Caeneus in place, and unilaterally
 released Orpheus as an act of war. Charon takes a phone call about "the man with the
@@ -126,6 +137,7 @@ there is a plan beyond you — implies she is taking instruction from someone.
 Caeneus. That is a very short list of possible sources.
 
 ### P5. Is Daedalus alive?
+> **Settled — [DC12](11-S2-CANON.md) — he lived.** Runs in **17**.
 **Known.** Mauled by Glaucus in Episode 7 when Minos opened the cage remotely. In Episode
 8 Ari orders staff to fetch him from the labyrinth.
 
@@ -140,9 +152,11 @@ vague.
 
 The real Season 2 workload. Ordered by structural importance.
 
-> **O1, O2 and O6 have been settled for the novelization.** The decisions live in
-> [11-S2-CANON.md](11-S2-CANON.md); the constraints below stay put as the audit trail
-> those decisions had to satisfy. Everything else here is still open.
+> **Almost all of these have now been settled for the novelization.** The decisions live
+> in [11-S2-CANON.md](11-S2-CANON.md); the constraints below stay put as the audit trail
+> those decisions had to satisfy, and are not edited to match them. Two are genuinely still
+> open — **O10**, which has no canon entry, and **P1**, which is the book's last real
+> question.
 
 ### O1. Who is Cassandra working for, and how does she keep finding Riddy?
 **Settled — see [D2 in 11-S2-CANON.md](11-S2-CANON.md).**
@@ -188,6 +202,7 @@ is up to him — reads as a handover, which implies the plan's author considers 
 directed phase complete.
 
 ### O3. What does Prometheus do now?
+> **Settled — [D1, DC16](11-S2-CANON.md).** Runs in **1**, **24**, 35, **40**.
 **Evidence.** Freed mid-sentence while telling Zeus that his own weakness — his inability
 to kill the man he loves — is the only reason Zeus still rules. He then appears inside
 Zeus's house and tells him the vision was real and kaos is coming.
@@ -202,6 +217,7 @@ imagine" — freedom means he can go there. (c) He has been lying to the audienc
 omission all season; a novelization has to decide how reliable he now is.
 
 ### O4. What do the Fates want?
+> **Settled — [DC22](11-S2-CANON.md).** Runs in **25**, **37**.
 **Evidence.** They accept their own immolation, choose the room, help Zeus stage it, and
 are alive immediately afterward. They free Prometheus and tell him fate can't be
 destroyed. They took Zeus's watch as a bribe and let him see it as they burned — which
@@ -217,6 +233,7 @@ when Caeneus went through the Frame, "the family falls" would happen and Prometh
 be free — one of those two things demonstrably occurred.
 
 ### O5. Is Zeus's belief now broken or hardened?
+> **Settled — [DC15, DC21](11-S2-CANON.md).** Runs in **20**, **36**.
 **Evidence.** He declares there is no more fate, only loyalty, and that he *is* order. But
 he has also had a vision he insists was real, and he has seen his own blood.
 
@@ -245,6 +262,7 @@ address why it has never happened before. (c) Hades wanted precisely this abilit
 about to search the Nothing for it; the two of them now need each other.
 
 ### O7. What is Riddy's prophecy now?
+> **Settled — [DC16](11-S2-CANON.md).** Runs in **28**, **40**.
 **Evidence.** She refuses to share her reading all season and then discovers it is
 identical to Caeneus's. Cassandra tells her she is a prophet now.
 
@@ -255,6 +273,7 @@ supposedly dead, so any new prophecy has to be reconciled with Zeus's belief tha
 abolished fate.
 
 ### O8. What becomes of Orpheus?
+> **Settled — [DC11, DC20](11-S2-CANON.md).** Runs in **5**, **19**, 39.
 **Evidence.** He is the only living human to have entered the underworld and returned. He
 committed murder to do it. He learned his wife was leaving him the day she died, released
 her, and drove away alone. Hades knows his name. Dionysus loves him. Persephone likes his
@@ -266,6 +285,7 @@ over Anatole is unresolved and unpunished. (c) He is the one character who can t
 about the underworld to the living and is not under anyone's orders.
 
 ### O9. What is Hera building?
+> **Settled — [DC17](11-S2-CANON.md).** Runs in **2**, **26**, 33.
 **Evidence.** Confined by Zeus, stripped of her bees and her leverage. She immediately
 phones someone, calls herself "Mommy," and instructs them to gather the troops and make up
 a spare bed.
@@ -283,6 +303,7 @@ Olympus is *her* house — so any plan she runs is about taking it, not leaving 
 has lost the tacitas' confessions as a power source, which was the basis of her influence.
 
 ### O10. Poseidon, dispossessed and in love
+> **Not settled.** No canon entry yet. Runs in 11 and 34, both undrafted; what he is *for* between them has never been written down.
 **Evidence.** Stripped of Krete and every city, told to grow up. He has admitted to
 Dionysus that he has loved Hera forever and that it feels like his heart is outside his
 body. Dionysus promised not to tell, and kept the promise.
@@ -292,6 +313,7 @@ lost everything self-interest could protect. His alliance is available to whoeve
 first, and Hera is the obvious buyer.
 
 ### O11. Dionysus and Troy
+> **Settled — [DC10](11-S2-CANON.md).** Runs in 8, 39.
 **Evidence.** He asks Hecuba, Andromache and Nax what they want and promises to do it.
 They want Troy rebuilt and Olympus destroyed. He has just watched his father murder his
 cat to teach him that love is weakness, and been told by Prometheus that maybe the better
@@ -305,18 +327,23 @@ he cannot bring the dead back, and he has been told so by everyone. (c) His decl
 for Ari has not been acted on and Ari does not know he exists.
 
 ### O12. What does Ari do with Krete?
+> **Settled — [DC10, DC12, DC18, DC24](11-S2-CANON.md).** Runs in **3**, 6, **18**, **21**, 39.
 **Evidence.** She killed the president, refused to rule for the gods, and told Riddy's
-world nothing yet. Her mother approves. Glaucus is alive, unmasked, and has almost no
-language. Cassandra has dispatched Riddy to her.
+world nothing yet. Her mother approves. Glaucus is dead — Minos knifed him in the
+labyrinth minutes after she unmasked him — and she has his body and thirty years of
+waxworks of a brother she was told she had smothered. Cassandra has dispatched Riddy
+to her.
 
 **Resolution constraints.** (a) Krete is Poseidon's former possession and now Zeus's
 direct one — Zeus announced he is taking charge of every city. A publicly apostate ruler
 of Krete is a direct provocation. (b) The Trojans in Krete are the obvious constituency
-for a ruler who has broken with Olympus, and Ari has already freed them once. (c) Glaucus
-is thirty years old with the socialization of an animal; treating his recovery as quick
-would betray the show's cruelty about consequences.
+for a ruler who has broken with Olympus, and Ari has already freed them once. (c) She
+did not save Glaucus and reached him only in time to watch him killed; whatever she
+does with Krete is done by someone carrying that, and the show's cruelty about
+consequences forbids resolving it cleanly.
 
 ### O13. The Nothing, and the structural collapse
+> **Settled — [DC13](11-S2-CANON.md).** Runs in **27**, 30, 39.
 **Evidence.** Hades: the Nothing was never meant to take that many; the Frame glitched
 because of the strain; it could break, and not just the underworld — Olympus and Earth
 too. Zeus's response was to forbid any change and strike him down.
@@ -327,6 +354,7 @@ demonstrated. (c) Zeus has now taken direct charge of the City of the Dead, whic
 failing system under the management of the one god who denies it is failing.
 
 ### O14. The unresolved dead
+> **Settled — [DC14](11-S2-CANON.md) — the Stoppage.** Runs in 12, **29**.
 **Evidence.** Riddy's cohort was sentenced to two hundred years. Prue and Adrian have
 their own waits. Caeneus has served ten. Fotis is still at the port.
 
@@ -335,6 +363,7 @@ always meaningless, and the unresolved are the only population in the underworld
 nothing to lose. They are a standing army nobody has recruited.
 
 ### O15. Zeus's absent children
+> **Settled — [DC5, DC17](11-S2-CANON.md).** Runs in **2**, **26**, 32.
 **Evidence.** Ares, Athena, Apollo, Aphrodite, Artemis and Hermes are named on answering
 machines in Episode 2. None answers. Zeus's own theory is that his children disappoint him
 and so he keeps making more. Hera has been killing the mortal ones at birth.
@@ -344,6 +373,7 @@ non-existence. Any appearance must account for six gods who chose to stop answer
 phone — and, given O9, for who might be raising troops.
 
 ### O16. Small threads worth not dropping
+> **Settled — [DC10, DC11](11-S2-CANON.md) in part.** Runs in **21**, 39.
 - **Dennis.** Killed to make a point. Dionysus's grief over him is the hinge of his defection.
 - **Fotis** — "light" — left with Charon, and Caeneus promised to visit.
 - **Theseus**, last seen in Episode 3, a Trojan operative inside the palace of a dead president.

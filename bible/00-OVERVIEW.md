@@ -96,7 +96,7 @@ her father's crime and the gods' hand in it from inside the palace of Krete.
 | **Caeneus** | The River Lethe, holding his dead mother | To stop the Frame | That he can renew a human soul |
 | **Ari** | The palace of Krete, ruler by default | To change Krete, not for the gods | That her father murdered her brother on Poseidon's orders |
 | **Orpheus** | Earth, alone, driving away | Unknown | That the gods lie, and that his marriage is over |
-| **Glaucus** | The palace, unmasked, with his mother | Unknown — he has almost no language | — |
+| **Glaucus** | Dead — knifed by Minos in the labyrinth, minutes after Ari unmasked him | — | — |
 | **Medusa** | The underworld | To recruit for the rebellion | That there is an organized underworld resistance |
 | **Charon** | The Styx | To keep a promise to a dead lover | That Prometheus killed him and why |
 | **Cassandra** | Earth, at the Cave's exit | For someone to finally believe her | Everything, always. Nobody listens |

@@ -22,7 +22,7 @@ I heard about it two days after the fact, from a woman who assumed I already kne
 Theseus came back on a Thursday morning through the tradesmen's gate at the palace in
 Heraklion, unarmed, in daylight, and asked at the desk for an appointment.
 
-He had been gone eleven months. Riddy's account is that nobody in the building recognised
+He had been gone seven months. Riddy's account is that nobody in the building recognised
 him for a full minute and then everybody did at once.
 
 Where he had been is not a mystery and was never a mystery: he had been with the Trojans, and
@@ -36,7 +36,7 @@ settled view. There is a version of this in which he is dead and a version in wh
 coward, and both versions were in circulation and neither was true, and I had accepted the
 one that suited the shape of my account, which was the first.
 
-He had spent eleven months moving what was left of his people out of the compounds in the
+He had spent seven months moving what was left of his people out of the compounds in the
 south and into places where they could not be counted.
 
 ---
@@ -97,7 +97,7 @@ figure. She asked how many of those were registered at the address they actually
 and the chamberlain did not have that figure, and Hecuba supplied it, and it was under a
 third. She asked what the penalty was for a registration discrepancy. She asked whether Ari
 had ever met anyone serving it. She asked what the labyrinth cells had been used for in the
-year since the president died, and was told: holding. And she asked, in the same
+months since the president died, and was told: holding. And she asked, in the same
 tone, holding whom.
 
 Then she said the only sentence of hers that both my witnesses quote identically, and it was
@@ -139,7 +139,7 @@ human's head in a room I was not in, because I had been in ten thousand rooms li
 people are not as various as they believe. I have lost that, somewhere, recently, and I did
 not notice it going.
 
-What both accounts agree on is that it took eleven minutes.
+What both accounts agree on is that it took nine minutes.
 
 ---
 
@@ -169,7 +169,7 @@ and he said, "Yeah," and did not believe me, and was right not to.
 
 So that is the alliance.
 
-Krete and the Trojan remnant, made in a room in Heraklion in eleven minutes, by four humans
+Krete and the Trojan remnant, made in a room in Heraklion in nine minutes, by four humans
 and a bodyguard, in exchange for a franchise that half of Ari's own administration thinks
 will end her, and which she gave away either under pressure or on purpose depending on which
 of my two witnesses you believe.
@@ -200,8 +200,8 @@ weather. No summons. Nobody is struck by anything.
 The explanation is not subtle and it is not comforting. Krete was Poseidon's, and Poseidon
 does not have Krete any more, and the god who took every city from him took them as a
 possession rather than as a job. There is nobody reading the reports because there are no
-reports, because reports were Poseidon's, and he is in the north being fed by his wife's
-lover's mother's household and is not sending any.
+reports, because reports were Poseidon's, and he is in the north being fed out of a
+household belonging to his lover's son, who is also his brother's, and is not sending any.
 
 When Olympus did notice, it noticed wrong. What came back up, through the routes such things
 come up by, was that the Trojans in Krete had been given a vote — and it was received as a

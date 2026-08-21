@@ -183,10 +183,10 @@ this account, and it is a failure of mine, because a great deal of what happens 
 unintelligible if you have him down as a fool. He is not a fool. He is a man of very
 considerable ability who has never once had to use it on anything that would answer back.
 
-He counted it, and he charted it, and he came to me in the spring with a figure and a slope,
+He counted it, and he charted it, and he came to me in the autumn with a figure and a slope,
 and told me what the slope meant, and he was correct.
 
-And then he did what he did in the summer, on a terrace, to a small obsolete god in a jacket.
+And then he did what he did a month later, on a terrace, to a small obsolete god in a jacket.
 
 I gave him that. Not the killing — I want to be careful, I am not going to sit here and take
 on a thing that was his. But the *knowing*. He would not have looked. He had gone four

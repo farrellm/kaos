@@ -142,6 +142,12 @@ joins the Trojans.
 - **The underworld's clock** runs alongside Earth's — Caeneus has been dead ten years and
   the Amazons' timeline matches Earth's — but nothing establishes a conversion rate, and
   the two-hundred-year sentence is stated as literal.
+- **The six days are six days below, and the show never says what they are above.** Riddy
+  dies on Day 1 and spends Days 2–6 in the underworld; Orpheus follows on Day 3. Nothing
+  on screen fixes how much Earth time passes while they are down there, and the novelization
+  takes the gap — Riddy's death is four months before the curtain, Earth-side. That is
+  invention, not evidence: see
+  [DC23 in 11-S2-CANON.md](11-S2-CANON.md).
 - **Divine ages** are never given. Zeus's mortal childhood is treated as a real memory by
   both him and Prometheus.
 - **Hades's neglect of the Nothing** — "I've not been in there for so long" — implies

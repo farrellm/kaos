@@ -197,7 +197,7 @@ He says it the way you'd tell a man the time.
 "That's the part you'll want to be sitting down for," he says. "You'd have got through the
 other thing. Everyone gets through the other thing." And he takes my arm, the way you take
 the arm of somebody very old, and he puts me on the crate by the awning where the handlers
-sit to eat, and he goes back to the desk, because there are eleven hundred people coming in
+sit to eat, and he goes back to the desk, because there are twelve hundred people coming in
 on the four o'clock and somebody has to make the little marks.
 
 I sit on the crate.

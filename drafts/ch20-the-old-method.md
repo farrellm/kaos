@@ -19,7 +19,7 @@ against the size of the reservoir — not a tenth of a tenth of it.
 And he had a gauge. That is the part I have to put in and would rather not.
 
 He had nine weeks of counting and a chart a ball boy had ruled up for him, and a slope, and a
-figure at the bottom of it that I had watched him arrive at in the spring and had
+figure at the bottom of it that I had watched him arrive at a month earlier and had
 congratulated him on, warmly, because I had put the ledger in his hand myself. The chart said
 years.
 
@@ -76,7 +76,7 @@ nothing. He kept the title. Nobody took it off him. He came up for the family oc
 brought a cake, and stood slightly outside the group in photographs, and had, I think, some
 sort of arrangement with the kitchens.
 
-He arrived at about eleven, delighted, in a jacket.
+He arrived at about ten, delighted, in a jacket.
 
 Zeus met him on the terrace and asked after his mother, who has also not existed for some
 centuries, and Alpheus said she was very well, and Zeus said that was marvellous, that was
@@ -138,7 +138,7 @@ The first is that I was right about the mechanism and wrong only about the man's
 supply *is* finite. It *is* moving. He has confirmed it himself, in the most expensive way
 available, by going back to a method he abandoned four thousand years ago because it was
 laborious and it upset him. A man who is content does not do that on a Thursday morning
-before eleven. The fear is in there. It has simply stopped coming to the surface where I can
+before noon. The fear is in there. It has simply stopped coming to the surface where I can
 see it and be useful about it, and I would rather it were where I could see it, and that is a
 preference of mine and not a fact about him.
 

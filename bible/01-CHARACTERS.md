@@ -291,9 +291,12 @@ became a weapon rather than a secret. Daedalus built his mask and horns, cared f
 him, and made a small bell so the boy would know it was him coming and be gentle. The
 button that opens the cage is the sound that turns him into a beast.
 
-**Exit position.** Unmasked, named, holding his sister, reunited with the mother who
-built waxworks of him for thirty years. He has almost no language — a few words,
-"twin" among them.
+**Exit position.** Dead. Ari reaches him, says his name, calls herself his twin and
+takes off the mask — and Minos arrives and knifes him where he stands (E7). In E8 she
+brings her mother down to the body: *Mama, I tried to save him. I really tried.* He
+died having had almost no language. Ari says *twin* at him and the word comes back
+**(inference — the transcripts carry no speaker tags, and the soft repetition reads as
+his rather than hers)**.
 
 **Voice.** Growls, roars, fragments. When he speaks, it lands like a hammer.
 

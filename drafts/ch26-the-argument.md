@@ -45,7 +45,7 @@ Then it stops.
 
 Here is what I can report. It does not stop with a battle. There is no answering force,
 because there is no answering force to have — the five who came back have been in the house
-for a fortnight doing nothing in particular and none of them is a soldier, and Athena, who
+since the autumn doing nothing in particular and none of them is a soldier, and Athena, who
 would have been, is not speaking to anybody at all.
 
 It stops because Zeus goes down into the Meander with Poseidon standing in it, and puts a
@@ -65,7 +65,7 @@ under his own power, with a towel.
 
 ---
 
-They have the argument at eleven o'clock in the long room, and the argument is about what to
+They have the argument at noon in the long room, and the argument is about what to
 do next, and it is a real argument, which is what nobody expects and what makes what follows
 what it is.
 
@@ -73,7 +73,7 @@ Apollo says the family is finished if this is what it now is. Hermes says someth
 conciliatory about the boots. Aphrodite, who has said nothing since she came back, says that
 the whole of it is because he cannot be alone in a house, which is true and is the cruellest
 thing anybody says all morning. Artemis says almost nothing. She is standing at the window
-with her back to the room, which is where she has been standing for a fortnight, and when
+with her back to the room, which is where she has been standing since she came, and when
 Apollo puts it to her directly she says, without turning round, that she would rather be in
 the north.
 
@@ -121,7 +121,7 @@ done before, and Hermes has been given something to do.
 
 I was in the long room for the whole of it.
 
-I came in behind Aphrodite at about ten to eleven and I stood by the door and I was there for
+I came in behind Aphrodite at about ten to twelve and I stood by the door and I was there for
 the argument and for the seven words and for what he did with his hands, and I was there when
 they went in to eat, and I did not go in.
 

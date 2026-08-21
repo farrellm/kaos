@@ -251,8 +251,10 @@ until a god takes the job off him.
 
 **The span this sits in.** Chapter 28 states it directly — *I've had a year of it now* — so
 Season 2 runs about a year, not the weeks the early chapters' close intervals imply. The
-fixed short counts (eleven days to 13, a fortnight of children before 26, nine days to fit
-the door, eleven days off the river) are all local, with unnarrated gaps between them.
+fixed short counts (eleven days to 13, nine days to fit the door, eleven days off the
+river) are all local, with unnarrated gaps between them. **The children are not one of
+them:** they come home in the autumn, after 20, and by 26 they have been in that house
+most of a year — see [DC17](#dc17--ares-and-what-gather-the-troops-turned-out-to-mean).
 Caeneus loses his mother in 31, after 28's narrating present, so that loss is about a year
 after she was brought back — not the six weeks the draft originally carried.
 
@@ -380,13 +382,13 @@ wife of forty-one years, and asks only whether she will be all right.
 Established in Chapter 21. Closes the practical half of O12 and O16's Theseus thread.
 
 **Theseus was never dead and never a coward.** He was a Trojan operative the entire time he
-stood behind Ari's shoulder, and spent eleven months after the executions moving the remnant
+stood behind Ari's shoulder, and spent seven months after the executions moving the remnant
 out of the southern compounds into places where they could not be counted. He comes back
 through the tradesmen's gate, unarmed, in daylight, and asks at the desk for an appointment.
 He does not apologise. Ari says six people died because she trusted him; he says seven.
 
 **The price of the alliance is the franchise** — full and unqualified, every adult Trojan
-counted the same as anyone born in Heraklion. Ari agrees in eleven minutes.
+counted the same as anyone born in Heraklion. Ari agrees in nine minutes.
 
 *Deliberately unresolved:* **whether Ari conceded it or offered it.** Riddy's account has
 Hecuba naming the price; Dionysus's has Ari opening with it, having worked out that she could
@@ -492,8 +494,8 @@ one thing in that building: *it is me, and you are safe.*
   families and took them for a search party.
 - Ari tells him about Glaucus herself, on the first day, before they clean him up, because
   three days of not knowing is what her father would have arranged. He asks whether the boy
-  knew who she was at the end, is told he said *twin*, says "He had about eleven words," and
-  recites the other ten in order.
+  knew who she was at the end, is told he said *twin*, says "He had about nine words," and
+  recites the other eight in order.
 - **The seed of 18 is planted here and must stay unremarked**: he asks Prometheus what the
   place under the world is *built* like — cut or poured, river channelled or found, whether
   the door is a door in a wall or a wall with a door in it, because those are different
@@ -752,7 +754,7 @@ two hundred thousand people, exactly one of whom knows where he is actually goin
 
 **Riddy's obstacle is not access, it is that she is dead.** She died in the street at a
 concert in front of thousands, there was a funeral, and the song is still sung nightly. She is
-recognised eleven times in six days and it holds none of them: people say *you're the image
+recognised nine times in six days and it holds none of them: people say *you're the image
 of*, she says it's me, and they laugh — kindly — and one man says "That's not funny, my sister
 loved her," and a woman gives her money. **Nobody calls her a liar all week**, which she says
 would have been easier. A very well-established fact is not damaged by someone contradicting
@@ -814,7 +816,7 @@ than a record.
 
 *Forces:*
 - **The operation is born concealed.** Persephone arrives, walks the bank once and says
-  "Nobody says anything upstairs," and it takes eleven seconds because there is nothing in it
+  "Nobody says anything upstairs," and it takes twelve seconds because there is nothing in it
   to decide. Everything afterwards happens inside that. She has since said she would take it
   again, and has also wondered what the year would have been if somebody had gone up that night
   while Zeus was still frightened — and Persephone does not waste time on questions with
@@ -839,7 +841,7 @@ Established in Chapter 5.
 **The Cave is shut, and the reason is not security.** Bin welded all the way round and painted
 over in a colour that does not match; the door behind it bricked with the wrong brick; the card
 gone from beside it leaving clean paint; Polyphemus not in Krete, Athens, Sparta or Thebes.
-Eleven staff paid up to the end of that week and told there would be a message. There has never
+Nine staff paid up to the end of that week and told there would be a message. There has never
 been a message.
 
 **Prometheus reads it as an operational closure** — a route used once and shut before there is
@@ -892,7 +894,7 @@ is the chapter that does. He shows his method explicitly and it works, at length
 consequence the reader can check.
 
 **The crisis:** in the fourth week Zeus announces he is going north to fetch Hera. She has been
-at the compound eleven days, the letters are out and unanswered, and nothing is ready. If he
+at the compound twelve days, the letters are out and unanswered, and nothing is ready. If he
 goes he either burns a walled farm with his wife in it or finds the second valley. Prometheus
 has about a second and a half.
 
@@ -980,6 +982,63 @@ where you were.
   tenth: four lines about a woman in a village who will not be told for years and may never be,
   recited twice in the flat voice with the music stripped out, while Ekhi puts the kettle on
   and the man with the bad chest asks whether there is any of the lemon thing left.
+
+### DC23 — The four months, and the two clocks
+Established in Chapters 3 and 5, where Riddy's death is **four months** before the Season 1
+curtain. Recorded here because it is an invention, it was load-bearing before it was written
+down, and the next chapter that dates anything will contradict it otherwise.
+
+Season 1 runs six days. Riddy dies on the first of them and the curtain falls on the sixth —
+but nearly all of that is spent *below*, and the drafts have Earth run about four months in
+the same span. So: Orpheus loses his wife in a street in the spring, goes down, and comes up
+into high summer with a car that will not start.
+
+**The rule is that there is no rule.** The underworld keeps its own clock, nobody in the
+story can convert between the two, and nobody tries. This is not general relativity with a
+constant in it — the show is already loose here (Caeneus has been dead ten years and his
+mother waited ten, both stated in the same breath and in the same units), and any fixed rate
+breaks that. What the book claims is narrower: **a descent is not measurable from either
+end**, and that is why nobody who goes down comes back to the world they left.
+
+*Forces:*
+- **Used once and never again.** It applies to Orpheus's descent and to nothing else.
+  Everything after the curtain runs on one shared calendar — 1 and 4 are the same afternoon
+  an hour apart, 28 is a year in, 36 is two springs later. Do not reach for this twice.
+- It is why 3 works: Riddy comes back to a city that has had four months to finish burying
+  her, and *dead* has had time to set. A woman contradicting a week-old fact is an argument.
+  A woman contradicting a four-month-old fact is a person with a problem.
+- It is why 5 works: Anatole's wife has been sitting on a folding stool long enough for it
+  to be a habit, and Orpheus has been thanked and released by a woman who died in another
+  season.
+- [04-TIMELINE.md](04-TIMELINE.md) carries the same note, on the Season 1 side.
+
+### DC24 — Glaucus went through the Frame, and Ari is still coming for him
+Established for Chapter 39; corrects a bible error rather than inventing around one.
+
+**Glaucus is dead.** Minos knifed him in the labyrinth in Episode 7, minutes after Ari
+unmasked him and named him, and Episode 8 is Ari bringing their mother down to the body:
+*Mama, I tried to save him. I really tried.* Four files in this bible had him alive at the
+curtain and one of them had a whole chapter built on it. He was alive for thirty years in the
+dark, and that is the sentence that got garbled.
+
+**So he was buried with a coin.** Of course he was — a state funeral in the same week as his
+father's, by a sister who did not yet know what a coin is for, in a city that had just been
+told the president was *called*. He went through the Frame on schedule and he is in the
+Nothing, and he has been there for the whole of this book.
+
+*Forces:*
+- **Ari is a griever with somebody still in there**, which is the only qualification
+  [DC9](#dc9--how-renewal-actually-works-and-why-it-does-not-scale) recognises. She is also
+  the one person in the story who has to walk into the worst place that has ever existed and
+  say a name at a brother she knew for four minutes.
+- **Nobody talks her into it and nobody thanks her for it.** She goes in the ordinary way,
+  on the rota, with the shift that is on — the same water, the same knee-deep end. 39 gives
+  it a sentence, not a scene. If it swells into a set piece it is stealing from 36.
+- **Chapter 6 is re-commissioned** around what she actually has: a state whose constitution
+  cannot explain her, a mother, a waxwork nobody thought to cancel, and Daedalus's bell in a
+  workshop drawer.
+- What he says, if anything, is a drafting decision and should stay small. He had about nine
+  words (DC12) and no reason to have acquired more.
 
 ## New questions this opens
 

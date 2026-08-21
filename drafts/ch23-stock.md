@@ -24,7 +24,7 @@ Ekhi went into the cupboard.
 Here is what the cupboard says, and I am going to give it the way it was given, in the
 order it landed, because the order is what did the damage.
 
-Nothing has arrived since the eleventh of the month before last.
+Nothing has arrived since the ninth of the month before last.
 
 They do not know where prophecies come from. I want that on the record, because it startled
 me and I had assumed — for four thousand years, without ever once examining it — that

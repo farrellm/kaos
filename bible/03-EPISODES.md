@@ -441,7 +441,8 @@ his mother and brings her back; Prometheus walks free and finds he was never the
     tells him the truth: he had his chance and couldn't do it, and *that* weakness is the
     only reason Zeus still rules. Mid-sentence, Prometheus vanishes. The Fates — alive —
     free him, telling him fate can't be destroyed and all he had to do was trust and wait.
-14. Ari shows her mother that Glaucus lived, and that she killed their father. Her mother
+14. Ari brings her mother to Glaucus's body — he was alive all thirty of those years, and
+    her husband did it — and tells her she killed their father. Her mother
     says: good. Ari announces she will not rule for the gods.
 15. Riddy meets Cassandra, who names herself, tells Riddy she is a prophet now, and gives
     her the charge: go to Ari and set the living free; Caeneus will do the same for the

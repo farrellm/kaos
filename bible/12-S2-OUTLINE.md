@@ -77,8 +77,12 @@ riverbank — asks a dead man how he did it, and gets no answer, because Caeneus
 **5.** Orpheus drives until the fuel runs out. He goes back to the Cave and finds it shut,
 Poly gone, the bin welded. The one door he knows is closed.
 
-**6.** Ari has Glaucus moved to a room with a window. He has been alive thirty years and has
-never seen weather. *(O12)*
+**6.** Krete, the first weeks. Ari rules a state whose constitution says the gods choose who
+rules, with her mother in the house, a waxwork nobody has thought to cancel, and a brother
+in the ground she reached four minutes too late. She starts emptying the southern compounds
+into the labyrinth's cells because there is nowhere else to put people, and finds a small
+flat piece of metal on a wire in Daedalus's workshop and does not yet know what it is.
+*(O12)* — **plants the bell for 17 and the housing that 21's franchise argument runs on.**
 
 **7.** Zeus, rationing. He is the only one drinking freely and it is not enough. The wrinkle
 has company now. *(P2)*
@@ -110,7 +114,7 @@ below; draft against it rather than by feel.*
 
 **14.** The plan gets its name in Persephone's office above the port. Four options are live —
 protect the capability, study it, spend it on a few, or trade it to Zeus — and nobody can say
-the fifth until **Ione**, on the Lethe desk, complains that eleven hundred unresolved have
+the fifth until **Ione**, on the Lethe desk, complains that fifteen hundred unresolved have
 already heard a woman came back out of the water and she needs a line to give them. Then
 Persephone, silent for forty minutes, says it: **"We empty the Nothing."** That is the
 operation's name from here on; use it. Hades does not object, which is the actual decision —
@@ -185,7 +189,7 @@ they now know is fictional, and there are more of them than there are guards. *(
 
 **30.** Daedalus's door opens early, badly, and holds. The Nothing begins to drain.
 
-**31.** Caeneus at scale. He works for eleven days and comes out not knowing his mother's
+**31.** Caeneus at scale. He works for nineteen days and comes out not knowing his mother's
 name. Riddy holds his past for him and reads it back nightly, crossing with Persephone —
 see [DC6](11-S2-CANON.md). Roughly a year after the curtain — 28 says outright that she
 has had a year of being a prophet, and 31 is later still. *(newQ4)*
@@ -199,9 +203,11 @@ there is nothing left to distribute. She sits in it anyway, because it is hers. 
 **34.** Poseidon dies covering her retreat from a war she has already won, and she is
 genuinely, inconveniently grieved. *(O10)*
 
-**35.** Prometheus and Zeus, last conversation. He still cannot do it. This time he
-understands that not doing it was never the failure — it was the reason he was chosen.
-*(O3)*
+**35.** Prometheus and Zeus, last conversation — **not** the one in which he puts the
+arithmetic to him and gets "All right," which 36 already narrates in six lines and must
+keep. This is the one before it, in the emptying house, in which he still cannot do it and
+understands for the first time that not doing it was never the failure. It is the reason
+he was chosen, and it is why he is the only griever available in 36. *(O3)*
 
 **36.** Caeneus renews Zeus. Not kills — **renews**: takes a soul assembled out of stolen
 human futures and returns it to the world as one mortal life, owed nothing. The god who
@@ -216,8 +222,10 @@ nobody administers it. The fourth clause was never a catastrophe; it was a descr
 ordinary life, which the gods had been calling chaos for four thousand years. *(P1)*
 
 **39.** Endings, quickly, the way the show does them. Krete votes and Ari loses the first
-one. Glaucus learns eleven words. Dionysus stays mortal-adjacent and does not get Ari.
-Hades and Persephone reopen the port with no ferry fare. Medusa runs it. Fotis is old.
+one. Ari goes down and stands in the water and says her brother's name, which is the one
+thing in this story nobody had to talk her into. Dionysus stays mortal-adjacent and does
+not get Ari. Hades and Persephone reopen the port with no ferry fare; Medusa runs it and
+Hades works it, which is the arrangement 40 is looking at. Fotis is old.
 Orpheus sings the last true song and is believed, which is all he ever actually wanted and
 he does not enjoy it. *(O8, O11, O12, O13, P3, P4, O16)*
 
@@ -327,7 +335,7 @@ Do not "correct" the dip-then-rise in 16→20→22. It is the shape it is meant 
 | **19** | His read on Orpheus | The sharpest character judgment he made in Season 1 — that an ego like that accepts a cosmic purpose without suspecting co-option | He re-quotes his own line about Orpheus and it no longer fits what Orpheus is doing |
 | **20** | His theory of Zeus | That belief drives the prophecy — Zeus does worse and is steadier, which the theory forbids | **The hinge of the slope.** He tells the reader what Zeus will do next, and Zeus does the opposite, on the page |
 | **21** | Necessity | That a god has to broker anything — Krete and the Trojans ally without one | First chapter he narrates entirely secondhand; he was not there |
-| **22** | Singularity | That his is the only plan — the network is older than his imprisonment and never needed him | He counts the room, eleven people, and cannot place a single one |
+| **22** | Singularity | That his is the only plan — the network is older than his imprisonment and never needed him | He counts the room, fourteen people, and cannot place a single one |
 | **23** | That waiting is a strategy | That the instruction he was given has no bottom — prophecies are a finite stock | First question he puts to the reader that he cannot then answer |
 | **24** | — | **Authorship.** Charon supplies what Lachesis withheld: the murder was not the plan's price, it was the plan's first operation, performed on him | Address fails mid-gesture — *and there is nobody there* — and the tense goes out from under him |
 | **25** | — | That a correction is available. The Fates have never said an untrue thing to him and do not start now | Present tense throughout; no foreknowledge verbs survive |
@@ -348,29 +356,32 @@ Do not "correct" the dip-then-rise in 16→20→22. It is the shape it is meant 
 
 ---
 
-## Length, and why the drafted sample reads short
+## Length
 
-Eleven chapters drafted average about 1,650 words, which projects to roughly 67,000 across
-forty. **That projection is wrong, because the sample is biased.** The chapters drafted first
-were the hinges — 1, 13, 16, 20, 22, 23, 24, 25, 26, 27 — and hinges are *reckoning* chapters:
-one narrator processing one thing in one location. They are supposed to be tight.
+Twenty-six chapters drafted, 50,257 words, averaging 1,933. Fourteen remain — 6, 8–12 in
+Part One and 30–35, 38, 39 in Part Three — and at the event band they project the book to
+roughly 81,000.
 
 Most of what remains is *event* chapters, which carry cross-cut action, multiple locations and
-several speaking characters: the strike, the door being built, Orpheus arrested in three
-cities, the unresolved rising, Krete voting, the ending. Those cannot be done at 1,600 words
-without turning into summary, which is the one failure mode this book cannot survive — see
-craft reminder 1.
+several speaking characters: the door opening, Zeus ageing in public, Hera taking Olympus,
+Krete voting, the endings. Those cannot be done at 1,600 words without turning into summary,
+which is the one failure mode this book cannot survive — see craft reminder 1.
+
+**Two drafted chapters are under band and should be expanded before the chapters that
+depend on them.** Chapter 26 is 1,429 words against an event band — it carries the strike on
+Olympus, Poseidon held in the Meander, and Artemis killed at her father's hands, and 32, 33
+and 34 all stand on it. Chapter 28 is 1,470 against a hinge band. Nothing else is short.
 
 **Target roughly 85,000**, reached by type rather than by padding:
 
 | Chapter type | Band | Examples |
 |---|---|---|
-| Reckoning — one narrator, one realisation | 1,300–1,900 | 13, 16, 23, 25, 27 |
-| Event — cross-cut, multiple speakers, things happen | 2,200–3,000 | 15, 19, 21, 26, 29, 30, 32, 33 |
-| Hinge — an event *and* its reckoning | 1,900–2,400 | 20, 24, 28, 36, 40 |
+| Reckoning — one narrator, one realisation | 1,300–1,900 | 13, 16, 22, 23, 25, 27 |
+| Event — cross-cut, multiple speakers, things happen | 2,200–3,000 | 15, 19, 21, 26, 29, 30, 32, 33, 34, 39 |
+| Hinge — an event *and* its reckoning | 1,900–2,400 | 20, 24, 28, 36, 37, 40 |
 
-Part One has the most room and the least written: chapters 2–12 are currently single-beat
-sketches, and several are event chapters carrying a whole strand's opening.
+Part One still has the most room and the least written: 6 and 8–12 are single-beat sketches,
+and several are event chapters carrying a whole strand's opening.
 
 Do not hit the number by lengthening the reckoning chapters. Their compression is the voice.
 
@@ -387,10 +398,13 @@ chapters:
 2. Kill people mid-sentence and move on. Grief arrives three chapters later, displaced.
 3. Keep the comedy in the mouths of the powerful. It is how power sounds from inside.
 4. The Fates never lie. Every line they speak must be technically true.
-5. **Do not write "eleven."** It is this project's authorial tic and it has had to be thinned
-   three times, reaching forty-eight instances at its worst. Exactly one set of them is
-   load-bearing and it must stay: the eleven days of Prometheus's freedom, which carry the
-   undelivered speech from 13 to 24, and the eleven days Caeneus is off the river, which carry
-   27 into 28 — plus the eleven souls of the first mass renewal, which is outline canon. Every
-   other quantity in the book should be some other number, chosen deliberately. When a specific
-   figure is wanted, pick it before writing the sentence, not while writing it.
+5. **Do not write "eleven."** It is this project's authorial tic. It has been thinned four
+   times, reaching forty-eight instances at its worst and standing at thirty after the last
+   pass. **Four sets are load-bearing and no fifth may be created:** the eleven days of
+   Prometheus's freedom, which carry the undelivered speech from 13 to 24; the eleven days
+   Caeneus is off the river, which carry 27 into 28; the eleven souls of the first mass
+   renewal; and the eleven people on the crate in Heraklion, which is Riddy's arithmetic in
+   19 and her verdict in 40. One further use is arithmetic and cannot be anything else: the
+   **eleven gods** counted in 29, which is the correct total once Artemis is dead. Every
+   other quantity in the book should be some other number, chosen deliberately. When a specific figure is wanted, pick it before writing the sentence,
+   not while writing it — and when a chapter is finished, `grep -ci eleven` it.

@@ -160,7 +160,7 @@ it again, and one day something happens for entirely unrelated reasons and every
 thing you have been saying as though they'd thought of it. Cassandra told me it means four
 different things and she was being kind. It means one thing. It means you keep talking.
 
-She's dead now, by the way. Two winters ago, quietly, in the room above the fishmonger's, with
+She's dead now, by the way. Last winter, quietly, in the room above the fishmonger's, with
 Ekhi there. I've taken her seat and I do not have her patience and I am told I will.
 
 So — you.
