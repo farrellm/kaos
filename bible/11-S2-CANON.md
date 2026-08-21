@@ -413,6 +413,50 @@ is why the concession must be made to look like strength in the moment.
   took the cities as a possession rather than as a job. Nobody is reading the reports because
   nobody is writing them.
 
+### DC11 — Orpheus sings it, and it is Riddy's life
+Established in Chapter 19. Closes the working half of O8.
+
+**Nobody recruited him.** He does not touch an instrument for four months, then plays a room
+above a bar on the north coast that holds sixty, because he cannot hold the thing privately —
+which is the only consistent fact about him. There is no decision, no protest, no
+instruction. He is not in anybody's plan, and several sensible people have since made
+suggestions about emphasis, pleasantly received and not acted on.
+
+**He names the Nothing.** Not a dark place under the world — the word, sung as a location
+rather than an absence, so that sixty people can take it home. After that it cannot be undone.
+
+**Three arrests, all reversed.** Sparta holds him nine days on a blasphemy charge that is
+normally used twice a year on somebody drunk; on the fourth day the guards ask him to sing it
+in the cells, and one of them weeps and then goes home and puts a coin in a drawer for his
+mother. **Athens votes to hold him**, which matters because Ari has spent the story citing
+Athens as the place where voting works — a democracy buying its own myths for six hundred
+years is not more resistant to this, only differently resistant. Thebes skips the charge and
+drives him sixty miles out; he walks back. All three release him because there is no version
+of arresting him that ends with fewer people knowing.
+
+**So he is the distribution network** — the resistance's only means of moving the truth at
+scale, unbuilt, unfunded and undirectable.
+
+**The cost, which the chapter refuses to launder: the material is Riddy's.** The coin, the
+water that would not rise, the two hundred years, the Nothing. He was never in Asphodel. She
+told him once, in the worst hour of her death, while explaining why she was not coming back
+with him. He has never asked her; the question has not formed. She finds out from a member of
+Ari's staff who assumes she will be pleased.
+
+*Forces:*
+- **She lets it stand, deliberately**, because nothing else is moving and the arithmetic is not
+  close: eleven people on a crate in Heraklion against fifteen thousand in a night. Her stated
+  price, and the line to hold: *"It's his now. In any town where he's played it, I can't be
+  the one who says it. They've already heard it, and they heard it better."*
+- The one thing she has instead of a life is being the person who tells this, and he took it
+  without meaning to. This is why she is *told she is not fair about him* in 28, and it is
+  what she is being unfair about.
+- The seed of 28's verdict is planted here and must not be stated: they weep, they know every
+  word by the third repetition, and then they go home in the ordinary way. Prometheus decides
+  it is early days. The Spartan guard's coin in the drawer is the same beat, arriving early.
+- Calli books him and has since he was nineteen. Her relation to him is **left unestablished
+  on the page**, in keeping with the transcripts, and Prometheus says so himself.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in
