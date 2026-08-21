@@ -48,8 +48,17 @@ By the end he does not know Riddy.
 ---
 
 # PART ONE — THE SPARE BED
-*Chapters 1–13. Narrated by Prometheus, in full command. Days, not weeks, after the Season 1
-curtain.*
+*Chapters 1–13. Narrated by Prometheus, in full command.*
+
+*The part opens hours after the Season 1 curtain and its present runs about three months. It
+is chronological in that present, but individual chapters survey forward where a strand needs
+it — 5 reaches to the end of Orpheus's silent season, 2 covers nine days in the north — so a
+later chapter can sit at day eleven without contradiction. Do not "correct" this.*
+
+***Authority is the job of this part.*** *Part Two's architecture depends on there being real
+command to withdraw, so Prometheus must be visibly, impressively right about things here, and
+the confidently-wrong move must stay rare — no more than one flagged misreading per chapter,
+and not in every chapter. Chapter 7 is where his competence is the subject.*
 
 **1.** Olympus, minutes later. Prometheus, free for the first time in millennia, discovers
 that Zeus is not afraid of him — he pours him a drink and asks him to sit. Freedom turns out

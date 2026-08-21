@@ -66,13 +66,11 @@ to tell, and had found that encouraging.
 ---
 
 Riddy had been in Heraklion for six days by then and had achieved nothing whatsoever, and I
-want to explain why, because I got it wrong at the time and it is the first thing in this
-account that I got wrong about her specifically.
+want to explain why.
 
 I had put her back on Earth with the largest fact in the world in her possession and a
-prophet's instruction to take it to the ruler of Krete, and I had assumed — this is the
-assumption, this is the whole of my error and I would like it visible early — that the
-difficulty would be *access*. Getting a woman in a borrowed coat in front of a head of state.
+prophet's instruction to take it to the ruler of Krete, and the difficulty, obviously, was
+going to be *access*. Getting a woman in a borrowed coat in front of a head of state.
 I had a number of thoughts about how that might be managed and I was rather looking forward to
 managing it.
 
@@ -151,9 +149,8 @@ decency or squeamishness.
 
 Her mother was there. Still there. Same booth, same hours.
 
-I had assumed — again, and this one is worse — that the whole apparatus would have stopped.
-Hera left Olympus with two bags and did not take a single tacita, and I had read that at the
-time as an abandonment and therefore as an ending.
+Hera left Olympus with two bags and did not take a single tacita, and everybody who noticed
+that at all read it as an abandonment and therefore as an ending.
 
 It is not an ending. It is only an abandonment.
 
@@ -229,6 +226,5 @@ What I did not do, in the whole of that week, was consider that a woman had been
 largest fact in the world by her own daughter and had not been able to use it for anything at
 all, because there was something nearer.
 
-That is going to keep happening. I want to flag it now, while we are early and while I still
-look competent, because it is going to happen to me eventually and I would rather you saw the
-shape of it coming than thought I had noticed it myself.
+She had understood every word of it. She had simply had a question of her own, and it had been
+sitting in her for four months, and it got there first.
