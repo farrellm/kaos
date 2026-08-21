@@ -376,6 +376,43 @@ wife of forty-one years, and asks only whether she will be all right.
 
 ---
 
+### DC10 — The Krete–Troy alliance, and its price
+Established in Chapter 21. Closes the practical half of O12 and O16's Theseus thread.
+
+**Theseus was never dead and never a coward.** He was a Trojan operative the entire time he
+stood behind Ari's shoulder, and spent eleven months after the executions moving the remnant
+out of the southern compounds into places where they could not be counted. He comes back
+through the tradesmen's gate, unarmed, in daylight, and asks at the desk for an appointment.
+He does not apologise. Ari says six people died because she trusted him; he says seven.
+
+**The price of the alliance is the franchise** — full and unqualified, every adult Trojan
+counted the same as anyone born in Heraklion. Ari agrees in eleven minutes.
+
+*Deliberately unresolved:* **whether Ari conceded it or offered it.** Riddy's account has
+Hecuba naming the price; Dionysus's has Ari opening with it, having worked out that she could
+not ask people to die for a city that would not let them speak in it. Both witnesses are
+certain, neither has a reason to lie, and Prometheus cannot tell which. Do not resolve this
+later. The difference is the difference between the two rulers Ari might be, and the book
+should not know either.
+
+**This is the vote she loses in 39.** The franchise granted here is what defeats her, which
+is why the concession must be made to look like strength in the moment.
+
+*Forces:*
+- **No god brokers it.** Dionysus is in the room for the whole of it, has been genuinely
+  useful for a season — no bad harvest where his people are — and sits at the end of the
+  table with his hands in his lap. His own line afterwards: *they didn't need me for any of
+  it.* He is the counterweight to Prometheus's absence: one god not present and not missed,
+  one god present and not consulted.
+- **Andromache's condition**: the labyrinth filled in with concrete, the button destroyed and
+  the room it is in destroyed. Ari says she will do it when the four hundred people currently
+  held there have somewhere to go. It goes on the list as the first item, and should be paid
+  off in 39.
+- **Olympus does not notice for six weeks**, and when it does it reads the franchise as a weak
+  ruler making concessions — because Krete was Poseidon's, Poseidon is dispossessed, and Zeus
+  took the cities as a possession rather than as a job. Nobody is reading the reports because
+  nobody is writing them.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

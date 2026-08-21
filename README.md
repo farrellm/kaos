@@ -94,6 +94,7 @@ Season 2 novelization chapters, written against the outline in
 | 15 — Volunteers | [ch15-volunteers.md](drafts/ch15-volunteers.md) |
 | 16 — Fotis | [ch16-fotis.md](drafts/ch16-fotis.md) |
 | 20 — The Old Method | [ch20-the-old-method.md](drafts/ch20-the-old-method.md) |
+| 21 — Secondhand | [ch21-secondhand.md](drafts/ch21-secondhand.md) |
 | 22 — Above the Fishmonger's | [ch22-above-the-fishmongers.md](drafts/ch22-above-the-fishmongers.md) |
 | 23 — Stock | [ch23-stock.md](drafts/ch23-stock.md) |
 | 24 — The Ferryman | [ch24-the-ferryman.md](drafts/ch24-the-ferryman.md) |
