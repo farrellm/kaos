@@ -32,7 +32,7 @@ Prometheus went up and asked him.
 
 That was in the third week of the spring and it took him four days to get an answer, and I
 wasn't there and neither was anyone else, and the account of it in the book is his and is
-eleven lines long, which for him is nothing.
+six lines long, which for him is nothing.
 
 What he says is that he explained the arithmetic — what Zeus was made of, how much of it was
 other people, what would happen to all of it if he simply stopped. And that Zeus listened to

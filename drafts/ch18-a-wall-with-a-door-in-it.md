@@ -105,7 +105,7 @@ said it as a professional observation. He was not making a point. It was, howeve
 
 ---
 
-His design took him eleven days and it is not clever.
+His design took him nine days and it is not clever.
 
 I want to say that with respect, because I had assumed — I had assumed a great many things
 that week — that what would come back would be intricate. He built a maze once and it was the

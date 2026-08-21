@@ -179,8 +179,8 @@ not.
 He did not say anything for a while. And then he asked whether the boy had known who she was
 at the end.
 
-And she said yes, that he had said the word *twin*, and Daedalus said, "He had about eleven
-words," and then said the other ten of them, in order, which is a list he has evidently been
+And she said yes, that he had said the word *twin*, and Daedalus said, "He had about nine
+words," and then said the other eight, in order, which is a list he has evidently been
 keeping in his head for thirty years and had never before had anyone to give it to.
 
 ---

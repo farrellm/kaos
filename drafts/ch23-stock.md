@@ -65,7 +65,7 @@ The Fates are alive.
 
 I have known since the night it happened. I saw them standing in the ash of their own
 immolation, entirely well, mildly entertained, and one of them unlocked me and made a joke
-about waiting, and eleven days later I sat at Zeus's table and let him tell me he had solved
+about waiting, and an hour later I sat at Zeus's table and let him tell me he had solved
 the problem of fate, and I said nothing. I have set down my reason for that, and I gave
 myself a better one, and I have not looked at either since.
 

@@ -41,7 +41,7 @@ south and into places where they could not be counted.
 
 ---
 
-Ari saw him at eleven o'clock.
+Ari saw him at ten o'clock.
 
 Riddy was in the room. This is the part I have from her directly and I have not altered a
 word of the substance.
@@ -59,7 +59,7 @@ And she said, "Say the rest of it."
 
 And he said that the seventh was Nax, and that Nax had been his friend since they were
 fifteen, and that he had been the one who locked him up to stop him surrendering, and that he
-had spent eleven months deciding whether the six would have died anyway and had concluded
+had spent that time deciding whether the six would have died anyway and had concluded
 that they would, and that this had turned out not to help.
 
 Riddy's note on this exchange, in the book, is four words long: *neither of them cried.*
@@ -97,14 +97,14 @@ figure. She asked how many of those were registered at the address they actually
 and the chamberlain did not have that figure, and Hecuba supplied it, and it was under a
 third. She asked what the penalty was for a registration discrepancy. She asked whether Ari
 had ever met anyone serving it. She asked what the labyrinth cells had been used for in the
-eleven months since the president died, and was told: holding. And she asked, in the same
+year since the president died, and was told: holding. And she asked, in the same
 tone, holding whom.
 
 Then she said the only sentence of hers that both my witnesses quote identically, and it was
 not about any of that. She said:
 
 "Your father sat where you are sitting and told me that Troy was destroyed because we
-overreached. I have wanted eleven years to ask somebody in this room whether they believed
+overreached. I have wanted twelve years to ask somebody in this room whether they believed
 that or whether it was simply what they had been given to say. You do not have to answer.
 I would like you to know that it is the question."
 
@@ -154,7 +154,7 @@ He sat at the end of the table with his hands in his lap.
 
 He told me about it himself, four days later, sitting on the edge of a fountain in a town
 whose name I have decided not to put down. He was not complaining. That is the thing I keep
-turning over. He described the eleven minutes with real pleasure, the way you describe a
+turning over. He described the whole of it with real pleasure, the way you describe a
 match you watched, and then he said the thing that I think he had come to say, which was:
 "They didn't need me for any of it."
 
@@ -185,7 +185,7 @@ back to the beginning, to the plateau and the eagle and the man telling you abou
 and a prophecy — and count how many times the arrangement is described as a thing that had to
 be arranged, and by whom, and count how many of those sentences would survive somebody
 pointing out that on a Thursday in Heraklion four people who had every reason to hate each
-other sat down and did the necessary thing in eleven minutes without a single one of us in
+other sat down and did the necessary thing without a single one of us in
 the building.
 
 ---

@@ -164,7 +164,7 @@ of them have only been circling, and once a thing like that is said out loud it 
 it has a name and it can be planned against and defended and lost. That is where we are
 going. That is the next chapter and it is the beginning of the second half of this.
 
-I knew it was coming. I had known for eleven days, and in a longer sense for rather longer
+I knew it was coming. I had known since the rock, and in a longer sense for rather longer
 than that, and I had positioned three human beings and a ferryman and a queen of the dead
 so that when it was said there would be someone in the room to say it.
 

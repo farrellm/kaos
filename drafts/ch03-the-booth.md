@@ -85,7 +85,7 @@ So a woman who looks like her cannot get anywhere near a fact.
 
 ---
 
-She was recognised eleven times in six days. She counted, because she is the sort of person
+She was recognised nine times in six days. She counted, because she is the sort of person
 who counts, and I have the number from her.
 
 Not one of them held.

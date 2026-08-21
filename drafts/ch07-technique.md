@@ -72,7 +72,7 @@ On the Thursday of that week he told me he was going north to get her.
 I want to give you the whole of what that meant, because at the time it took me about a second
 and a half.
 
-Hera had been in that compound eleven days. Ares had nine hundred men over a rise and had not
+Hera had been in that compound twelve days. Ares had nine hundred men over a rise and had not
 yet been asked for anything. There were five letters out and no answers back. Nothing was
 ready — not the alliance that eventually came out of it, not the understanding between mother
 and son, none of it — and the entire northern position at that point consisted of a queen with
@@ -176,7 +176,7 @@ I have thought about how to put the next part and I have decided to put it plain
 stop, because there is a version of this chapter in which I get clever at the end and I do not
 think I have earned it.
 
-He counted the Meander for eleven weeks.
+He counted the Meander for nine weeks.
 
 He was thorough. He is not stupid — I do not think I have ever said that clearly enough in
 this account, and it is a failure of mine, because a great deal of what happens later is

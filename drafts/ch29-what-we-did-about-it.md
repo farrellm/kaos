@@ -52,7 +52,7 @@ who'd say they would and then not. She's been down there sixty-one years and kno
 and everybody likes her, and it turns out that being the person who does the chairs for
 sixty-one years is a qualification.
 
-She had eleven thousand names before she told anyone she was doing it.
+She had nine thousand names before she told anyone she was doing it.
 
 ---
 
@@ -62,7 +62,7 @@ Not everyone. About forty per cent, which Prue had said was the number and which
 next part happened the way it did.
 
 The port went first because the port is where the arithmetic is most obvious: a ferry comes
-in every four hours whether anyone meets it or not. By the second day there were eleven
+in every four hours whether anyone meets it or not. By the second day there were fourteen
 thousand newly dead standing on a dock with nobody to tell them anything and no dogs and no
 lines, and by the fourth day there were forty thousand and they were on the road up to the
 turnstiles, and the ferry kept coming, because dying doesn't stop.
@@ -152,7 +152,7 @@ I know that's the same thing as doing nothing. I know. I've done the argument.
 
 ---
 
-It took another eleven days and I'm not going to give you all of them.
+It took another nine days and I'm not going to give you all of them.
 
 The short version: the guards held the door and everything else stopped. No port, no
 turnstiles, no canteen, no boats. Hermes sat in his chair in front of the Nothing with his

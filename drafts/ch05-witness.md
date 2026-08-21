@@ -63,7 +63,7 @@ anywhere by anybody explaining any of it.
 Polyphemus is gone. I have looked, since, more than once, and I can tell you that a man of
 that description with that eye is not in Krete, is not in Athens or Sparta or Thebes, and has
 not been seen by any of the four people I found who used to work the room. The Cave employed
-about eleven people. Every one of them was paid up to the end of that week and told there
+about nine people. Every one of them was paid up to the end of that week and told there
 would be a message and there has never been a message.
 
 I stood in front of that bin for about a quarter of an hour.

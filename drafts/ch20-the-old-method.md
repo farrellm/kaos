@@ -14,9 +14,21 @@ changes in the glass, and then, last, the taste, which I am told goes from somet
 iron to something like the water in a vase.
 
 Eleven souls had gone back to the world at the start of the month. Since then, more. Not many
-against the size of the reservoir, not a tenth of a tenth of it, but the thing about a
-system that has run at a surplus for four thousand years is that nobody has built it a
-gauge, and the first gauge it ever gets is the taste.
+against the size of the reservoir — not a tenth of a tenth of it.
+
+And he had a gauge. That is the part I have to put in and would rather not.
+
+He had nine weeks of counting and a chart a ball boy had ruled up for him, and a slope, and a
+figure at the bottom of it that I had watched him arrive at in the spring and had
+congratulated him on, warmly, because I had put the ledger in his hand myself. The chart said
+years.
+
+The taste came first.
+
+That is what happened on that Thursday, and it is a great deal worse than a man noticing
+something odd at breakfast, because a man who notices something odd can be told it is
+nothing. A man watching a number he trusts get overtaken by his own tongue cannot be told
+anything at all.
 
 He noticed at breakfast. He put the glass down and he looked at it and he said, "Is this
 off?"

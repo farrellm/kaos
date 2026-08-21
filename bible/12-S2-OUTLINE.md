@@ -387,3 +387,10 @@ chapters:
 2. Kill people mid-sentence and move on. Grief arrives three chapters later, displaced.
 3. Keep the comedy in the mouths of the powerful. It is how power sounds from inside.
 4. The Fates never lie. Every line they speak must be technically true.
+5. **Do not write "eleven."** It is this project's authorial tic and it has had to be thinned
+   three times, reaching forty-eight instances at its worst. Exactly one set of them is
+   load-bearing and it must stay: the eleven days of Prometheus's freedom, which carry the
+   undelivered speech from 13 to 24, and the eleven days Caeneus is off the river, which carry
+   27 into 28 — plus the eleven souls of the first mass renewal, which is outline canon. Every
+   other quantity in the book should be some other number, chosen deliberately. When a specific
+   figure is wanted, pick it before writing the sentence, not while writing it.

@@ -93,7 +93,7 @@ assembly declined to touch them, and a democracy that has been buying its own my
 hundred years is not more resistant to this than a client kingdom; it is differently
 resistant, which is to say it takes longer and is harder to reverse.
 
-They held him eleven days and released him for the same reason Sparta did.
+They held him nine days and released him for the same reason Sparta did.
 
 Thebes was the third and Thebes did not bother with a charge. They picked him up at a
 crossroads, drove him sixty miles, and put him out on the road facing away from the city,

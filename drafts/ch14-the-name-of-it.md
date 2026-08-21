@@ -102,14 +102,14 @@ Ione said the useful thing at about the ninety-minute mark, and she said it as a
 
 She said that whatever they decided, somebody was going to have to tell the unresolved,
 because word had already gone round Asphodel that a dead woman had come back out of the
-water, and there were eleven hundred people down there who had heard it and were going to
+water, and there were fifteen hundred people down there who had heard it and were going to
 start asking, and she was the one on the desk when they asked, and she would like to know
 what she was allowed to say.
 
 That is the whole of her contribution. She wanted a line for the desk.
 
 And it changed the room, because it is very difficult to keep having a philosophical
-conversation once somebody has pointed out that eleven hundred people are already waiting for
+conversation once somebody has pointed out that fifteen hundred people are already waiting for
 the answer to it.
 
 ---

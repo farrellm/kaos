@@ -128,7 +128,7 @@ She has been in that job since. She is not, by all accounts, especially good at 
 
 ---
 
-The first decision anybody made that night was not to tell Olympus, and it took eleven seconds.
+The first decision anybody made that night was not to tell Olympus, and it took twelve seconds.
 
 Persephone arrived at about the second hour, walked the length of the bank once, looked at the
 woman standing in the shallows in a wet coat, and said: "Nobody says anything upstairs."
@@ -144,7 +144,7 @@ there was nothing in it to decide.
 
 What it means, though — and this is the bit I did not see for months — is that the entire
 operation was born concealed. Everything that follows, every rota and every letter and every
-argument in that office above the port, happens inside a decision taken in eleven seconds on a
+argument in that office above the port, happens inside a decision taken in twelve seconds on a
 riverbank by people who were tired.
 
 Persephone has said since that she would take it again. She has also said that she has
@@ -165,7 +165,7 @@ There were perhaps thirty people at the Lethe when it happened and about half of
 dead and off shift and had come down for the last crossing, which people do, because there is
 not a great deal on. By the following evening the story was in the canteens. By the end of the
 week it was in every sector, and by the time anybody upstairs had begun to think about
-containing it there were, on Ione's estimate, eleven hundred people who could tell you a
+containing it there were, on Ione's estimate, fifteen hundred people who could tell you a
 version of it, most of them wrong in the same three ways.
 
 The version that travelled was not the one about a god on his knees. Nobody cared about that.

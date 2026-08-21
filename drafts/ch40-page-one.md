@@ -94,7 +94,7 @@ Then the balcony, because the balcony goes at the end. It's page one and I read 
 makes no sense and is the order that works.
 
 There was a man who spent his childhood in a compound where nothing grew, because nothing did
-— dust, and a wall, and eleven hundred women who had a great many virtues and no interest
+— dust, and a wall, and six hundred women who had a great many virtues and no interest
 whatsoever in flowers. And then he had a flat in Krete with a balcony the size of a door, and
 he bought pots, and he grew herbs on it, and the thing he missed most about being alive was
 the smell of them when you water them in the evening while it's still warm.
