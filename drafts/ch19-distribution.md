@@ -20,7 +20,7 @@ going to revise them, because the revising is the chapter.
 ---
 
 He came out of the ground in the summer with nothing, and he had a car with no fuel in it and
-a wife who had thanked him and got out, and for about five months he did nothing whatsoever
+a wife who had thanked him and got out, and for about three months he did nothing whatsoever
 that I could see.
 
 I checked, is the thing. Not often. He was not on my list of live concerns — he had done his
@@ -30,7 +30,7 @@ a man in his mother's house in Krete who had stopped playing.
 
 Calli — who books him, and has booked him since he was nineteen, and whose relation to him I
 have never established and have decided at this late stage not to ask about — told Riddy that
-he did not touch it for four months. Not once, not to tune it. That this had never happened in
+he did not touch it for three months. Not once, not to tune it. That this had never happened in
 his life, not when his father died.
 
 Then in the autumn he went to a room above a bar in a town on the north coast that holds
@@ -44,7 +44,7 @@ was not one, and everybody involved is clear that it was not one.
 
 He did not write a protest. He is not capable of a protest; he has never in his life had an
 opinion that lasted a week. What he had was the thing he has always had, which is that he
-cannot hold anything privately, and he had spent five months holding the largest thing anybody
+cannot hold anything privately, and he had spent three months holding the largest thing anybody
 has ever been given to hold.
 
 So it came out the way everything comes out of him, which is arranged, in a key, with the
@@ -84,7 +84,7 @@ was singing the thing at the walls, and had learned it from people who had never
 courtyard in Kydonia, which meant it was already out and the only remaining question was
 whether Sparta wanted to be the city that had a martyr.
 
-Athens arrested him in the spring.
+Athens arrested him at the end of winter.
 
 I want that recorded plainly, because Ari has spent this entire story citing Athens as the
 place where they vote and it works, and the Athenians voted, and what they voted was to hold
@@ -217,6 +217,5 @@ I did not go up to him afterwards. He was standing by a wall with about forty pe
 him and I told myself that it was not the moment and that I had nothing to bring him, which
 was true and was not the reason.
 
-The reason is that I have spent a year being of no use to anybody in this account, and I did
-not want to be told it in a good mood by a man who had done more than I had with a guitar and
-no plan whatsoever.
+He was signing somebody's arm when I left. He was doing it badly and at length, the way he
+does everything, and the woman whose arm it was had her eyes shut.

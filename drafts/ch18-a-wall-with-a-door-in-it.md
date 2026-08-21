@@ -224,7 +224,12 @@ telling a dead stonemason that his line is wandering.
 
 I stood on the platform and watched them work for most of that first day.
 
-Nobody needed me to be there and nobody minded that I was. I would put that down as the last
-good day I had before the river and the desk and the man with the pen, except that I did not
-know it was one at the time, and it does not become one until later, which I am told is how
-they generally work.
+It is not dramatic. Two men at the face and one behind with a basket, a change of shift every
+forty minutes, and a long argument about the lamps that was still going when I left. By the
+end of the day they had done perhaps four feet.
+
+Four feet, of ninety, of a thing that will take longer than they have.
+
+I would put it down as the last good day I had before the river and the desk and the man with
+the pen, except that I did not know it was one at the time, and it does not become one until
+later, which I am told is how they generally work.

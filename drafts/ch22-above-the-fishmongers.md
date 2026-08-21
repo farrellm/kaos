@@ -147,9 +147,11 @@ the whole of the conversation, and I have thought about that "right" a great dea
 
 Back to the question.
 
-They did not want me for anything.
+They wanted my name.
 
-Ekhi asked me two things in two hours. The first was whether the god of death could be
+Not my counsel and not my intentions — my name, for the book, because that is the procedure
+and has been for four hundred years. I will come to that. First: Ekhi asked me two things in
+two hours. The first was whether the god of death could be
 relied on, and she asked it briskly, as a matter of operational fact, the way you would ask
 whether a supplier is sound. The second was whether I would mind moving my chair, because the
 man with the bad chest needed to be nearer the window.
@@ -171,4 +173,5 @@ in a book with a number of other names in it, most of them of people I have neve
 all of whom were doing this before I was, and I understood — not gradually — that the thing I
 have spent four thousand years being is *one of the sources*.
 
-The room stood down at nine. The man with the bad chest got his bus.
+The room stood down at nine, which is when it stands down. The man with the bad chest got
+his bus.

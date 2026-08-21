@@ -158,4 +158,4 @@ avoid the sentence underneath the arithmetic, which is this: I have never once, 
 thousand years, considered that the instruction might have had a cost attached to me
 obeying it.
 
-The room stood down at nine again. Ekhi put the cups in the sink.
+The room stood down at nine, which is when it stands down. Ekhi put the cups in the sink.
