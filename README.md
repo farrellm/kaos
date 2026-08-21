@@ -92,6 +92,7 @@ Season 2 novelization chapters, written against the outline in
 | 2 — Gather the Troops | [ch02-gather-the-troops.md](drafts/ch02-gather-the-troops.md) |
 | 3 — The Booth | [ch03-the-booth.md](drafts/ch03-the-booth.md) |
 | 4 — How Did You Do That | [ch04-how-did-you-do-that.md](drafts/ch04-how-did-you-do-that.md) |
+| 5 — Witness | [ch05-witness.md](drafts/ch05-witness.md) |
 | 13 — Grief | [ch13-grief.md](drafts/ch13-grief.md) |
 | 14 — The Name of It | [ch14-the-name-of-it.md](drafts/ch14-the-name-of-it.md) |
 | 15 — Volunteers | [ch15-volunteers.md](drafts/ch15-volunteers.md) |

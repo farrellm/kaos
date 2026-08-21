@@ -833,6 +833,56 @@ than a record.
   kind and knowing none of the background, says gently that it has gone midnight, so it is
   tomorrow now, actually.
 
+### DC20 — The welded bin, and a man with no witness
+Established in Chapter 5.
+
+**The Cave is shut, and the reason is not security.** Bin welded all the way round and painted
+over in a colour that does not match; the door behind it bricked with the wrong brick; the card
+gone from beside it leaving clean paint; Polyphemus not in Krete, Athens, Sparta or Thebes.
+Eleven staff paid up to the end of that week and told there would be a message. There has never
+been a message.
+
+**Prometheus reads it as an operational closure** — a route used once and shut before there is
+a queue, precisely what he would have done — and is pleased with the reading, and notes that it
+means the Fates are still in business. **This is the first visible symptom that prophecy has
+stopped**, eight months before Chapter 23 diagnoses it from a pencil mark on a cupboard door.
+He states on the page that a venue which pays everybody up and never sends the promised message
+is not always security: sometimes the act has stopped. Do not let anyone work this out earlier.
+
+**Orpheus does not go back to descend.** He goes back for a **witness**. He is the only living
+human to whom any of it happened; Riddy will not say it (see DC18), and Poly and the Fates are
+the only others who saw. He needs one person to say *yes, you did that* so he can go home.
+
+**He gets Anatole's wife**, who has been sitting on a folding stool in front of the welded bin
+because it is the last place her husband was, and there is no institution on Earth that will
+tell her anything. He tells her the truth in about four minutes — the pact, the boat, breaking
+it first, holding him under, that it took some time — flat and badly and out of order, and
+stops twice.
+
+She says: ***"Thank you for telling me."***
+
+Then asks whether it was quick (he says not very, having just spent four minutes deciding not
+to lie), whether their son is all right down there (he does not know), and whether he needs a
+lift. She reverses forty yards to tell him she liked the song about his wife very much and has
+it on a record.
+
+*Forces:*
+- **Nothing happens to her and nothing happens to him.** She tells no one for over a year,
+  sells the stool in the spring, moves east, works in a chandler's. **O8's "unresolved and
+  unpunished" is deliberate and load-bearing**: what puts him on the floor for three months is
+  not grief but discovering there is no mechanism — no court, no family, no Olympus — and that
+  a man simply carries what he did in the ordinary way. He has said since that he would have
+  preferred the court.
+- **Dionysus never comes.** Orpheus waits about five weeks without admitting it. The god who
+  got shot for him, bought him a door with his father's watch, and lost a kitten and a hive
+  over it is four hundred miles south with people who need him, having finally found the
+  purpose he spent a year asking for. Asked about it twice, he is genuinely surprised by the
+  question, and the second time says "Is he all right?" — and means it, while already looking
+  at something else. **The trouble with a man who takes you on as his purpose is that a purpose
+  is a thing you can be finished with.**
+- Pairs deliberately with Chapter 3: two people in the same city, days apart, who cannot get
+  their own lives believed, and who will not use each other to fix it.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in
