@@ -1040,6 +1040,65 @@ Nothing, and he has been there for the whole of this book.
 - What he says, if anything, is a drafting decision and should stay small. He had about nine
   words (DC12) and no reason to have acquired more.
 
+### DC25 — The strike on Olympus, and the five things it fixed
+Established in Chapter 26, expanded to event length. The morning runs: Meander off at four,
+west face taken in the dark, Zeus out of the house at about ten past four, the Meander and
+Poseidon by twenty past, no withdrawal order for another twenty minutes, withdrawal an hour,
+argument at noon, lunch at one. The water comes back on in the afternoon and nobody mentions
+it.
+
+**Nikanor.** One of Ares's nine hundred, dead since before Krete had a president, thirty feet
+from the garden, and the source for everything Prometheus could not see. He tells it in a
+canteen in the winter, patiently, twice. **He is the first ordinary dead man Prometheus has
+ever taken information from**, and the chapter says so in one line and does not develop it.
+Available again later; do not let him carry
+[DC4](#dc4--aress-army)'s point about the army as precedent, which belongs to 29.
+
+**Hera goes to the west room.** She comes up the road on her own feet, twenty minutes behind
+the assault, in through her own front door, and up to the one room with the shelf in it —
+the returned bottles from [DC21](#dc21--the-ledger-in-his-hand), hers uncollected at the far
+end in date order, undusted. She looks. She touches nothing. She goes back down, enters no
+other room, and is on the road again before it is over. Prometheus has it from a ball boy,
+months later, unasked.
+
+***This is the plant for 36 and it must never be explained.*** In 36 she comes to the water,
+refuses a chair, leaves at the third hour, and will not go into the west wing; Riddy states
+she cannot make it fit and has stopped trying, and explicitly does not call it love.
+Prometheus cannot interpret it here either — by 26 he has no interpretation left — so he
+reports it and says he has nothing to say about it. **Two narrators, fourteen chapters apart,
+both decline. Do not resolve this in 33 or anywhere else.**
+
+**"Is he still angry about the car?"** Zeus, in a dressing gown, at the edge of his own pool,
+with his son's army on the terrace, reaching for a grievance — because a grievance is a thing
+he can talk his way out of, per [DC17](#dc17--ares-and-what-gather-the-troops-turned-out-to-mean).
+**Nobody knows what car and no later chapter may invent one.** The joke only works while it
+stays unrecoverable.
+
+**The towel is fetched.** Somebody had to find one, in a house taken to the second floor, and
+carry it out to a god on his knees in the Meander in front of nine hundred men. A ball boy
+did it, because he was asked to, pleasantly, by name. That is the register for how the
+household absorbs all of this.
+
+**Artemis's bag.** She came home in the autumn with a soft bag, put it against the long-room
+wall under the second window on her first afternoon, and never unpacked it. It is still there
+in the spring. Prometheus went past it about two hundred times and filed it as somebody being
+slow. After she is killed there is nothing whatever to clear up — two ball boys arrive at half
+past twelve with a bucket, because a bucket is what you bring, and find a table, eight chairs
+and the bag. One of them takes the bag out. Nobody told him to.
+
+*Forces:*
+- **Ares commands from the bottom.** Two men, a lamp and a watch, at the foot of the west
+  face, for the whole of it. The boots pay off here: nine hundred dead men climb two thousand
+  feet of bad rock in the dark and arrive able to run.
+- **Hera never sees Zeus that morning**, and 33 still has Olympus to take. She takes the
+  terrace and the house to the second floor and not the seat.
+- Apollo's case in the argument is a good one and is made properly, so that his describing a
+  roof an hour later is a choice and not a stupor.
+- **Ledger constraint, kept:** no first-person plural anywhere in the chapter, no direct
+  address, present tense throughout, and no analysis Prometheus is no longer entitled to —
+  the one paragraph in the expansion that explained Zeus's grievance to the reader was cut
+  for exactly that reason.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

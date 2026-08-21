@@ -358,19 +358,20 @@ Do not "correct" the dip-then-rise in 16→20→22. It is the shape it is meant 
 
 ## Length
 
-Twenty-six chapters drafted, 50,257 words, averaging 1,933. Fourteen remain — 6, 8–12 in
+Twenty-six chapters drafted, 51,835 words, averaging 1,994. Fourteen remain — 6, 8–12 in
 Part One and 30–35, 38, 39 in Part Three — and at the event band they project the book to
-roughly 81,000.
+roughly 83,000.
 
 Most of what remains is *event* chapters, which carry cross-cut action, multiple locations and
 several speaking characters: the door opening, Zeus ageing in public, Hera taking Olympus,
 Krete voting, the endings. Those cannot be done at 1,600 words without turning into summary,
 which is the one failure mode this book cannot survive — see craft reminder 1.
 
-**Two drafted chapters are under band and should be expanded before the chapters that
-depend on them.** Chapter 26 is 1,429 words against an event band — it carries the strike on
-Olympus, Poseidon held in the Meander, and Artemis killed at her father's hands, and 32, 33
-and 34 all stand on it. Chapter 28 is 1,470 against a hinge band. Nothing else is short.
+**Chapter 26 has been expanded** from 1,429 to 3,000 — it carries the strike on Olympus,
+Poseidon held in the Meander, and Artemis killed at her father's hands, and 32, 33 and 34 all
+stand on it. What the expansion settled is in
+[DC25](11-S2-CANON.md). **Chapter 28 is still short**, at 1,470 against a hinge band of
+1,900–2,400, and is the only drafted chapter that is.
 
 **Target roughly 85,000**, reached by type rather than by padding:
 
