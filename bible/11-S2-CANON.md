@@ -883,6 +883,57 @@ it on a record.
 - Pairs deliberately with Chapter 3: two people in the same city, days apart, who cannot get
   their own lives believed, and who will not use each other to fix it.
 
+### DC21 — The ledger in his hand
+Established in Chapter 7. **This is where Prometheus's competence is real**, and it is also the
+cause of Chapter 20.
+
+**The chapter's job is authority.** Part Two spends it, so Part One has to build it, and this
+is the chapter that does. He shows his method explicitly and it works, at length, with a
+consequence the reader can check.
+
+**The crisis:** in the fourth week Zeus announces he is going north to fetch Hera. She has been
+at the compound eleven days, the letters are out and unanswered, and nothing is ready. If he
+goes he either burns a walled farm with his wife in it or finds the second valley. Prometheus
+has about a second and a half.
+
+**The method, stated on the page as four rules:**
+1. *Never take the premise off him* — agree early and warmly, so a man braced for a fight has
+   to stop and re-plan, and is yours while he does.
+2. *Change the object, not the verb.* He can still go and get her. How, though — and what will
+   he say when he arrives? Zeus has thought about the door and the journey and her face and not
+   about the sentence.
+3. *Give him the version where he was right.* Go north and you are a man who has been left,
+   fetching what left him, and it will be told that way for ever, especially if she comes back.
+   Wait, and when she comes up that road on her own feet you are a man who was proved right.
+   Zeus sits with it for four minutes and says *"She'll come."*
+4. **Never leave him with nothing to do.** Everything Zeus has ever done that could not be
+   undone was done in an afternoon in which nobody had given him a task.
+
+**The task is the trap.** Prometheus tells him to *count* the Meander — kingly, destroys
+nothing, and above all tedious enough to take weeks. Zeus is delighted and has a ball boy make
+him a chart.
+
+**It works, completely, for months.** He never goes north. Hera gets her season, Ares gets his
+mother, the letters go out and come back empty and she recalculates in her own time — all of it
+bought by a quarter of an hour in a garden.
+
+*Forces:*
+- **It is also why Zeus looks.** He counts for eleven weeks, is thorough, comes back in the
+  spring with a figure and a slope, and is correct about what the slope means. He would never
+  have looked; looking is what a man does when he is anxious about a supply, and it had not
+  occurred to him there could be a bottom to it. Prometheus put a ledger in his hand to keep
+  him in a garden, and it produced Alpheus. He claims the knowing and explicitly does not claim
+  the killing.
+- **Write Zeus as able.** The chapter says outright that he is not a fool — a man of
+  considerable ability who has never had to use it on anything that would answer back — and
+  that much of what follows is unintelligible if he is played as one.
+- **The shelf.** He has the rationed bottles delivered weekly anyway. Hades's comes back
+  unopened with a note from Persephone reading *thank you, he has what he needs*. Poseidon's
+  comes back in the second week without a note. Dionysus's goes south on a cart and is left in
+  a room. Hera's is held and never sent. By the fourth week they are on a shelf in the west
+  room in order with the dates, undusted, and he finds reasons to walk visitors past it and
+  slow down slightly and say nothing.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in
