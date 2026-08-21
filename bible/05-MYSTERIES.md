@@ -77,7 +77,7 @@ required of him remains open — see O6.**
 Answered in part, with a load-bearing piece missing.
 
 ### P1. What does the shared prophecy actually mean?
-> **Not settled.** Closes in **38**, which is undrafted. What *kaos reigns* turns out to mean is the last large thing the drafting stage still has to choose.
+> **Settled — [DC29](11-S2-CANON.md).** Runs in **38**. Not disorder — order that nobody owns.
 **Known.** *"A line appears, the order wanes, the family falls, and kaos reigns"* is held
 by Zeus, Riddy, Caeneus and Ari. Riddy and Caeneus establish in Episode 6 that "the
 family" is the gods. The first three clauses have visible referents by the end of the
@@ -96,7 +96,7 @@ duplication is explicitly flagged as impossible by the characters, so it must be
 meaningful, not a coincidence.
 
 ### P2. Can Zeus be killed, and is he already mortal?
-> **Settled — [DC15, DC21](11-S2-CANON.md).** Runs in **7**, **20**, 32, **36**.
+> **Settled — [DC15, DC21](11-S2-CANON.md).** Runs in **7**, **20**, **32**, **36**.
 **Known.** Prometheus states Zeus was born mortal and can be destroyed by humans. Zeus's
 divinity is sustained by Meander water. He has found a wrinkle, seen a blip in the
 Meander, and had a vision of himself bleeding while a Fate tells him gods don't bleed.
@@ -110,7 +110,7 @@ not through force. The Fates' framing also matters — the possibility exists bu
 his belief, and he has spent the whole season believing.
 
 ### P3. What is Hades planning?
-> **Settled — [DC9, DC13](11-S2-CANON.md).** Runs in 10, **14**, 39.
+> **Settled — [DC9, DC13](11-S2-CANON.md).** Runs in **10**, **14**, **38**.
 **Known.** He intends to go back into the Nothing and find a way to restore souls — to
 renew them, repair some of the damage, and get them back into the system. He tells Medusa
 he has taken too much from humans and is going to defy his brother.
@@ -202,7 +202,7 @@ is up to him — reads as a handover, which implies the plan's author considers 
 directed phase complete.
 
 ### O3. What does Prometheus do now?
-> **Settled — [D1, DC16](11-S2-CANON.md).** Runs in **1**, **24**, 35, **40**.
+> **Settled — [D1, DC16](11-S2-CANON.md).** Runs in **1**, **24**, **35**, **40**.
 **Evidence.** Freed mid-sentence while telling Zeus that his own weakness — his inability
 to kill the man he loves — is the only reason Zeus still rules. He then appears inside
 Zeus's house and tells him the vision was real and kaos is coming.
@@ -285,7 +285,7 @@ over Anatole is unresolved and unpunished. (c) He is the one character who can t
 about the underworld to the living and is not under anyone's orders.
 
 ### O9. What is Hera building?
-> **Settled — [DC17](11-S2-CANON.md).** Runs in **2**, **26**, 33.
+> **Settled — [DC17](11-S2-CANON.md).** Runs in **2**, **26**, **33**.
 **Evidence.** Confined by Zeus, stripped of her bees and her leverage. She immediately
 phones someone, calls herself "Mommy," and instructs them to gather the troops and make up
 a spare bed.
@@ -303,7 +303,7 @@ Olympus is *her* house — so any plan she runs is about taking it, not leaving 
 has lost the tacitas' confessions as a power source, which was the basis of her influence.
 
 ### O10. Poseidon, dispossessed and in love
-> **Not settled.** No canon entry yet. Runs in 11 and 34, both undrafted; what he is *for* between them has never been written down.
+> **Partly settled — [DC26](11-S2-CANON.md)** covers his death. Runs in 11 (undrafted) and **34**; what he is *for* in the year between still has no canon entry.
 **Evidence.** Stripped of Krete and every city, told to grow up. He has admitted to
 Dionysus that he has loved Hera forever and that it feels like his heart is outside his
 body. Dionysus promised not to tell, and kept the promise.
@@ -343,7 +343,7 @@ does with Krete is done by someone carrying that, and the show's cruelty about
 consequences forbids resolving it cleanly.
 
 ### O13. The Nothing, and the structural collapse
-> **Settled — [DC13](11-S2-CANON.md).** Runs in **27**, 30, 39.
+> **Settled — [DC13](11-S2-CANON.md).** Runs in **27**, **30**, **38**.
 **Evidence.** Hades: the Nothing was never meant to take that many; the Frame glitched
 because of the strain; it could break, and not just the underworld — Olympus and Earth
 too. Zeus's response was to forbid any change and strike him down.
@@ -363,7 +363,7 @@ always meaningless, and the unresolved are the only population in the underworld
 nothing to lose. They are a standing army nobody has recruited.
 
 ### O15. Zeus's absent children
-> **Settled — [DC5, DC17](11-S2-CANON.md).** Runs in **2**, **26**, 32.
+> **Settled — [DC5, DC17](11-S2-CANON.md).** Runs in **2**, **26**, **32**.
 **Evidence.** Ares, Athena, Apollo, Aphrodite, Artemis and Hermes are named on answering
 machines in Episode 2. None answers. Zeus's own theory is that his children disappoint him
 and so he keeps making more. Hera has been killing the mortal ones at birth.

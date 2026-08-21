@@ -382,9 +382,9 @@ Do not "correct" the dip-then-rise in 16→20→22. It is the shape it is meant 
 
 ## Length
 
-Thirty-two chapters drafted, 65,887 words, averaging 2,059. What is left is 6 and 8–12 in Part
-One and 38 and 39 in Part Three, and at the event band they project the book to roughly
-83,000.
+Thirty-four chapters drafted, 70,475 words, averaging 2,073. What is left is 6, 8, 9, 11 and 12
+in Part One and 39 in Part Three, and at the event band they project the book to roughly
+84,000.
 
 Most of what remains is *event* chapters, which carry cross-cut action, multiple locations and
 several speaking characters: the door opening, Zeus ageing in public, Hera taking Olympus,

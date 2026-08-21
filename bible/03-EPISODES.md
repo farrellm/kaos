@@ -221,8 +221,11 @@ for it; Riddy and Caeneus find the Nothing.
     hatred, seeded small — one rape, one dead child — until continents burn. You may play
     with humans, but never forget you are not one of them.
 18. Medusa phones Hades: they've found the soul.
-19. Riddy and Caeneus follow Nax's screams into the Nothing and find a woman they watched
-    go through the Frame that morning, standing among the ruined.
+19. Riddy and Caeneus follow Nax's screams into the Nothing and find a woman they had helped
+    through the Frame that morning, standing among the ruined — *"We just sent her through
+    the Frame."* The line is untagged in the transcript, so which of them says it is
+    **(unestablished)**; Riddy was coinless and never a diver, so the *we* is complicity
+    rather than job description.
 
 **Prometheus's narration.** His love for Charon and the cost of the greater good.
 Orpheus's usefulness. That others require much more help.

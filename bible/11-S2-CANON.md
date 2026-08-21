@@ -1408,6 +1408,111 @@ working it. That arrangement is the definition, and 40 is already looking at it.
 - The word *kaos* appears in only two drafted chapters — Caeneus's mother saying it in the
   river in 4, and Riddy reciting her own prophecy in 37. The ground is clean.
 
+### DC30 — The first disagreement, and what it was actually about
+Established in Chapter 10. Prometheus narrating, Part One, in command — this is the second of
+his two competence chapters and the competence on show is **reading**, not doing.
+[DC21](#dc21--the-ledger-in-his-hand) is where his method acts on the world; here he is simply
+the only person in the room who understands what he is watching, and the chapter says so.
+
+**The disagreement is not about Caeneus.** Hades wants *protect him*; Persephone says there are
+two hundred thousand people down there who have been told to wait two hundred years, and does
+not enlarge on it, because she never enlarges on anything.
+
+**What it is about is Orpheus.** Ten days earlier Hades refused a living man his wife on the
+grounds that *the dead do not come back* — which is not policy, it is the one thing he has
+instead of a defence: there are rules and he keeps them and the rules are the entire difference
+between him and his brother. And then his wife went into the corridor and countermanded him.
+They have never had that row; there was lightning that week, and a swimming pool, and then a
+woman came out of a river. **Neither of them says Orpheus's name and it is in every sentence.**
+
+So *protect him* is not custody, it is a man asking whether there is still a rule — because if
+a dead man can be used, the dead come back as policy, and the sentence he has said to every
+soul who ever asked him for anything was never true, and he built the machine that made it not
+true. She is not arguing with that. She simply does not think a rule that produced the Nothing
+is owed anything.
+
+**Hades makes his case twice and does not hear himself do it** — once as *protect him* and once
+as *understand him*, which are different sentences, and the second one has a lamp in it and a
+man being asked the same question in nine arrangements for an hour. He stops saying the second
+one out loud after this and keeps the notebook.
+
+**Nothing is decided, and that is the point.** He does not concede, she does not press, and what
+she does instead of winning is *schedule* — four items on an agenda for a Tuesday, with the
+people who will carry it in the room, one of them a woman off the Lethe desk called Ione. That
+is Chapter 14, and it is why
+Hades's silence there is the actual decision.
+
+*Forces:*
+- ***"How many times."*** Persephone asked Caeneus that morning whether he would do it again and
+  he said yes at once; she then asked **how many times** and he did not understand the question
+  — not evasion, he does not experience it as a quantity of anything. Prometheus files it in
+  three words, *mechanism not scalar*, and is pleased with himself. **This is the seed of 31**
+  and the chapter flags it as the one thing to keep.
+- **Persephone's doubt is voiced once**, per [DC19](#dc19--interception-is-not-renewal): she
+  wonders aloud what the year would have been if somebody had gone up that night while Zeus was
+  still frightened. Hades hears it as an opening and reaches for reassurance, and it was not an
+  opening — she does not waste time on questions with answers.
+- **The last question anybody asks him.** Persephone asks what Zeus would do if he found out.
+  Prometheus answers at length and is right: no investigation, no visit, the largest available
+  action performed upward at the family as a demonstration, somebody dying in front of people
+  who cannot stop it, chosen for being unmissed rather than for being guilty. That splits across
+  Alpheus in 20 and Artemis in 26 — **right about the mechanism, and it never happens for the
+  reason he was asked about**, because Olympus does not find out for a year. The chapter's last
+  line is that this was the last time anybody in that building asked him what a god would do.
+- Opens with the Persephone myth correction (R8), which is placed here because the manufactured
+  abduction is the same act as the manufactured Renewal: a story written in an afternoon to make
+  a woman's choice into a warning.
+
+### DC31 — Chapter 38: the port, the manifest, and the word
+Established in Chapter 38, which pays [DC29](#dc29--what-kaos-turns-out-to-mean) by
+demonstration and pays the promise Riddy makes in 30.
+
+**Riddy was never a diver.** She was coinless and had no job at all. On her third day she stood
+on the platform beside one while he talked a stranger into the water, and that afternoon the two
+of them found the woman standing in the Nothing, and one of them said *we just sent her through
+the Frame.* **Which of them said it is unestablished on screen and stays unestablished here** —
+Riddy has decided it does not matter, because *we* is the correct word and she has never wanted
+a different one. She has carried that woman for two years and has never known her name.
+
+**The port, moved here from 39.** No fare, because the coin bought passage through the Frame and
+there is nothing at the other end to buy. Turnstiles open. The dogs still work the lines because
+they like it. Medusa runs it, formally, with a title, which she finds funny. **And Hades does
+the arrivals himself** — not the video, him, on the dock, four times a day, telling them there
+is no Renewal and never was, that it was a machine for taking souls, that he built it and was
+told to and did it, that nothing will be asked of them and somebody will find them a bed. About
+one in twenty shouts at him. He takes it and does the next boat. *He has never once said "I love
+you" as a preamble to it, which is the measure of the thing.*
+
+**Above, nothing has changed.** They still bury people with coins, and the coins arrive in the
+pockets of the dead and go in a box, and it is not a small box. The tacita booths are still open
+with nobody at the other end (see [DC18](#dc18--krete-after-minos-and-why-riddy-cannot-get-a-hearing)).
+**There is no mechanism by which anybody would be told**, and the machinery of a religion with
+nothing at the far end of it takes longer to run down than you would think and is, in the
+meantime, indistinguishable from the real thing.
+
+**The manifest is the chapter's engine and it is admin.** Charon has every boat since he
+started, in crates in a room nobody has ever asked to see. He does it on Thursday. Two boats,
+four hundred names, seventeen into the water on that shift, one match: **Kleite**, fifty-one, a
+village forty miles east of Heraklion, buried properly by a sister-in-law. Then Prue's list —
+one of about nine, in pencil, wrong twice — turns up **Bion**, sixth sector, forty years dead,
+her brother, who had stopped going to the port and had not put his name down because he assumed
+the notice was for people who knew where their person was. Riddy knocks on his door herself.
+
+*Forces:*
+- **She catches herself starting a sentence with Caeneus in it** and lets it stand on the page so
+  the reader can watch her do it. It is the only place in Part Three she does this.
+- The Nothing: knee-deep, slow, and *the light is worse than dark* — a corridor at four in the
+  morning, coming from nowhere, on all of them. Prue's people have started marking positions,
+  which sounds monstrous and is the kindest thing done in that room. A boy on the door with a
+  list and a chair says good luck and means it, which rhymes with Hermes in 27 and is not
+  remarked on.
+- **The definition is stated once and is about the world, not about her**, per DC29's guard rail.
+  Zeus spent two years terrified of a rota, and he was not lying when he said he could not see
+  anything down there — an arrangement you are not skimming from is indistinguishable, from the
+  top, from no arrangement at all.
+- **Ends on Bion, not on the thesis.** He goes in most weeks now, for other people's, and is good
+  at it. Asked why, he says somebody came and knocked on his door.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in
