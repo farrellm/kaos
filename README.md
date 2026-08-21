@@ -114,6 +114,7 @@ Season 2 novelization chapters, written against the outline in
 | 32 — The Weather | [ch32-the-weather.md](drafts/ch32-the-weather.md) |
 | 33 — Counting | [ch33-counting.md](drafts/ch33-counting.md) |
 | 34 — In the Way | [ch34-in-the-way.md](drafts/ch34-in-the-way.md) |
+| 35 — Copied Out | [ch35-copied-out.md](drafts/ch35-copied-out.md) |
 | 36 — Owed Nothing | [ch36-owed-nothing.md](drafts/ch36-owed-nothing.md) |
 | 37 — The Tenth | [ch37-the-tenth.md](drafts/ch37-the-tenth.md) |
 | 40 — Page One | [ch40-page-one.md](drafts/ch40-page-one.md) |

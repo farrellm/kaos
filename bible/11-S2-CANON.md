@@ -1213,6 +1213,72 @@ take as long as it took.
 - Nikanor, from DC25, comes through with the nine hundred, is told on the dock, stops, and is
   a handler at the port by the spring.
 
+### DC27 — Chapter 35 is a document, and Prometheus never gets the narration back
+Established in Chapter 35. Riddy promised at the end of 34 to keep out of it, so she does the
+only thing that keeps the promise: **she copies it out.** Four pages of the fourth volume, in
+his hand, framed top and bottom by her, with a plain line telling the reader where the *I*
+changes hands.
+
+**This is the correct shape and it should not be repeated.** He gets his own voice for one
+chapter and only as a document, handed to the reader by the person who replaced him, with her
+choosing to include it and saying so. He has no access to anybody except through her. Do it
+once. [The ending](#dc16--the-ending) still has him in the third person at two hundred yards,
+and 35 must not soften that.
+
+**She closes two dials from outside.**
+- *Address.* There is nobody in that book being told anything after the port — two hundred
+  pages and he never turns round. She went looking because it had started bothering her. The
+  one *you* in the extract is him quoting himself saying **"You did it"** to Zeus, which is
+  why her observation is phrased as being about address and not about the word.
+- *Tense.* He is writing in the past again, and she names the difference: the old past tense
+  was the one a man uses when he already knows how a thing comes out, and this is just the
+  tense you use for something that happened.
+
+**The scene.** The week after Poseidon, the house emptying — Hermes gone, Aphrodite after him,
+Apollo packing by leaving one bag out for a fortnight, Ares at the north end not coming down
+for meals, four at a table that used to seat a party, Athena carving badly. Zeus is outside in
+a chair with a blanket beside a cold swimming pool nobody has ever swum in, with the peacock.
+
+**Zeus asks where Poseidon has gone for the third time and this time he is told.** All of it,
+flatly, including *You did it.* Something arrives in that face and stays four or five seconds
+and is **not confusion**, and then it goes, and he says "Well," and that it is a shame, because
+Poseidon had been at the house a lot lately. That is the answer to why nobody punishes him: he
+can be told, and it does not stay told.
+
+**He puts both hands on Zeus's neck and cannot.** There is less in that man by then than in the
+girl doing the corridors; nobody is within four hundred yards; his wife would not have crossed
+the terrace to stop it. **And Zeus leans back into it**, sighs, and says "Oh, that's good,"
+because nobody has touched him since the spring.
+
+**The realisation, which is the chapter: it was never a weakness. It is the specification.**
+They did not need a killer — a killer does it in the first century, before there is a girl in a
+road in Krete or a boy in a compound or a woman arranging to stand in a river on a particular
+day, and the reservoir simply gets a new man sitting on it. What they needed was somebody who
+would spend four thousand years arranging everything else, and the only way to get that out of
+a man is to choose one who cannot take the short way.
+
+**Lachesis's line from 25 lands here.** *The reason it had to be him is that it had to be
+somebody I could not do it to twice.* He heard it as being about Charon. It was his job
+description, and he has been carrying it in a notebook since October.
+
+***He does not know what it is for, and 35 may not point at 36.*** Per
+[DC15](#dc15--renewing-zeus), the reader assembles that his weakness is the qualification —
+that the only being still coming for Zeus is the man who loved him and could not do it, and
+that renewal requires exactly that. Nothing in this chapter may reach for it. He ends on *I do
+not know what it is for. There is presumably something it is for. I have stopped being the
+person who is told.*
+
+*Forces:*
+- **"Same time tomorrow?" — "Yes."** closes Chapter 1, which ended on the same exchange and on
+  him promising reasons and inviting them to be weighed. **He does not join it up and there is
+  no note in the book.** Riddy did, and says so, and gives the weighing: they were not
+  excellent reasons; he went back every day for two years because it was the only appointment
+  he had.
+- Riddy says there are two places in the extract where she wanted to cut and did not. **She
+  never says which**, and nobody may establish it later.
+- Apollo packing by leaving one bag out for a fortnight rhymes with Artemis's unpacked bag in
+  [DC25](#dc25--the-strike-on-olympus-and-the-five-things-it-fixed). Neither text remarks on it.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

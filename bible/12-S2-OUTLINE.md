@@ -358,9 +358,9 @@ Do not "correct" the dip-then-rise in 16→20→22. It is the shape it is meant 
 
 ## Length
 
-Twenty-nine chapters drafted, 59,303 words, averaging 2,045. What is left is 6 and 8–12 in
-Part One and 30, 31, 35, 38 and 39 in Part Three, and at the event band they project the book
-to roughly 83,000.
+Thirty chapters drafted, 61,248 words, averaging 2,042. What is left is 6 and 8–12 in Part One
+and 30, 31, 38 and 39 in Part Three, and at the event band they project the book to roughly
+83,000.
 
 Most of what remains is *event* chapters, which carry cross-cut action, multiple locations and
 several speaking characters: the door opening, Zeus ageing in public, Hera taking Olympus,
@@ -379,7 +379,7 @@ stand on it. What the expansion settled is in
 |---|---|---|
 | Reckoning — one narrator, one realisation | 1,300–1,900 | 13, 16, 22, 23, 25, 27 |
 | Event — cross-cut, multiple speakers, things happen | 2,200–3,000 | 15, 19, 21, 26, 29, 30, 32, 33, 34, 39 |
-| Hinge — an event *and* its reckoning | 1,900–2,400 | 20, 24, 28, 36, 37, 40 |
+| Hinge — an event *and* its reckoning | 1,900–2,400 | 20, 24, 28, 35, 36, 37, 40 |
 
 Part One still has the most room and the least written: 6 and 8–12 are single-beat sketches,
 and several are event chapters carrying a whole strand's opening.
