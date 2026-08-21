@@ -784,6 +784,55 @@ the tacitas and there is no mechanism by which anybody would.
   weeks. Riddy spends the minute trying to work out whether Ari believes the words she is
   reading, cannot tell, and finds that encouraging.
 
+### DC19 — Interception is not renewal
+Established in Chapter 4, which rewinds to the same hours as Chapter 1 from two hundred feet
+under the world. **The single most important mechanical distinction in the book.**
+
+- **Interception** — a soul caught *on the way through* the Frame and brought back the way it
+  went in, whole, with everything still on it. This is what happens to Caeneus's mother. She
+  comes out standing up in a river she walked into ninety seconds earlier.
+- **Restoration** — a soul already in the Nothing, which has been all the way through and has
+  had its wanting taken out. It cannot be brought back whole. It can only be started again as
+  a new life on Earth, which is a one-way door. This is the eleven in Chapter 15 and everything
+  after.
+
+Nobody had a word for it that night, so they said *renewed*, which is Hades's word and is
+wrong, and it stuck. **Only one soul in history was ever in the intercepted condition**,
+because only one person arranged ten years in advance to be standing in that water on that
+day.
+
+**She walked in to prove a point.** She was not sacrificing herself; she had come to take her
+son through the Frame because that was the appointment, and when he would not have it she went
+in ahead of him to show him it was safe. *You see?* are her last words before it. He went in
+after his mother, which was not a decision either.
+
+**Hades on his knees in the mud**, asking *How did you do that?* and getting *Do what?* Caeneus
+has no method and says so nine different ways in an hour. His last answer that night: **"I held
+on to her."** Hades writes it down; it is the first line of a notebook that runs to four
+hundred pages by spring, which Daedalus later hands back after ten minutes as a diary rather
+than a record.
+
+*Forces:*
+- **The operation is born concealed.** Persephone arrives, walks the bank once and says
+  "Nobody says anything upstairs," and it takes eleven seconds because there is nothing in it
+  to decide. Everything afterwards happens inside that. She has since said she would take it
+  again, and has also wondered what the year would have been if somebody had gone up that night
+  while Zeus was still frightened — and Persephone does not waste time on questions with
+  answers. **This plants the fork in 10.**
+- **Asphodel hears in four days and Olympus in a year.** Thirty people were at the Lethe, half
+  of them off shift. The version that travels is not the god on his knees; it is *a woman went
+  into the water and came back out*, told badly, in canteens, by somebody's cousin — to two
+  hundred thousand people who have been told they are waiting two centuries for a door. The
+  Stoppage starts here.
+- **There is no category for her.** Buried with a coin, so not unresolved; entitled to pass and
+  prevented; no sector, no bed. Medusa puts her on the strength as a handler in ninety seconds
+  because it is the only paperwork that will take her. She is not especially good at it.
+- **The reunion is not one.** Six feet apart for an hour while gods talk over them. She does
+  not apologise and he does not ask her to. What she says eventually is *"Is it done?"* — she
+  means the prophecy, and nobody can tell her. Then *"It had to be today,"* and Prue, being
+  kind and knowing none of the background, says gently that it has gone midnight, so it is
+  tomorrow now, actually.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in
