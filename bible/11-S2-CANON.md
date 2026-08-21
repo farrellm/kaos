@@ -457,6 +457,48 @@ Ari's staff who assumes she will be pleased.
 - Calli books him and has since he was nineteen. Her relation to him is **left unestablished
   on the page**, in keeping with the transcripts, and Prometheus says so himself.
 
+### DC12 — Daedalus lived, and how
+Established in Chapter 17. **Closes [P5](05-MYSTERIES.md)** — decided deliberately, as that
+entry required, rather than left vague.
+
+**He is alive, and maimed.** The right hand is gone above the wrist, taken in the first
+seconds; he does not remember it happening. Most of the sight in that eye. He can design and
+cannot craft, which is the condition he builds the door in from 18.
+
+**Why nobody found him.** He built the place, and there is no plan of it because the plan was
+a man. He crawled into a section the palace drawings show as solid rock. Critically, **he did
+not know Minos was dead** — the last thing he knew was Minos hunting him through the building
+— so he hid from a man who had been stabbed to death two floors above, for four and a half
+months. He could have walked out from about the third week and met people carrying furniture.
+
+**What he lived on.** For thirty years he took Glaucus more food than a boy in a cell could
+eat and cached the surplus in his own sections, so consistently that the palace stopped
+querying the quantities. He has never given a reason and says he supposed there might be a day
+he could not get down there. It was guilt, and it is the only reason he is alive, and nobody
+has said so to him.
+
+**How he was found: the bell.** The flat piece of metal on a wire he made thirty years ago, so
+the boy would know it was him and be gentle. Ari found it in his workshop, learned what it
+was, and went down every evening for four and a half months and rang it — not his name,
+because a man hiding from a hunter does not come out for his name. The bell only ever meant
+one thing in that building: *it is me, and you are safe.*
+
+*Forces:*
+- Her administration thought she had lost her mind and the chamberlain told her so in the
+  fourteenth week. She agreed with all of it, thanked him, and went down at seven. This is the
+  same ruler who is thought reckless for the franchise in 21.
+- **For the last six weeks people were living in the cells above him** — the labyrinth was
+  already being converted to housing for the emptying southern compounds — and he heard
+  families and took them for a search party.
+- Ari tells him about Glaucus herself, on the first day, before they clean him up, because
+  three days of not knowing is what her father would have arranged. He asks whether the boy
+  knew who she was at the end, is told he said *twin*, says "He had about eleven words," and
+  recites the other ten in order.
+- **The seed of 18 is planted here and must stay unremarked**: he asks Prometheus what the
+  place under the world is *built* like — cut or poured, river channelled or found, whether
+  the door is a door in a wall or a wall with a door in it, because those are different
+  problems. Prometheus answers as small talk and thinks a maimed man is making conversation.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in
