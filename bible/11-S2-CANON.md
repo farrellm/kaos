@@ -499,6 +499,50 @@ one thing in that building: *it is me, and you are safe.*
   the door is a door in a wall or a wall with a door in it, because those are different
   problems. Prometheus answers as small talk and thinks a maimed man is making conversation.
 
+### DC13 — The door is a channel, and why only a mortal could design it
+Established in Chapter 18. This is what Daedalus builds, and it makes 30's language literal —
+the Nothing **drains**.
+
+**The bottleneck was never Caeneus.** He can carry as many as there are; what it costs him is
+a separate horror and not a rate limit. The bottleneck is **retrieval**: someone has to go
+into the Nothing and bring them out one at a time by hand, that someone is Hades, there is no
+second someone, and by the fourth in a day he has to sit down.
+
+**The design: stop carrying them out, take the water in.** The Lethe runs past the Nothing a
+little above it, ninety feet away through rock. Cut a channel at the right fall and the water
+goes in on its own and keeps going, and the floor of the Nothing becomes the shallow end of
+the river. Nobody retrieves anyone. The grievers walk in among them. Drawn on the back of four
+sheets of accounts paper.
+
+**Why no god could do it — the Frame conversation.** Daedalus asks Hades how the Frame was
+made and gets nothing: what it is made of, what he started from, how long it took, whether
+there are drawings. The last question is how he knew it was finished, and the answer is *"It
+stopped needing anything from me."* So the machinery of death cannot be repaired, modified,
+throttled or reversed, because nobody — including the god it came out of — knows how it
+functions. Gods command, transform and destroy. The only thing in the apparatus that was
+genuinely *built* was built by a mortal who charged for it.
+
+**Caeneus finds the real limit**, being the only person in the room who has been inside it:
+the grievers have to stand in the Nothing to be heard, so the number is not the rock, it is
+how many human beings can be asked to walk into the worst place that has ever existed and say
+a name at one of the people standing up in it. His estimate: the first forty are the hardest,
+and after that it either stops entirely or does not stop at all. **This is what 29 answers.**
+
+**Two years, if nothing goes wrong.** Hand tools only — no blasting near a structure nobody
+can characterise — short shifts, dead crews. Asked for an eight-month version he says there
+are several and they all end with ninety feet of rock on a working party or the river
+somewhere it cannot be got back from.
+
+*Forces:*
+- He tells them it will take longer than they have, is right, and starts on the Tuesday. This
+  is the line Riddy repeats in 28 as the only posture available to any of them.
+- Ari's argument for hiring her father's creature: he is the only person alive who built
+  something the gods could not follow him into, and she is in the market for exactly one of
+  those.
+- **Ledger constraint for the chapter, kept:** no god performs a consequential action in it.
+  Every divine verb is speech, negation or hypothetical. Humans do all the work, and
+  Prometheus's closing recognition is not that he was useless but that *they* were.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

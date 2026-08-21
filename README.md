@@ -94,6 +94,7 @@ Season 2 novelization chapters, written against the outline in
 | 15 — Volunteers | [ch15-volunteers.md](drafts/ch15-volunteers.md) |
 | 16 — Fotis | [ch16-fotis.md](drafts/ch16-fotis.md) |
 | 17 — The Bell | [ch17-the-bell.md](drafts/ch17-the-bell.md) |
+| 18 — A Wall With a Door In It | [ch18-a-wall-with-a-door-in-it.md](drafts/ch18-a-wall-with-a-door-in-it.md) |
 | 19 — Distribution | [ch19-distribution.md](drafts/ch19-distribution.md) |
 | 20 — The Old Method | [ch20-the-old-method.md](drafts/ch20-the-old-method.md) |
 | 21 — Secondhand | [ch21-secondhand.md](drafts/ch21-secondhand.md) |
