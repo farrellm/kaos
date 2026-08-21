@@ -934,6 +934,53 @@ bought by a quarter of an hour in a garden.
   room in order with the dates, undusted, and he finds reasons to walk visitors past it and
   slow down slightly and say nothing.
 
+### DC22 — Why prophecy stopped, and what the Fates wanted
+Established in Chapter 37. Closes O4 and newQ3, and is the last explanation the book owes.
+
+**The mechanism, stated once by Riddy and never lectured by anybody.** A prophecy is *written*
+about a life, and what a life is made of is what is available to it — the shapes it could
+take. That is the material on their table. Zeus had hundreds of thousands of them in a room
+under the world with the wanting taken out, and past some point you cannot keep drawing that
+much out of the world and still have enough left to write with.
+
+**So they stopped the way a mill stops.** Not a protest, not a strike — the version that got
+about, and which Riddy has had to correct repeatedly. They sat in a drained municipal baths
+for a year and a half because there was nothing to do, and let Zeus believe he had done it,
+because it cost nothing and because they have never corrected anybody about anything.
+
+**What they wanted was never Zeus's death.** Asked straight out, Lachesis is genuinely
+surprised: *"Why would we want that?"* Then the closest thing to a statement of purpose any of
+them gives: ***"We wanted to be able to do the work."*** Riddy's finding is that nobody was
+ever on our side — not against us, which would be something you could work with; there was
+simply never anybody up there whose business was us.
+
+**The ask-chain pays off silently.** Lachesis greets her with *"Oh good, it's the one who
+asks."* Riddy does the thing Prometheus never did, gets answered, and **nobody in the book
+remarks on it.** Per DC2, no third character says a version of *you didn't ask*, and none does.
+
+**How prophecies reach people stays unexplained**, as DC8 requires. She asks — it is the thing
+she actually wanted — and gets *"Yes,"* then agreement that this is not an answer, then a
+biscuit. Her conclusion: nobody in this story has ever explained anything to anybody; they
+answer what you ask and only that, and the wrong question gets a true sentence that leaves you
+where you were.
+
+*Forces:*
+- **Riddy does not think prophecy coming back is good.** Minos murdered a child over a true
+  one; Ari carried hers from before she was two until she was thirty-one; Caeneus's mother
+  handed him to a compound to make his come true and waited ten years to finish the job, and
+  did it *correctly* by the terms of the thing. Ekhi does not defend it: *"It's not for their
+  good. It's just what's so."* Asked whether she would rather have the silent year and a half
+  back, she says no immediately, thinks for a long time, and says no again slightly
+  differently.
+- **Prometheus's answer arrives to somebody else.** Riddy goes down specifically to tell him,
+  with it arranged on the crossing. He says *"Ah,"* observes that it makes sense of the timing
+  in the voice of a man agreeing with a bus timetable, and goes back to work. He has finished
+  with it. It was never his question anyway.
+- **The closing image pays Chapter 23's opening.** The boy who was short on a Thursday gets his
+  tenth: four lines about a woman in a village who will not be told for years and may never be,
+  recited twice in the flat voice with the music stripped out, while Ekhi puts the kettle on
+  and the man with the bad chest asks whether there is any of the lemon thing left.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

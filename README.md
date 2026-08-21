@@ -112,4 +112,5 @@ Season 2 novelization chapters, written against the outline in
 | 28 — The One Who Has to Talk | [ch28-the-one-who-has-to-talk.md](drafts/ch28-the-one-who-has-to-talk.md) |
 | 29 — What We Did About It | [ch29-what-we-did-about-it.md](drafts/ch29-what-we-did-about-it.md) |
 | 36 — Owed Nothing | [ch36-owed-nothing.md](drafts/ch36-owed-nothing.md) |
+| 37 — The Tenth | [ch37-the-tenth.md](drafts/ch37-the-tenth.md) |
 | 40 — Page One | [ch40-page-one.md](drafts/ch40-page-one.md) |
