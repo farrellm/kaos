@@ -693,6 +693,49 @@ that she does not know whether it is a good thing that happened to him or the la
 weeks and then it will not, and he will still want that part, and she will do it from memory
 and he will not know the difference and she will.
 
+### DC17 — Ares, and what "gather the troops" turned out to mean
+Established in Chapter 2. Serves O9 and O15, and supplies the army that fails in 26.
+
+**Hera meant it as a figure of speech.** Her Episode 8 call — *Darling, it's Mommy. Gather the
+troops, and make up a spare bed* — is the thing people say about a dinner. She was assembling
+a **position**, which is the only thing she has ever assembled. Prometheus reads it the same
+way and says so, which is why 26 can state that the army was not obvious to anyone including
+his mother until she walked up to the gate.
+
+**Ares went and gathered them.** Nine hundred dead men in a second valley behind the compound,
+held out of the river on his own authority for four hundred years, in ranks — not at attention,
+but every one of them knowing where he stands and able to be there inside a minute.
+
+**There is no grievance, and this is the point.** Zeus's voicemail in E2 — *see if you're, I
+don't know, still mad at me* — assumes a rupture, because a grievance is something Zeus can
+talk his way out of. Ares was not sulking for four centuries. He was given war and did it
+properly, which in peacetime is maintenance; he assumed somebody would eventually want it,
+nobody ever did, and he ordered the boots anyway. He is mildly puzzled by the question when
+asked.
+
+**Write him against the myth.** He answers his own door in an apron with his sleeves rolled up
+because he was nearest to it. His first words to a mother he has not seen in three hundred
+years are *"You made good time."* He walks her four hundred yards along the front of an army
+she did not know existed and talks about the standing order on footwear. Asked why, he says:
+*"Because it's mine."*
+
+**The compound reads wrong on purpose.** A waist-high stock wall in excellent repair, an open
+gate with nobody on it, two kitchens, a great deal of stacked firewood, forty people doing
+something repetitive in lines at a fixed hour. Prometheus watches it for a day and concludes
+it is a tidy sort of place, having lost the habit of the specific.
+
+*Forces:*
+- **Hera travels north on foot over nine days** with two bags and no tacitas, because a god who
+  arrives in an instant announces herself, and the only person still watching for her is her
+  husband.
+- **The five letters.** In her first week she writes to the other five children in her own
+  hand — not a summons, an offer of somewhere to be. Nothing comes back. They come home in the
+  autumn instead, to their father, once he has gone back to killing gods and is sleeping well.
+  Not to the mother who wrote; to the strong one. **This is the mechanism behind 26 and 32 and
+  it must not be softened.**
+- She ends the chapter counting, which is what she has done at every table for four thousand
+  years. What is new is that she now knows there is more than she thought there was.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in
