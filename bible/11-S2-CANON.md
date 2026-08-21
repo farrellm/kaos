@@ -210,20 +210,27 @@ is the only member of that family who ever maintained his portfolio. There are s
 There is a standing order about boots.
 
 *Forces:* this is an unpaid debt against the underworld's own accounting, and it explains the
-old discrepancies in Charon's manifests that he has been complaining about for millennia. It
-should surface again when the unresolved rise in Chapter 29 — those men are the precedent for
-a population held out of the river on someone's say-so.
+old discrepancies in Charon's manifests that he has been complaining about for millennia. **It
+pays off in 33, not 29** — the drafted 29 had no room for it and did not need it. Ares walks
+the nine hundred to the Styx himself in the winter, once the war is over and there is nothing
+further to hold them for; Charon does them in nine days off a table on the dock and finally
+gets his column to reconcile, which is the only part of it he comments on. See
+[DC26](#dc26--the-winter-32-33-and-34).
 
 ### DC5 — The Olympian ledger after Chapter 26
 
 | Who | Where, from 26 onward |
 |---|---|
-| **Ares** | North, with Hera, commanding |
-| **Athena** | Olympus. Not speaking to anybody at all |
-| **Apollo** | Olympus. Watched his twin killed four feet away and stayed |
+| **Ares** | North, with Hera, commanding. Comes down alone in 32; back north in the spring |
+| **Athena** | Olympus. Not speaking to anybody at all — from *before* 26, cause never given. Speaks in 32 and runs the household from then on |
+| **Apollo** | Olympus. Watched his twin killed four feet away and stayed; stays a while after 32 |
 | **Aphrodite** | Olympus. Said the cruellest true thing in the argument |
-| **Hermes** | Olympus, then on the door of the Nothing from 27, with a chair and a list |
+| **Hermes** | Olympus, then on the door of the Nothing from 27; walks out on the twelfth day of the Stoppage in 29, unaccounted for until he arrives in 32 |
 | **Artemis** | Dead. Killed in 26 for saying she would rather be in the north |
+
+**Dionysus is not in this table and that is the point.** The family counts itself in sixes and
+never included him. In 32 nobody sends for him, and it occurs to nobody in that building that
+there is a sixth living child of that man to be told. He finds out from a song.
 
 Five living children. The outline's count at 32 — *the five who are left* — depends on this
 table, and Chapter 26's own arithmetic depends on Ares being absent from Olympus.
@@ -1098,6 +1105,113 @@ and the bag. One of them takes the bag out. Nobody told him to.
   address, present tense throughout, and no analysis Prometheus is no longer entitled to —
   the one paragraph in the expansion that explained Zeus's grievance to the reader was cut
   for exactly that reason.
+
+### DC26 — The winter: 32, 33 and 34
+Established across the three chapters of Zeus's collapse, Hera's inheritance and Poseidon's
+death. Riddy narrates all three from the same two sources — Prometheus's book, which by that
+winter is four volumes and a box, and Hera, in pieces, never when asked — and she says so once
+in 32 and does not re-litigate it.
+
+**Why him and not the rest of them.** They had all been dry for a year, since the rationing;
+they found the floor of what they actually are and had been standing on it since the summer.
+He had no floor, because there was hardly anything down there that was not the river. **The
+one who took the most had the most to lose**, which is not a moral, it is what the arithmetic
+says. This is the mechanism that lets Hera and Ares be fine while he stops, and it must not be
+softened into aging.
+
+**The sound.** The Meander's noise goes off on a Wednesday and does not come back. It went off
+once before — four in the morning in the spring, in
+[DC25](#dc25--the-strike-on-olympus-and-the-five-things-it-fixed) — and came back that
+afternoon and nobody mentioned it.
+
+**The failing sentence** is the Hercules story, told perhaps two hundred times over four
+thousand years and going badly even by its own standards. He stops in the middle, asks
+pleasantly whether somebody could go and look at the river, and never asks again, never
+finishes the story and never tells it again. **The weather goes first** — a small private
+thing with the sky, done the way another man cracks his knuckles. He tries four times over a
+week and then stops trying, which is worse than the failing, because a man who keeps trying
+still thinks it is a fault in the world.
+
+**The five arrive over about ten days, separately, unsummoned, to watch.** Nobody lifts a hand
+against him and nobody helps him, and there was no helping him: the only thing anyone could
+have done was find him something to drink, and finding him something to drink is how Alpheus
+and Artemis died. Ares walks up the road alone; **Zeus is delighted to see him and never
+mentions the army**, not once in three months. Two readings — a manoeuvre, or a man genuinely
+filing it under *his son came* — and Ares does not know either and says the second is worse.
+**Do not resolve it.** Ares goes round the house with the man about the roof on his first
+afternoon, finds four things wrong with it, and fixes a lintel in the staff corridor that
+would have come down on somebody.
+
+**There is no throne, and the river was the seat.** A court is not loyalty or awe, it is a
+queue; the reason nobody took Olympus in four thousand years is not that it was defended but
+that taking it would have got you the tap. So when Hera takes it, nobody stops her, there is
+no siege, and the inventory comes to: a dry ditch, a year of unopened post, a tacita cabinet
+that still works perfectly and is worth nothing, a house that needed a lintel, and a husband
+who tells the staff she has come back and is never corrected by anybody, including her.
+
+**She writes about ninety letters to the governments of the world in her own hand and nothing
+comes back.** Two of them write to Zeus, out of filing. This is the second time — the five
+letters in [DC17](#dc17--ares-and-what-gather-the-troops-turned-out-to-mean) are the first —
+and the rhyme is the point and must not be remarked on.
+
+**The tacita booths are still open.** She opens the cabinet, listens to a few, and shuts it,
+because the confessions were only ever for knowing things the man in that house did not know
+and the man in that house is downstairs asking what day it is. Riddy notes she has thought
+about walking into a booth and telling them, and has not, and has no good reason. Nobody has
+told the tacitas. Nobody is going to.
+
+**The affair was over before the spring and neither of them decided it.** Everyone expected
+the opposite. It had been two people getting something out of the same arrangement, and the
+arrangement was that there was a man on that mountain who had everything, and when he stopped
+having everything it stopped being that. Poseidon spends the winter walking the dry bed of the
+Meander, most days, the length of it and back, and nobody knows what for. **After he dies Hera
+walks it.** Nobody mentions it to her. Riddy sets this beside the west wing and explicitly
+refuses to build a theory out of the pair.
+
+**Poseidon's death.** Zeus is starving; there is nothing left in that house but gods and
+staff. Hera at the head of the table doing correspondence, Prometheus by the door. Zeus stands
+up, says her name, crosses the room. Poseidon is between the table and the doors because that
+is where he is standing, puts an arm out the way you break up something at a party, and says
+**"All right. All right —"**, and does not finish the second one. Four seconds. Hera is through
+the doors before it finishes.
+
+*Deliberately unresolved:* **whether he knew what he was doing.** Hera has never moved off the
+position that he did — that he had been looking at her for a week the way he used to look at
+the glass. The book says he was confused and that what was left in him was the oldest reflex
+he had, going off the way a hand closes. Riddy declines to arbitrate and says the difference
+is the difference between a murder and a catastrophe and that she can live without knowing.
+
+**It bought him about a month and made him worse.** Hundreds of thousands, and then one — and
+Poseidon had been off the river since the second week of the summer. Steadier for four days,
+then worse than before, permanently. Nobody knows why; the page in the book where Prometheus
+tries to work out the exchange rate is the worst thing he ever wrote and is half blank.
+
+**The sea was fine.** No storm, no stillness, no wrong tide, an unremarkable week for weather
+at sea in three ports Riddy checked because she could not believe it. The sea was never his.
+**This makes Alpheus and Poseidon the same case** — a god of a silted river with a road on the
+bed of it and a god of an ocean that never depended on him, differing only in four thousand
+years of everybody agreeing not to check. Alpheus was not the exception, he was the
+demonstration. This is the payoff of [DC1](#dc1--alpheus) and it should not be stated again
+anywhere else.
+
+**There is no body and no ceremony.** A god goes in through the hands and stops being there.
+No coin, no ferry, no dock, no name read out — which is unbearable specifically for Ares, who
+had spent nine days that same winter saying nine hundred names on a dock and being allowed to
+take as long as it took.
+
+*Forces:*
+- **Prometheus is by the door and does not move.** His entry is four lines and ends *I was six
+  feet away and I did not move, and I want to record that I did not want to.* Riddy cannot
+  tell whether it is a confession or the first honest thing. He goes and finds Zeus afterwards
+  — that is 35, and 34 explicitly stands out of its way.
+- **Zeus asks where Poseidon has gone, twice that week**, pleasantly, in the middle of other
+  conversations, the way you ask after somebody who has stepped out. The first time a member
+  of staff tells him. The second time nobody does.
+- **Riddy is hard on the children and says so**, and then says exactly what she does and does
+  not judge them for. She does not judge them for failing to help him. She judges them for
+  coming a long way to watch and not going home first to get anything.
+- Nikanor, from DC25, comes through with the nine hundred, is told on the dock, stops, and is
+  a handler at the port by the spring.
 
 ## New questions this opens
 
