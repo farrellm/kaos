@@ -543,6 +543,58 @@ somewhere it cannot be got back from.
   Every divine verb is speech, negation or hypothetical. Humans do all the work, and
   Prometheus's closing recognition is not that he was useless but that *they* were.
 
+### DC14 — The Stoppage
+Established in Chapter 29. Closes O14, and is the cause of Zeus's decline in 32.
+
+**The underworld is a workplace and the workforce is the unresolved.** Handlers, divers,
+turnstiles, canteen, dogs, boats, laundry — all of it. Roughly two hundred thousand of them
+against eleven gods and four to six hundred people working directly for Olympus. Nobody had
+ever added it up.
+
+**Prue organises it**, which pays off her ineligibility in 15: sixty-one years of doing the
+chairs turns out to be a qualification, because she knows everybody and everybody likes her.
+Eleven thousand names on a list before she tells anyone she is making one. Her question is the
+whole chapter: *what have they actually got?* She cannot be killed, cannot be denied a Renewal
+that does not exist, and cannot be sacked. The only threat left is the Frame.
+
+**It is a dock, not a barricade.** Forty per cent stop. The port goes first because a ferry
+arrives every four hours whether anyone meets it or not. The hard part is standing near
+frightened people and deliberately not helping them; several people cannot do it and go back
+to work and are judged by nobody except themselves.
+
+**Adrian is put through the Frame on the sixth day**, off the edge of the dock, in front of
+nine hundred people. He would have been forty-two years dead in the November. Riddy refuses
+to build him a paragraph and says so.
+
+**The turn is that nobody disperses.** You cannot process nineteen thousand people who are
+standing still: ninety seconds a soul, one Frame, at the other end of the underworld, and the
+entire apparatus for getting people to it depends on them walking there themselves. *Nobody
+can be forced* is the oldest rule in the building, and Olympus built the system on it and
+forgot it was load-bearing.
+
+**Hermes is never touched** — Prue's rigid instruction, because the moment somebody puts a
+hand on a god it becomes a story about that. On the twelfth day he folds his chair, says "This
+is silly," and walks out through them. Somebody says good night; he says good night back.
+
+**The real consequence is not the door.** Adrian spent six days telling arriving souls the
+truth, others took over, and something like a hundred and ten thousand people were told on
+arrival what the Frame is. Almost none went in. **So the harvest stopped**, twenty-three days
+before anyone upstairs noticed, and it was a side effect of one man being kind to strangers on
+a dock. There was no interdiction. There was Adrian.
+
+*Forces:*
+- **This is why the Meander fails in 32.** The supply had already stopped; everyone was
+  watching the door.
+- **Hades and Persephone do nothing in public for twenty-three days**, and are right to,
+  because the moment Zeus knows the management is with the strike he replaces them with one of
+  the children who came back. What they do is decline to break it, which was available every
+  day. Riddy states the argument, says she knows it is the same thing as doing nothing, and
+  does not resolve it.
+- Caeneus walks the corridor an hour after Hermes leaves. That is what twenty-three days and
+  Adrian bought: one man to the water. He tells Prue his feet hurt too, which is a lie,
+  because he has not been able to feel them since the spring.
+- The name is Prue's, unconsidered, in her head, because that is what it was.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

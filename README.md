@@ -105,3 +105,4 @@ Season 2 novelization chapters, written against the outline in
 | 26 — The Argument | [ch26-the-argument.md](drafts/ch26-the-argument.md) |
 | 27 — The Door | [ch27-the-door.md](drafts/ch27-the-door.md) |
 | 28 — The One Who Has to Talk | [ch28-the-one-who-has-to-talk.md](drafts/ch28-the-one-who-has-to-talk.md) |
+| 29 — What We Did About It | [ch29-what-we-did-about-it.md](drafts/ch29-what-we-did-about-it.md) |
