@@ -9,18 +9,27 @@ A **content and analysis repository**, not a software project. It holds transcri
 The long-term goal is a **novelization of a non-existent Season 2** that resolves Season 1's
 open plot threads.
 
-There is no build, no test suite, no linter, and one Python script. Most work here is
-reading transcripts and writing Markdown.
+There is no test suite and no linter. Two Python scripts: one fetches the transcripts, one
+builds the drafts into an EPUB. Most work here is reading transcripts and writing Markdown.
 
 ## Commands
 
 ```bash
-# Re-download and regenerate all transcript formats (only script in the repo)
+# Re-download and regenerate all transcript formats
 .venv/bin/python download_transcripts.py
+
+# Build drafts/*.md into KAOS-Season-Two.epub (stdlib only, no venv needed)
+python3 build_epub.py
 ```
 
-The `.venv` (gitignored) has `requests` and `beautifulsoup4`. Recreate with
+The `.venv` (gitignored) has `requests` and `beautifulsoup4` — needed only by the
+downloader. Recreate with
 `python -m venv .venv && .venv/bin/pip install requests beautifulsoup4`.
+
+`build_epub.py` derives chapter titles and part boundaries from the drafts themselves, so
+adding or renaming a chapter needs no edit — except that its `PARTS` constant hardcodes the
+three chapter ranges from [12-S2-OUTLINE.md](bible/12-S2-OUTLINE.md) and the script exits
+with an error if they stop covering every draft. The `.epub` is gitignored.
 
 ## Critical: transcripts are gitignored
 

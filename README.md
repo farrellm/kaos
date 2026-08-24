@@ -84,7 +84,10 @@ never be cited as though the show established it.
 ## Drafts
 
 Season 2 novelization chapters, written against the outline in
-[12-S2-OUTLINE.md](bible/12-S2-OUTLINE.md):
+[12-S2-OUTLINE.md](bible/12-S2-OUTLINE.md).
+
+Run `python3 build_epub.py` to bundle all forty into a single `KAOS-Season-Two.epub`
+(title page, three part dividers, generated cover; standard library only).
 
 | Chapter | File |
 |---|---|
