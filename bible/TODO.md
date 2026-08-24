@@ -225,7 +225,7 @@ outline-side fixes.
 ### Pointer/ledger mismatches between `05-MYSTERIES.md` and the outline's resolution ledger
 - [x] **O12:** 05 says runs in **3**, 6, 18, 21, 39; ledger says 6, **9**, 18, 21, 39.
       Both 3 (DC18) and 9 (DC34) are real; reconcile to one list in both places.
-- [ ] **O7:** 05 says runs in 28, **40**; ledger says 28 only. DC16 (ch 40) is the payoff —
+- [x] **O7:** 05 says runs in 28, **40**; ledger says 28 only. DC16 (ch 40) is the payoff —
       add 40 to the ledger.
 - [ ] **P4:** ledger says 12, 22, 29, **39**; 05 says 12, 22, 29; outline ch 39's tag line
       also claims P4 — but the port beat that carried it moved to 38 (DC29), and 38's tag

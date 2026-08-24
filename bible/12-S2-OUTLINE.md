@@ -289,7 +289,7 @@ Every open thread, and where it closes.
 | O4 | What the Fates want | 25, 37 |
 | O5 | Zeus's belief: broken or hardened | 20, 36 |
 | O6 | Why Caeneus can renew | [D3](11-S2-CANON.md), dramatized 15–16 |
-| O7 | Riddy's prophecy now | 28 |
+| O7 | Riddy's prophecy now | 28, 40 |
 | O8 | Orpheus's fate | 5, 19, 39 |
 | O9 | What Hera is building | 2, 26, 33 |
 | O10 | Poseidon dispossessed | 11, 34 |
