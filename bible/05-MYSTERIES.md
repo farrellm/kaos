@@ -346,7 +346,7 @@ he cannot bring the dead back, and he has been told so by everyone. (c) His decl
 for Ari has not been acted on and Ari does not know he exists.
 
 ### O12. What does Ari do with Krete?
-> **Settled — [DC10, DC12, DC18, DC24](11-S2-CANON.md).** Runs in **3**, **6**, **18**, **21**, **39**.
+> **Settled — [DC10, DC12, DC18, DC24, DC34](11-S2-CANON.md).** Runs in **3**, **6**, **9**, **18**, **21**, **39**.
 **Evidence.** She killed the president, refused to rule for the gods, and told Riddy's
 world nothing yet. Her mother approves. Glaucus is dead — Minos knifed him in the
 labyrinth minutes after she unmasked him — and she has his body and thirty years of

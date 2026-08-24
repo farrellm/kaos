@@ -294,7 +294,7 @@ Every open thread, and where it closes.
 | O9 | What Hera is building | 2, 26, 33 |
 | O10 | Poseidon dispossessed | 11, 34 |
 | O11 | Dionysus and Troy | 8, 39 |
-| O12 | Ari and Krete | 6, 9, 18, 21, 39 |
+| O12 | Ari and Krete | 3, 6, 9, 18, 21, 39 |
 | O13 | The Nothing and the collapse | 27, 30, 38 |
 | O14 | The unresolved dead | 12, 29 |
 | O15 | Zeus's absent children | 2, 26, 32 |
