@@ -7,6 +7,7 @@ Transcripts and subtitles for all 8 episodes of **KAOS** Season 1 (Netflix 2024,
 ```text
 kaos/
 ├── download_transcripts.py        # Python downloader and processor script
+├── RECAP-SEASON-ONE.md            # Reader-facing Season 1 recap (EPUB front matter)
 ├── bible/                         # Series bible derived from the transcripts
 ├── drafts/                        # Season 2 novelization chapters, in progress
 └── transcripts/
@@ -52,6 +53,19 @@ kaos/
 | S01E06 | Episode 6 | [KAOS_S01E06.txt](transcripts/txt/KAOS_S01E06.txt) | [KAOS_S01E06.md](transcripts/md/KAOS_S01E06.md) | [KAOS_S01E06.srt](transcripts/srt/KAOS_S01E06.srt) |
 | S01E07 | Episode 7 | [KAOS_S01E07.txt](transcripts/txt/KAOS_S01E07.txt) | [KAOS_S01E07.md](transcripts/md/KAOS_S01E07.md) | [KAOS_S01E07.srt](transcripts/srt/KAOS_S01E07.srt) |
 | S01E08 | Episode 8 | [KAOS_S01E08.txt](transcripts/txt/KAOS_S01E08.txt) | [KAOS_S01E08.md](transcripts/md/KAOS_S01E08.md) | [KAOS_S01E08.srt](transcripts/srt/KAOS_S01E08.srt) |
+
+## Season One Recap
+
+[RECAP-SEASON-ONE.md](RECAP-SEASON-ONE.md) is a reader-facing recap of Season 1 — roughly
+7,000 words in three layers: an episode-by-episode pass, longer narrative sections on each
+thread, and a closing note on where every character stands at the curtain. Unlike the bible
+it carries no inference tags or cross-references; it is written to be read straight through
+by someone about to start the Season 2 novelization.
+
+`build_epub.py` renders it as EPUB front matter, between the title page and Part One, so it
+must stay inside a narrow Markdown subset: headings (`#`, `##`, `###`), plain paragraphs,
+`---` rules, and `*italic*` / `**bold**`. No tables, lists, or links — the builder's parser
+does not handle them.
 
 ## Series Bible
 
