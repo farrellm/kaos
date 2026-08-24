@@ -218,8 +218,7 @@ Poseidon told Dionysus, in a boat, a long time before any of this, that he had l
 forever and that it felt like his heart was outside his body. He said it to buy silence and he
 got it: Dionysus was blackmailing him at the time, and took the secret instead, and then kept
 it. He kept it for the whole of the following year while his father burned everything he had,
-and he has never told anybody except me, and he told me in the spring, and he was not making a
-point.
+and he did not part with it until the spring, when he told me, not making a point.
 
 I've put it in because it's true and because it happened.
 
