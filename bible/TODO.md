@@ -186,11 +186,11 @@ Nothing while his mother allies with the people draining it is a hole, not an am
       defensible; undecided is not.
 
 ### 3.5 Small optional additions (mark all as inference)
-- [ ] O9 evidence: the `[coin clinks]` sound cue directly after Hera's "gather the troops"
+- [x] O9 evidence: the `[coin clinks]` sound cue directly after Hera's "gather the troops"
       call (E08) — possibly Hera palming a dead-passage coin; weak (sound cue only).
-- [ ] O16 / DC32 color: E02, Caeneus to Fotis at the port — "Look out for her, okay?" —
+- [x] O16 / DC32 color: E02, Caeneus to Fotis at the port — "Look out for her, okay?" —
       "her" being the mother he was waiting for. The dog was left watching for her.
-- [ ] `03-EPISODES.md` E08: the untagged interstitial "We've been expecting you… Want a
+- [x] `03-EPISODES.md` E08: the untagged interstitial "We've been expecting you… Want a
       beer?" / "He's not… No, he wouldn't do that" between Hades's "To defy my brother" and
       the Zeus–Fates scene is currently skipped; a one-line note that it exists and is
       unattributable would inoculate future drafting against inventing an attribution.

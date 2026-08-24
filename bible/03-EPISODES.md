@@ -417,7 +417,10 @@ his mother and brings her back; Prometheus walks free and finds he was never the
    was a vision, not a dream, and goes to destroy the Fates.
 2. Hera summons the family. Persephone refuses to be summoned, then comes with a sandwich.
 3. Hades tells Medusa he has taken too much from humans, that he has a plan to restore
-   things, and that he is going to defy his brother.
+   things, and that he is going to defy his brother. (The transcript follows with an
+   unattributable interstitial — "We've been expecting you… Want a beer?" / "He's not…
+   No, he wouldn't do that" — between his departure and the Zeus–Fates scene; no speaker
+   can be fixed, so it is left uninterpreted here.)
 4. Zeus and the Fates. They know why he's come and help him stage it. They explain that a
    prophecy requires his belief to come to pass, that they are everywhere and nowhere,
    and that he should perhaps be scared of those moving against him. **Atropos** wants somewhere less predictable

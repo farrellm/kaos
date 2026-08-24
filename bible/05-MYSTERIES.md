@@ -295,7 +295,8 @@ about the underworld to the living and is not under anyone's orders.
 > **Settled — [DC17](11-S2-CANON.md).** Runs in **2**, **26**, **33**.
 **Evidence.** Confined by Zeus, stripped of her bees and her leverage. She immediately
 phones someone, calls herself "Mommy," and instructs them to gather the troops and make up
-a spare bed.
+a spare bed. The subtitles place a `[coin clinks]` cue directly after the call — possibly
+Hera palming a dead-passage coin **(inference — a sound cue only)**.
 
 **Confirmed.** She has an ally with troops and a household, whom she addresses as a
 parent.
@@ -393,7 +394,9 @@ phone — and, given O9, for who might be raising troops.
 ### O16. Small threads worth not dropping
 > **Settled — [DC10, DC11](11-S2-CANON.md) in part.** Runs in **21**, **39**.
 - **Dennis.** Killed to make a point. Dionysus's grief over him is the hinge of his defection.
-- **Fotis** — "light" — left with Charon, and Caeneus promised to visit.
+- **Fotis** — "light" — left with Charon, and Caeneus promised to visit. His parting
+  words at the port — "Look out for her, okay?" — read as leaving the dog watching for
+  the mother he was himself waiting for **(inference)**.
 - **Theseus**, last seen in Episode 3, a Trojan operative inside the palace of a dead president.
 - **Calli**, who manages Orpheus's schedule in Episode 1 and is never seen again. The show
   does not establish whether she is family or staff. She is *not* the woman at the Cave who
