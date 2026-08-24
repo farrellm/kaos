@@ -24,7 +24,7 @@ Ekhi went into the cupboard.
 Here is what the cupboard says, and I am going to give it the way it was given, in the
 order it landed, because the order is what did the damage.
 
-Nothing has arrived since the ninth of the month before last.
+Nothing has arrived in eight months.
 
 They do not know where prophecies come from. I want that on the record, because it startled
 me and I had assumed — for four thousand years, without ever once examining it — that
@@ -133,11 +133,10 @@ something. There will be no more. The stock is the stock.
 
 And I was told to wait.
 
-I was told it at my own door, by a woman with a pencil behind her ear, in a sentence I have
-carried for four thousand years and have quoted to you more than once with a certain amount
-of pride: *all you had to do was trust, and wait.* I have understood that, for the whole of
-my imprisonment, as an instruction to be *good at* something. Patience as a discipline.
-Waiting as an act.
+I was told it twice: at my own door, four thousand years ago, as part of my instructions —
+and again eight months ago, in the ash, by Lachesis, with a joke in it: *all you had to do
+was trust, and wait.* I have understood it, for the whole of my imprisonment, as an
+instruction to be *good at* something. Patience as a discipline. Waiting as an act.
 
 But if the thing you are waiting for is being made, then waiting is neutral and costs
 nothing. And if the thing you are waiting for has stopped being made, then waiting is not a
