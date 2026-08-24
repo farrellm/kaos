@@ -135,9 +135,10 @@ never gave her any.
 
 So she used somebody else's.
 
-Daedalus kept nine words for thirty years. He said them in a room with the shutters half
-closed on the day they brought him up, in order, to the only person who was ever going to
-want them. She said her own name, and then his, and then she said the other eight.
+Daedalus kept a boy's nine words for thirty years, and handed eight of them over in a room
+with the shutters half closed on the day they brought him up, in order, to the only person
+who was ever going to want them. She said her own name, and then his, and then she said the
+other eight.
 
 It took about six minutes. Caeneus was standing where the water is deepest, doing the thing
 he does, and did not know who either of them was.
