@@ -209,7 +209,7 @@ outline-side fixes.
       already won." DC26: he dies stepping between a starving Zeus and Hera at the table
       ("All right. All right —", four seconds), with *whether he knew* deliberately
       unresolved. Rewrite the beat.
-- [ ] **Ch 33 / the throne:** outline: "the throne was a distribution point… She sits in it
+- [x] **Ch 33 / the throne:** outline: "the throne was a distribution point… She sits in it
       anyway." DC26: "**There is no throne, and the river was the seat.**" Rewrite the beat
       (the *worthless-inheritance* idea survives; the furniture doesn't).
 - [ ] **Length section:** "Part One still has the most room and the least written: 6 and

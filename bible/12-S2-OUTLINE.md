@@ -197,8 +197,12 @@ has had a year of being a prophet, and 31 is later still. *(newQ4)*
 **32.** Zeus ages in public. The Meander fails in the middle of a sentence. His children
 arrive — the five who are left — not to fight, just to watch. *(P2, O15)*
 
-**33.** Hera takes Olympus and finds it worthless: the throne was a distribution point and
-there is nothing left to distribute. She sits in it anyway, because it is hers. *(O9)*
+**33.** Hera takes Olympus and finds it worthless — there is no throne, and the river was
+the seat ([DC26](11-S2-CANON.md)): the reason nobody took the place in four thousand years
+is that taking it would have got you the tap. Nobody stops her, there is no siege, and the
+inventory comes to a dry ditch, a year of unopened post, a cabinet that works perfectly
+and is worth nothing, and a husband who tells the staff she has come back and is never
+corrected by anybody, including her. *(O9)*
 
 **34.** Poseidon's death, as the winter has it in [DC26](11-S2-CANON.md): a starving Zeus
 stands up and crosses the room toward Hera, and Poseidon — between the table and the doors
