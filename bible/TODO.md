@@ -217,7 +217,7 @@ outline-side fixes.
       drafted… No drafted chapter is now below its band" and DC33–DC37 (which establish 6,
       8, 9, 11, 12 in detail). Delete the stale paragraph; recast "Target roughly 85,000"
       as the revision standard it now is.
-- [ ] **Ch 26 / Artemis's motive:** outline ("chosen because she was not part of the
+- [x] **Ch 26 / Artemis's motive:** outline ("chosen because she was not part of the
       strike"), DC5 ("for saying she would rather be in the north"), DC26 (function: Zeus
       needed something to drink) have drifted. Compatible, but one harmonizing line in the
       outline would prevent a reviser "fixing" the wrong one.

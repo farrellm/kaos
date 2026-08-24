@@ -168,10 +168,11 @@ and does not recover its footing. *(newQ1, D1)*
 **25.** Prometheus goes to the Fates for a correction and receives none, because they have
 never said an untrue thing to him and are not about to start. *(O4, partial)*
 
-**26.** Hera, Ares and Poseidon strike Olympus and fail. Zeus kills **Artemis** in front of
-the others to end the argument — chosen because she was not part of the strike, and because a
-twin destroyed by a father's decision is the show's own central image. The absent Olympians
-stop being absent. *(O15)*
+**26.** Hera, Ares and Poseidon strike Olympus and fail. Zeus kills **Artemis** at the noon
+argument — for saying she would rather be in the north ([DC5](11-S2-CANON.md)), and because
+he needed something to drink ([DC26](11-S2-CANON.md)); that a twin destroyed by a father's
+decision is the show's own central image is why the choice lands. The absent Olympians stop
+being absent. *(O15)*
 
 **27.** Zeus puts the Nothing under direct guard and cuts Caeneus off from the river. The
 reservoir is now a garrison.
