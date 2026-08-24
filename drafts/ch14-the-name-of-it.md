@@ -32,8 +32,8 @@ There were seven of us.
 Hades, who had been into the Nothing three times that fortnight and looked it. Medusa, who
 had come straight from a shift and did not sit. Charon, who came because Persephone asked him
 to and who did not once, in two hours, look at the part of the room I was in. Caeneus. A woman
-from the Lethe rota whose name is Ione and who is in this account exactly once, here, and who
-said the most useful thing anybody said all afternoon. Myself.
+from the Lethe rota whose name is Ione — I told you she was coming — who said the most useful
+thing anybody said all afternoon. Myself.
 
 That is six. I am aware.
 
