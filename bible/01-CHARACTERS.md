@@ -479,7 +479,7 @@ move on without him — and spends the rest of the season learning what he is.
 **Arc.** Attempts suicide; is shot in the shoulder by Dionysus instead. Fails the
 Cave's quiz when the Fates expose the coin, and is smuggled in anyway on the price of
 Zeus's watch. Crosses the Styx, murders his fellow contestant Anatole under Charon's
-goading, is saved from Charybdis by the mark on his hand. Survives the wilderness by
+goading, is saved from Charybdis by the mark a Fate gave him. Survives the wilderness by
 refusing the Fates' offered water, choosing to die trying rather than live having
 quit. Reaches Riddy — who will not come back. Is refused by Hades and then released
 anyway by Persephone. Learns Riddy was leaving him the day she died.

@@ -158,7 +158,8 @@ tests below, ending with Hades himself, who is not obliged to say yes.
 takes Orpheus. Working **cerberus dogs** at the port, which are not to be petted and
 which can smell a coinless soul.
 
-**The mark.** A sign given by a Fate, worn on the hand. Prometheus made Charon swear,
+**The mark.** A sign given by a Fate; the transcripts never say where on the body it
+sits. Prometheus made Charon swear,
 before killing him, to protect a stranger he would recognize by the mark. Orpheus
 carries it; Charon honors the oath. Orpheus is told only that it means *something is
 true*.

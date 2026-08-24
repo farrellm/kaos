@@ -105,7 +105,7 @@ hand") specify a location the subtitles never give — every occurrence is just 
 (E04 ×3, E06 ×1, E08 "See this? That's from a Fate"). A visual memory, not transcript
 evidence, in files that claim to be transcript-built.
 
-- [ ] Both files: drop "hand" or mark it as an unverified visual detail.
+- [x] Both files: drop "hand" or mark it as an unverified visual detail.
 
 ### 2.5 R9's training quote is being over-read
 R9 (`05-MYSTERIES.md`) cites Medusa saying Caeneus was chosen "for that reason" as
