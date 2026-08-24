@@ -399,6 +399,14 @@ phone — and, given O9, for who might be raising troops.
   says *bring him back* — in context that is Anatole's wife, about their son
   **(inference)**. Persephone separately offers to visit Orpheus's mother, who never
   appears.
+- **Riddy's mother**, a tacita since Riddy was five. Riddy's last living act was
+  confessing to her, and Riddy is now alive on Earth while the booths stay open.
+  Settled for the novelization in [DC18](11-S2-CANON.md) — alive, still in the booth,
+  and her whole answer is *Did it hurt?* *(Added in the 2026-08 audit; this thread was
+  live in E1 and previously unlisted.)*
+- **The tacita Zeus tortured and Hera had buried** (E5) is never identified. She is
+  **not** established as Riddy's mother — DC18 depends on the mother being alive, so no
+  file may quietly merge the two women.
 - **Agatha**, who lived to die and, at the water, thought of everything she hadn't done.
 - **The bees** — the mothers of Zeus's children, burned. Dionysus never learned which one was his.
 - **Hercules's watch**, twice-lucky, now on a burned Fate's wrist.

@@ -155,8 +155,8 @@ confessing to her; Riddy is now alive on Earth. That is an open S1 thread by the
 charter, and the S2 canon already resolves it (DC18: "Riddy's mother is alive and still in
 the booth… *Did it hurt?*") — but 05 never raises it.
 
-- [ ] Add to O16 (or as its own entry) with a pointer to DC18.
-- [ ] Related bullet: the tacita Zeus tortured and Hera had buried (E05: "I thought the
+- [x] Add to O16 (or as its own entry) with a pointer to DC18.
+- [x] Related bullet: the tacita Zeus tortured and Hera had buried (E05: "I thought the
       voice box would atrophy" / "Bury her") is *unidentified* — worth stating explicitly
       that she is **not** established as Riddy's mother, since DC18 depends on the mother
       being alive.
