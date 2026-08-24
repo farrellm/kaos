@@ -146,8 +146,9 @@ is allergic to pomegranate.
 
 **Arc.** Argues for standards when Zeus demands more divers immediately. Pushes Hades
 to tell Zeus the truth. After Zeus maims him, refuses to be summoned, then comes
-anyway — with a sandwich. Countermands Hades's ruling and sends Orpheus back to Earth
-with Riddy, explicitly as a statement of intent against Zeus: *the war has begun.*
+anyway — with a sandwich. Countermands Hades's ruling: sends Riddy — a dead woman — back
+to Earth, explicitly as a statement of intent against Zeus (*the war has begun*), with
+Orpheus released alongside her as the rider.
 
 **Exit position.** In the underworld, the most decisive rebel among the gods, having
 already committed the first act of war.

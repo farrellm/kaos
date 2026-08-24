@@ -90,7 +90,7 @@ her father's crime and the gods' hand in it from inside the palace of Krete.
 | **Hera** | Olympus, confined by Zeus's order | To not be ruled | That she has just phoned someone to "gather the troops" and make up a spare bed |
 | **Poseidon** | Stripped of Krete and every city | His position back | That he is in love with Hera |
 | **Hades** | The underworld, recovering from a lightning strike | To restore souls and repair the Nothing | That Caeneus renewed a soul in front of him |
-| **Persephone** | The underworld | To make the underworld what it was | That Orpheus was released deliberately, against Hades's ruling |
+| **Persephone** | The underworld | To make the underworld what it was | That Riddy was sent back deliberately, against Hades's ruling — the statement of intent — with Orpheus released alongside her |
 | **Dionysus** | Earth, with the Trojans | To be loved; to matter | That he is now committed to destroying Olympus |
 | **Riddy** | Alive, on Earth, outside the Cave | To tell people the truth | That Renewal is a lie; that she is now a prophet |
 | **Caeneus** | The River Lethe, holding his dead mother | To stop the Frame | That he can renew a human soul |
