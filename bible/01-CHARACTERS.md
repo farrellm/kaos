@@ -219,8 +219,10 @@ projected two hundred years. He has spent ten years living entirely in the past,
 waiting at the port for her to arrive.
 
 **Arc.** Promoted to diver by Medusa on Persephone's orders — not a coincidence.
-Befriends Riddy. Follows Nax into the Nothing and physically feels the extraction,
-which Riddy does not. Discovers his prophecy is word-for-word identical to hers, which
+Befriends Riddy. Follows Nax into the Nothing; when Hades extracts the boy by hand,
+Riddy is left reeling and Caeneus feels nothing at all — an immunity he cannot explain,
+and which Prometheus flags to the audience: *he will soon.*
+Discovers his prophecy is word-for-word identical to hers, which
 should be impossible. Deduces with her that there is no Renewal. Sends her back to
 Earth to tell the living, and stays to stop the Frame from below. Is refused help by
 Medusa, who tells him there is a plan beyond him. His mother finally arrives dead by

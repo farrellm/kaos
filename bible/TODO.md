@@ -23,21 +23,21 @@ know why."** — `[Riddy] What?` — and Prometheus: **"He will soon."** The E08
 confirms the direction: `[Caeneus gasps]` at the Frame's ringing when his mother passes
 through — that is when "he will soon" lands.
 
-- [ ] `01-CHARACTERS.md` › Caeneus › Arc: "physically feels the extraction, which Riddy
+- [x] `01-CHARACTERS.md` › Caeneus › Arc: "physically feels the extraction, which Riddy
       does not" → reverse.
-- [ ] `02-COSMOLOGY.md` › §2 › Manual extraction: "Caeneus physically feels it… Riddy…
+- [x] `02-COSMOLOGY.md` › §2 › Manual extraction: "Caeneus physically feels it… Riddy…
       feels nothing at all" → reverse; add the "He will soon" line and its E08 payoff.
-- [ ] `03-EPISODES.md` › E05 beat 15 ("Caeneus is knocked down by the pain; Riddy feels
+- [x] `03-EPISODES.md` › E05 beat 15 ("Caeneus is knocked down by the pain; Riddy feels
       nothing") and E05 "What this plants" ("Caeneus's inexplicable sensitivity to
       soul-extraction") → reverse: Riddy's sensitivity, Caeneus's inexplicable *immunity*.
-- [ ] `05-MYSTERIES.md` › O6 › Evidence: "he physically feels Hades extracting Nax; Riddy…
+- [x] `05-MYSTERIES.md` › O6 › Evidence: "he physically feels Hades extracting Nax; Riddy…
       feels nothing" → reverse, with correction note.
 
 Knock-on check: the corrected reading *helps* rather than hurts — Caeneus's immunity is the
 anomaly that rhymes with Medusa's flat "Caeneus can get in the water" (E08), and Riddy's
 sensitivity foreshadows her prophet arc. **D3 in `11-S2-CANON.md` does not depend on the
 reversed claim** (verified — its mechanism is will + love + carrier, argued from E08).
-- [ ] When revising drafts, grep chapters 4/10/15/16 for any echo of "he felt Nax's
+- [x] When revising drafts, grep chapters 4/10/15/16 for any echo of "he felt Nax's
       extraction" — nothing in the bible relies on it, but a drafted sentence might.
 
 ### 1.2 Dionysus returned a *replacement* watch, not the original (E04)

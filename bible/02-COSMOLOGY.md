@@ -81,9 +81,11 @@ disintegrate what it holds, that it will eventually break, and that when it does
 takes the underworld, Olympus and Earth with it. Zeus's answer is that you cannot run
 out of souls, because he is king of the gods.
 
-**Manual extraction.** Hades can finish the job by hand, by touch. Caeneus physically
-feels it happen as a piercing pain; Riddy standing beside him feels nothing at all.
-Neither of them knows why. **(Open — see [05-MYSTERIES.md](05-MYSTERIES.md).)**
+**Manual extraction.** Hades can finish the job by hand, by touch. Riddy physically
+feels it happen — the ringing hurts her, and she is left retching; Caeneus, standing
+beside her, feels nothing at all and cannot say why. Prometheus's aside — *he will
+soon* — pays off in Episode 8, when Caeneus gasps at the Frame's ringing as his mother
+passes through. **(Open — see [05-MYSTERIES.md](05-MYSTERIES.md).)**
 
 ---
 

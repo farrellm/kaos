@@ -243,8 +243,11 @@ prophecy's completion requires that he cannot stop.
 
 ### O6. Why can Caeneus renew souls?
 **Settled — see [D3 in 11-S2-CANON.md](11-S2-CANON.md).**
-**Evidence.** E5: he physically feels Hades extracting Nax; Riddy, standing next to him,
-feels nothing. E8: he goes into the Lethe after his mother and she comes back. Hades
+**Evidence.** E5: when Hades extracts Nax, it is *Riddy* who feels it — the ringing hurts
+her — while Caeneus feels nothing at all and cannot say why; Prometheus's *he will soon*
+lands in E8, when Caeneus gasps at the Frame's ringing. *(Corrected against the
+transcripts — an earlier version of this line had the two reversed.)*
+E8: he goes into the Lethe after his mother and she comes back. Hades
 witnesses it and names it: *you can renew human souls.* Prometheus, watching, expected
 Caeneus to be protected and the family to fall, and did not expect this.
 

@@ -281,8 +281,8 @@ a confession booth; Hades harvests a boy in front of two witnesses.
 14. Prometheus: all actions have consequences, even for Zeus. Hera orders the tacita
     buried.
 15. Riddy and Caeneus in the Nothing. Hades finds Nax, tells him there's no need to be
-    afraid, and extracts him by hand. Caeneus is knocked down by the pain; Riddy feels
-    nothing.
+    afraid, and extracts him by hand. Riddy is knocked down by the pain; Caeneus feels
+    nothing at all and doesn't know why. Prometheus: *he will soon.*
 16. Hades recites the prophecy to himself: *what have I done?* Prometheus: he did what
     Zeus told him to; that is his tragedy; Caeneus and Riddy must undo it.
 17. Caeneus offers to sit with Riddy. She declines. Prometheus: love is the point of
@@ -297,7 +297,7 @@ young Glaucus, the mechanics of manual extraction.
 
 **What this plants.** The unidentified visitor — the largest unanswered question in the
 series. Minos's prophecy in full. Glaucus alive. Hera's singular secret. Zeus's oath-
-breaking. Caeneus's inexplicable sensitivity to soul-extraction.
+breaking. Riddy's sensitivity to soul-extraction, and Caeneus's inexplicable immunity to it.
 
 ---
 
