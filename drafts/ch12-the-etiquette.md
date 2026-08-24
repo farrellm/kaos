@@ -177,7 +177,7 @@ He was a clerk of some kind — he has told me twice and I have not retained it,
 and he is fussy and slow and courteous and I have never once been interested by anything he has
 said to me, and I include in that a four-thousand-year acquaintance with the god of the sea.
 
-His wife came down about a year after he did. She had a coin. He did not.
+His wife came down not long after he did. She had a coin. He did not.
 
 I want to give that its proper size, because everybody hears it and moves on. They were in the
 same building for a fortnight. Then a diver stood in the shallows and did the job, which is
