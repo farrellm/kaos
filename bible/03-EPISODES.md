@@ -311,9 +311,9 @@ the system is breaking and is struck by lightning for it.
 
 **Beats**
 1. Caeneus tells Riddy how he left the Amazons: his friend Leos came back and was killed;
-   Sofie, the woman who had harbored him, is left wailing and reminded that she knew the
-   rules; his mother named him Caeneus and told him to go; her own prophecy had foretold a
-   boy.
+   a woman named Sofie — held responsible with him ("you both knew the rules"; her
+   relationship to Leos is unstated) — is left wailing; his mother named him Caeneus and
+   told him to go; her own prophecy had foretold a boy.
    They agree they hate the gods. They kiss.
 2. Charon leaves Orpheus at the wilderness — the final test, which nobody has ever reached.
 3. Persephone dresses Hades for the confrontation. The Nothing is overloaded; that's why

@@ -95,8 +95,8 @@ both knew the rules. No men, Sofie."). She is alive on screen. Also: her relatio
 Leos (harborer? mother?) is never stated — `03-EPISODES.md` E06 beat 1 calls her "the woman
 who had harbored him," which is itself unmarked inference.
 
-- [ ] `08-EARTH-POLITICS.md`: drop the execution claim or mark it inference; align with 03.
-- [ ] `03-EPISODES.md` › E06 beat 1: mark "harbored" as **(inference)** or soften to
+- [x] `08-EARTH-POLITICS.md`: drop the execution claim or mark it inference; align with 03.
+- [x] `03-EPISODES.md` › E06 beat 1: mark "harbored" as **(inference)** or soften to
       "a woman named Sofie, held responsible."
 
 ### 2.4 The mark's location ("on the hand") is not in the transcripts
