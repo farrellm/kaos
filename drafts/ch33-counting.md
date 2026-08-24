@@ -43,9 +43,9 @@ and it had held.
 She went in through her own front door for the second time in a year and this time she did not
 leave.
 
-I've heard people call it a siege. There was no siege. She spent fifteen months in a valley in
-the north building a position, and she came down and put her bags in a room, and by the end of
-the week she was signing things.
+I've heard people call it a siege. There was no siege. She spent a year and a half in a valley
+in the north building a position, and she came down and put her bags in a room, and by the end
+of the week she was signing things.
 
 ---
 
