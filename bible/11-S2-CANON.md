@@ -1040,8 +1040,11 @@ Nothing, and he has been there for the whole of this book.
   the one person in the story who has to walk into the worst place that has ever existed and
   say a name at a brother she knew for four minutes.
 - **Nobody talks her into it and nobody thanks her for it.** She goes in the ordinary way,
-  on the rota, with the shift that is on — the same water, the same knee-deep end. 39 gives
-  it a sentence, not a scene. If it swells into a set piece it is stealing from 36.
+  on the rota, with the shift that is on — the same water, the same knee-deep end. Her
+  route down is Persephone's crossing, per
+  [DC6](#dc6--persephone-carries-riddy) — the living have no other door, and 39 names it
+  in one clause. 39 gives the whole of it a sentence, not a scene. If it swells into a
+  set piece it is stealing from 36.
 - **Chapter 6 is re-commissioned** around what she actually has: a state whose constitution
   cannot explain her, a mother, a waxwork nobody thought to cancel, and Daedalus's bell in a
   workshop drawer.

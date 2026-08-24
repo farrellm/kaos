@@ -233,7 +233,7 @@ outline-side fixes.
       right) and align all three places.
 
 ### Consistency question to verify against the drafts (not necessarily a bible edit)
-- [ ] **How does living Ari get down in 39?** DC6 makes crossings Persephone's scarce,
+- [x] **How does living Ari get down in 39?** DC6 makes crossings Persephone's scarce,
       discoverable favor; DC24/DC32 put Ari "on the rota, with the shift that is on"
       without naming her route. If ch 39's draft names it, fine; if not, one clause in
       DC24 or DC32 should (Persephone, presumably — or state that the reopened port of 38
