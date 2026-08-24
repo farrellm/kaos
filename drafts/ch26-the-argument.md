@@ -42,10 +42,9 @@ centuries, for nothing, against a day nobody had scheduled.
 What comes up the mountain at four in the morning is not gods. That is the thing the accounts
 get wrong afterwards, and Poseidon in particular tells it wrong, twice, in my hearing, because
 he was underneath the whole of it and could not see. It is about nine hundred dead men who have
-been kept out of the river for four centuries on Ares's own authority, which is a thing he has
-been quietly permitted to do because nobody in the administration of the underworld ever audits
-an Olympian, and which explains, incidentally, several very old discrepancies in Charon's
-manifests that Charon has been complaining about for as long as I have known him.
+been kept out of the river for four centuries on Ares's own authority — nobody in the
+administration of the underworld has ever audited an Olympian — which explains, incidentally,
+several very old discrepancies in Charon's manifests.
 
 From the plateau it is not frightening, and I did not expect that. There is no shouting and
 there are no lamps. What is visible from a mile off is a change in the grain of a face that is
