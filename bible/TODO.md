@@ -212,7 +212,7 @@ outline-side fixes.
 - [x] **Ch 33 / the throne:** outline: "the throne was a distribution point… She sits in it
       anyway." DC26: "**There is no throne, and the river was the seat.**" Rewrite the beat
       (the *worthless-inheritance* idea survives; the furniture doesn't).
-- [ ] **Length section:** "Part One still has the most room and the least written: 6 and
+- [x] **Length section:** "Part One still has the most room and the least written: 6 and
       8–12 are single-beat sketches" contradicts the same section's "All forty chapters are
       drafted… No drafted chapter is now below its band" and DC33–DC37 (which establish 6,
       8, 9, 11, 12 in detail). Delete the stale paragraph; recast "Target roughly 85,000"

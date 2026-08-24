@@ -436,7 +436,8 @@ stand on it. What the expansion settled is in
 talking given two scenes instead of a list, the route down named, and the two hundred thousand
 introduced before 29 needs them. No drafted chapter is now below its band.
 
-**Target roughly 85,000**, reached by type rather than by padding:
+**The roughly-85,000 target is met.** The bands by type are the standard to revise
+against, not a quota to fill:
 
 | Chapter type | Band | Examples |
 |---|---|---|
@@ -444,10 +445,7 @@ introduced before 29 needs them. No drafted chapter is now below its band.
 | Event — cross-cut, multiple speakers, things happen | 2,200–3,000 | 15, 19, 21, 26, 29, 30, 31, 32, 33, 34, 39 |
 | Hinge — an event *and* its reckoning | 1,900–2,400 | 20, 24, 28, 35, 36, 37, 40 |
 
-Part One still has the most room and the least written: 6 and 8–12 are single-beat sketches,
-and several are event chapters carrying a whole strand's opening.
-
-Do not hit the number by lengthening the reckoning chapters. Their compression is the voice.
+Do not revise the reckoning chapters longer. Their compression is the voice.
 
 ---
 
