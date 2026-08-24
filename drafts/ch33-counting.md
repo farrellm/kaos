@@ -224,7 +224,8 @@ I asked her once. She said something that wasn't about the west wing, pleasantly
 asked me a question about my mother, and by the time I'd finished answering it we were
 somewhere else. I didn't go back to it and I'm not sorry.
 
-Everyone I've told has explained it to me within about four seconds. All of them are guessing.
+Everyone I've told has explained it to me within about four seconds. Not one of them was
+there.
 
 ---
 
