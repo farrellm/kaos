@@ -140,10 +140,10 @@ and `09`, and then in **no** mystery entry, no O16 bullet, and **zero mentions i
 justice-delivery force exists, and where the season ends with several monumental unpunished
 acts (Zeus's above all), owes at least a stated disposition.
 
-- [ ] Add an entry (new stable ID — O17 — or an O16 bullet at minimum): evidence, the
+- [x] Add an entry (new stable ID — O17 — or an O16 bullet at minimum): evidence, the
       favor's ambiguity (see 2.1), and constraints (they act where justice is *denied*;
       only their target perceives them).
-- [ ] Decide their S2 disposition in `11-S2-CANON.md` — used, or explicitly released with a
+- [x] Decide their S2 disposition in `11-S2-CANON.md` — used, or explicitly released with a
       reason. Silence is currently indistinguishable from an oversight. (Note: the drafted
       book's justice-shape — "nobody punishes Zeus; there is nobody left in him to punish"
       (DC15) — is exactly the kind of claim the Furies' existence pressures. Even one line

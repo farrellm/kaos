@@ -404,3 +404,29 @@ phone — and, given O9, for who might be raising troops.
 - **Hercules's watch**, twice-lucky, now on a burned Fate's wrist.
 - **Hippolyta and Carl**, freshly dead and cheerfully violent in the underworld.
 - **The Scylla**, named and never used.
+
+### O17. The Furies
+> **Settled — [DC39](11-S2-CANON.md) — released, with the reason on record.**
+
+*(Added in the 2026-08 transcript audit: the season leaves this faction unaccounted for,
+and no earlier entry covered it.)*
+
+**Evidence.** E3: Alecto and Tisiphone drive a man named Terry to shoot himself in a
+gas-station bathroom — "you know how to get rid of us" — then pick their next target.
+Prometheus's gloss: as old as the gods, or older; delivering justice where they feel it
+has been denied, "quite subjective"; visible and audible only to their target. Theseus's
+gloss: they come for murderers and, crucially, for people who go unpunished — and not for
+those who have punished themselves. E5: with Megaera, they hold Ari not to punish her but
+to show her the truth, tell her to fuck the gods, and close out a favor with the Fates —
+"we're even now, no more favors" — with a Fate present (see the favor note in
+[01-CHARACTERS.md](01-CHARACTERS.md)).
+
+**Confirmed.** They exist outside the Olympian hierarchy, predate it, act autonomously,
+and were used — once — as the instrument that put the third of Prometheus's three humans
+in motion.
+
+**Resolution constraints.** (a) Their trigger is justice *denied*, and the season ends
+thick with enormous unpunished acts — Zeus's above all — so any continuation owes their
+absence a stated reason, not silence. (b) Only their target perceives them, which caps
+how visibly they can ever act. (c) The favor with the Fates is closed; nothing obliges
+either side to the other again.

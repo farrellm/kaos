@@ -2009,6 +2009,34 @@ three are gone; the chapter now opens *I'll do the number first*, which is hers.
 - The four *eleven* sets survive Part Three untouched: the crate in 28 and 40, the days off the
   river in 28, the gods counted in 29, the first mass renewal recalled in 31.
 
+### DC39 — Why the Furies never come
+Closes [O17](05-MYSTERIES.md), added by the transcript audit. **No draft changes** — the
+drafted book is already consistent with this, and Chapter 25's one Megaera aside is the
+only trace they leave in it.
+
+**The decision.** The Furies sit Season 2 out, and the reason is the book's own thesis.
+Their trigger is a debt that stands: a guilty person, unpunished, walking around inside
+the life their act bought them. Nobody in this story ends in that condition. Zeus is not
+unpunished — by the winter there is nobody left in him to punish, and after 36 what
+remains is one mortal life, owed nothing; a Fury cannot pursue a debtor who has stopped
+existing, which is Chapter 35's finding at faction scale. Ari punished herself for thirty
+years for a crime that was not hers, which is why they came to her with popcorn instead
+of whispers: they were never after her. And the book's one murderer at large, Orpheus, is
+covered by the rule Theseus states in E3 — *you've punished yourself; they're not coming
+for you.* He spends three months on the floor discovering there is no mechanism and then
+carries it in the open (DC20), which is self-appointment, not escape.
+
+**Why this is the right shape.** The Furies are the universe's enforcement of exactly what
+Chapter 35 discovers: punishment requires somebody home to receive it. Their absence is
+the same finding, demonstrated rather than argued — and it keeps them alive and unspent
+for any future story in which somebody profits from an unacknowledged crime.
+
+*Forces:*
+- Megaera's aside in Chapter 25 stays exactly as drafted — Prometheus guessing at what
+  would amuse a Fury is the correct amount of them.
+- No chapter may stage them, name their absence, or have a character wonder where they
+  are. The reason lives here, for the writer; the book demonstrates it without saying it.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in
