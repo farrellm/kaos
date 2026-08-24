@@ -304,6 +304,10 @@ Things the outline refuses to resolve, on purpose:
 - **Dennis is not renewed.** The kitten stays dead. Dionysus's whole arc is learning that
   loving something that can be taken is not weakness; undoing the loss would retroactively
   make Zeus right.
+- **Nax is not restored.** The machinery that could reach him exists by 30 and his mother
+  allies with the people who built it, and nobody goes into the water for him — because
+  Andromache, told what restoration actually is (a face given away permanently, into a
+  life that will never know him), declines the trade. See [DC40](11-S2-CANON.md).
 - **Nobody thanks Caeneus.** He pays the entire cost and ends without the memory of having
   paid it. No character delivers a speech about his sacrifice, because he would not be able
   to follow it.

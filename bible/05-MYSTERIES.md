@@ -326,7 +326,8 @@ lost everything self-interest could protect. His alliance is available to whoeve
 first, and Hera is the obvious buyer.
 
 ### O11. Dionysus and Troy
-> **Settled — [DC10, DC35](11-S2-CANON.md).** Runs in **8**, **39**.
+> **Settled — [DC10, DC35](11-S2-CANON.md); Nax's non-restoration settled separately by
+> [DC40](11-S2-CANON.md).** Runs in **8**, **39**.
 **Evidence.** He asks the Trojans what they want and promises to do it — *What do you
 want? Tell me, and I'll do it.* They want Troy rebuilt and Olympus destroyed. The scene
 carries no speaker tags; **Nax is not in it** (dead since Olympia night, extracted by Hades

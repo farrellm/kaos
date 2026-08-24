@@ -2037,6 +2037,34 @@ for any future story in which somebody profits from an unacknowledged crime.
 - No chapter may stage them, name their absence, or have a character wonder where they
   are. The reason lives here, for the writer; the book demonstrates it without saying it.
 
+### DC40 — Nax stays in the water
+Closes the gap the audit found in O11: the prince of Troy stands in the Nothing while the
+book drains it, and no earlier decision said whether anyone goes in for him.
+
+**The decision. Nobody restores Nax, and it is Andromache's call.** She is told what the
+room is and what can be done — the network knows by 23, and she and Hecuba are nodes of
+it — and she asks the two questions she asked Orpheus in Chapter 5: whether it hurt, and
+whether he is all right down there. Then she declines. Restoration is not getting him
+back: it is giving his face away permanently, into a life that will never know him
+([DC9](#dc9--how-renewal-actually-works-and-why-it-does-not-scale)), and she has already
+done the arithmetic on offers that look like getting him back — she did it standing in
+her own house while a god withdrew one
+([DC35](#dc35--chapter-8-what-dionysus-agreed-to-and-what-he-was-actually-wanted-for)).
+What she says is a sentence, not a speech: she has lost him twice, and she will not lose
+him a third way.
+
+**Why this is the right shape.** It is the refusal the book already makes about Dennis, at
+adult height — undoing the loss would retroactively make the machinery right — and it
+keeps DC35 honest: Andromache is the one person who heard *tell me and I'll do it* and
+correctly sorted it into the performable parts. This is the last and largest sorting.
+
+*Forces:*
+- One passage at most, in 30 or 31's register, and no scene — a griever declining is told
+  the way the book tells losses, flatly, and is never re-litigated. If revision finds no
+  room, it lives entirely off the page; this entry is the record either way.
+- Hecuba is not consulted and does not overrule. Grief is not a committee.
+- Nobody tells Dionysus. He would offer again.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

@@ -180,7 +180,7 @@ chapter 8 is Dionysus *learning* Nax is dead; 39 is silent on him. Given the boo
 ("every thread left open by Season 1 resolves here"), the prince of Troy standing in the
 Nothing while his mother allies with the people draining it is a hole, not an ambiguity.
 
-- [ ] Decide in `11-S2-CANON.md`: restored (and what it costs Andromache — DC9's price is
+- [x] Decide in `11-S2-CANON.md`: restored (and what it costs Andromache — DC9's price is
       giving the face away permanently), or deliberately withheld (add to the outline's
       "Deliberately withheld" list with the reason, as was done for Dennis). Either is
       defensible; undecided is not.
