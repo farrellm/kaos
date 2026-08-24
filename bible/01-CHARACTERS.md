@@ -220,7 +220,8 @@ led them to him and then took his coin, stranding him among the unresolved for a
 projected two hundred years. He has spent ten years living entirely in the past,
 waiting at the port for her to arrive.
 
-**Arc.** Promoted to diver by Medusa on Persephone's orders — not a coincidence.
+**Arc.** Promoted to diver by Medusa on Persephone's orders — not a coincidence
+**(inference)**.
 Befriends Riddy. Follows Nax into the Nothing; when Hades extracts the boy by hand,
 Riddy is left reeling and Caeneus feels nothing at all — an immunity he cannot explain,
 and which Prometheus flags to the audience: *he will soon.*

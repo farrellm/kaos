@@ -114,8 +114,8 @@ people can't swim… That's why you're divers. I chose you specifically for that
 The solid evidence is "Persephone's orders, Charon" (E02) plus "there's a plan beyond you…
 Riddy was the important one" (E08).
 
-- [ ] `05-MYSTERIES.md` › R9: qualify or drop the training-quote citation; keep the rest.
-- [ ] `01-CHARACTERS.md` › Caeneus: "not a coincidence" → mark **(inference)**.
+- [x] `05-MYSTERIES.md` › R9: qualify or drop the training-quote citation; keep the rest.
+- [x] `01-CHARACTERS.md` › Caeneus: "not a coincidence" → mark **(inference)**.
 
 ### 2.6 O9 constraint (c): Hera has *not* lost the tacitas — internal contradiction
 O9(c) says "She has lost the tacitas' confessions as a power source." Nothing in E08

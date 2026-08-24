@@ -68,8 +68,10 @@ is allergic to pomegranate. Her Episode 8 speech is unambiguous, and it establis
 the gods author human belief deliberately.
 
 ### R9. Why was Caeneus selected as a diver?
-Persephone ordered it, and Medusa chose him specifically. Medusa says he was chosen "for
-that reason" during training and later admits there is a plan beyond him. **What the plan
+Persephone ordered it ("Persephone's orders, Charon," E2), and Medusa later admits there
+is a plan beyond him and that Riddy was the important one (E8). Medusa's training-day
+line — "I chose you specifically for that reason" — is, in context, about guiding people
+who can't swim, and is weak evidence of plan-selection on its own. **What the plan
 required of him remains open — see O6.**
 
 ---
