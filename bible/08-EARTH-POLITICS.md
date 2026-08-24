@@ -115,9 +115,10 @@ A closed compound society, studied in Krete's schools. Rules, as Caeneus describ
 
 - Boys must leave the compound when they come of age — around eleven for most, though
   Caeneus stayed until fifteen.
-- Men who return are **executed**, and so are the women who harbor them. Caeneus's friend
-  Leos came back and was killed; the woman who sheltered him, Sofie, was told that she knew
-  the rules.
+- Men who return are **executed**. Caeneus's friend Leos came back and was killed; a woman
+  named Sofie — her relationship to Leos is never stated — is held responsible with him
+  ("you both knew the rules") and left wailing. What consequence she faced beyond that is
+  not shown.
 - The gods are honored; deviation from tribal order is framed as dishonoring both the gods
   and the tribe. Hippolyta calls Caeneus a blasphemer and offers his exclusion from Renewal
   as proof.

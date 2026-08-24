@@ -121,7 +121,8 @@ He did not mention his son and I did not ask.
 
 ---
 
-Ari went down in the autumn, on the rota, with the shift that was on.
+Ari went down in the autumn, on the rota, with the shift that was on. Persephone took her
+across, the way she takes me.
 
 Nobody talked her into it. That is the one thing in the whole of this that nobody had to talk
 anybody into. Everything else in this account took a committee.

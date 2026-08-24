@@ -30,8 +30,10 @@ humans in the right place at the right time, and this is the only chance.
 humans"; "the Meander doesn't blip"), while telling the audience the opposite.
 Steers Zeus away from wiping out half the world and toward stories. In Episode 6,
 deliberately plants the idea of Minos defying his prophecy — which detonates Minos,
-Krete, and Zeus's grip in one move. In Episode 8, freed by the Fates the instant
-Caeneus passes through the Frame, and told his freedom is his own problem now.
+Krete, and Zeus's grip in one move. In Episode 8, his reading of the Fates' promise
+fails in front of him: Caeneus enters the water and no freedom comes, and he despairs
+on the page. He vanishes mid-sentence during his last speech to Zeus, and the Fates
+free him only after the renewal — telling him his freedom is his own problem now.
 
 **Exit position.** Free, uncaged, standing inside Zeus's house, telling Zeus that
 his vision was real and that kaos is coming. Visibly less in control than he has
@@ -144,8 +146,9 @@ is allergic to pomegranate.
 
 **Arc.** Argues for standards when Zeus demands more divers immediately. Pushes Hades
 to tell Zeus the truth. After Zeus maims him, refuses to be summoned, then comes
-anyway — with a sandwich. Countermands Hades's ruling and sends Orpheus back to Earth
-with Riddy, explicitly as a statement of intent against Zeus: *the war has begun.*
+anyway — with a sandwich. Countermands Hades's ruling: sends Riddy — a dead woman — back
+to Earth, explicitly as a statement of intent against Zeus (*the war has begun*), with
+Orpheus released alongside her as the rider.
 
 **Exit position.** In the underworld, the most decisive rebel among the gods, having
 already committed the first act of war.
@@ -218,9 +221,12 @@ led them to him and then took his coin, stranding him among the unresolved for a
 projected two hundred years. He has spent ten years living entirely in the past,
 waiting at the port for her to arrive.
 
-**Arc.** Promoted to diver by Medusa on Persephone's orders — not a coincidence.
-Befriends Riddy. Follows Nax into the Nothing and physically feels the extraction,
-which Riddy does not. Discovers his prophecy is word-for-word identical to hers, which
+**Arc.** Promoted to diver by Medusa on Persephone's orders — not a coincidence
+**(inference)**.
+Befriends Riddy. Follows Nax into the Nothing; when Hades extracts the boy by hand,
+Riddy is left reeling and Caeneus feels nothing at all — an immunity he cannot explain,
+and which Prometheus flags to the audience: *he will soon.*
+Discovers his prophecy is word-for-word identical to hers, which
 should be impossible. Deduces with her that there is no Renewal. Sends her back to
 Earth to tell the living, and stays to stop the Frame from below. Is refused help by
 Medusa, who tells him there is a plan beyond him. His mother finally arrives dead by
@@ -444,11 +450,14 @@ he had to do was trust and wait.
 ### The Furies — Alecto, Tisiphone, Megaera
 Older than the gods. Roam the Earth delivering justice where they judge it denied,
 which is subjective. Only their target can see or hear them; they drive people to
-suicide. They are owed a favor by the Fates, and spend it on Ari — abducting her,
-feeding her popcorn, and showing her the film of her father's crime, on the explicit
-grounds that they are not there to punish her but to show her the truth. Their advice
-to a devout woman: fuck the gods; they are the source of all your pain. Then they let
-her walk out and call the debt settled.
+suicide. A favor stands between them and the Fates, and it is spent on Ari — abducting
+her, feeding her popcorn, and showing her the film of her father's crime, on the explicit
+grounds that they are not there to punish her but to show her the truth. Who owed whom is
+never stated: a Fate (the subtitles tag Atropos) is present when the debt is closed —
+*we're even now, no more favors, she's on her own* — and the likelier reading is that the
+Furies were repaying the Fates, since showing Ari the truth services the Fates' design
+**(inference)**. Their advice to a devout woman: fuck the gods; they are the source of
+all your pain. Then they let her walk out.
 
 ---
 
@@ -472,7 +481,7 @@ move on without him — and spends the rest of the season learning what he is.
 **Arc.** Attempts suicide; is shot in the shoulder by Dionysus instead. Fails the
 Cave's quiz when the Fates expose the coin, and is smuggled in anyway on the price of
 Zeus's watch. Crosses the Styx, murders his fellow contestant Anatole under Charon's
-goading, is saved from Charybdis by the mark on his hand. Survives the wilderness by
+goading, is saved from Charybdis by the mark a Fate gave him. Survives the wilderness by
 refusing the Fates' offered water, choosing to die trying rather than live having
 quit. Reaches Riddy — who will not come back. Is refused by Hades and then released
 anyway by Persephone. Learns Riddy was leaving him the day she died.

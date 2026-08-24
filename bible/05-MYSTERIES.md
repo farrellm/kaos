@@ -57,7 +57,9 @@ Episode 4. **The visitor's identity remains open — see O2.**
 
 ### R7. Who took Zeus's watch, and where did it end up?
 Dionysus took it to get his father's attention, then paid it to the Fates as the price of
-Orpheus's entry into the underworld. Zeus sees it on Lachesis's wrist as she burns, and
+Orpheus's entry into the underworld. The watch he "finds" and returns in Episode 4 is a
+shop-bought look-alike, so Zeus wears a counterfeit for the rest of the season — which is
+why seeing the real one on Lachesis's wrist as she burns detonates the way it does.
 Dionysus confesses in full in Episode 8.
 
 ### R8. Is Persephone in the underworld against her will?
@@ -66,8 +68,10 @@ is allergic to pomegranate. Her Episode 8 speech is unambiguous, and it establis
 the gods author human belief deliberately.
 
 ### R9. Why was Caeneus selected as a diver?
-Persephone ordered it, and Medusa chose him specifically. Medusa says he was chosen "for
-that reason" during training and later admits there is a plan beyond him. **What the plan
+Persephone ordered it ("Persephone's orders, Charon," E2), and Medusa later admits there
+is a plan beyond him and that Riddy was the important one (E8). Medusa's training-day
+line — "I chose you specifically for that reason" — is, in context, about guiding people
+who can't swim, and is weak evidence of plan-selection on its own. **What the plan
 required of him remains open — see O6.**
 
 ---
@@ -123,7 +127,7 @@ in his own house: by his wife releasing Orpheus and by Caeneus renewing a soul. 
 philosophically cornered.
 
 ### P4. How organized is the underworld rebellion?
-> **Settled — [DC7, DC14, DC37](11-S2-CANON.md).** Runs in **12**, **22**, **29**.
+> **Settled — [DC7, DC14, DC31, DC37](11-S2-CANON.md).** Runs in **12**, **22**, **29**, **38**.
 **Known.** Medusa recruits Riddy and names "rebels — people who see the gods for what
 they are." Persephone gave the diver order that put Caeneus in place, and unilaterally
 released Orpheus as an act of war. Charon takes a phone call about "the man with the
@@ -243,8 +247,11 @@ prophecy's completion requires that he cannot stop.
 
 ### O6. Why can Caeneus renew souls?
 **Settled — see [D3 in 11-S2-CANON.md](11-S2-CANON.md).**
-**Evidence.** E5: he physically feels Hades extracting Nax; Riddy, standing next to him,
-feels nothing. E8: he goes into the Lethe after his mother and she comes back. Hades
+**Evidence.** E5: when Hades extracts Nax, it is *Riddy* who feels it — the ringing hurts
+her — while Caeneus feels nothing at all and cannot say why; Prometheus's *he will soon*
+lands in E8, when Caeneus gasps at the Frame's ringing. *(Corrected against the
+transcripts — an earlier version of this line had the two reversed.)*
+E8: he goes into the Lethe after his mother and she comes back. Hades
 witnesses it and names it: *you can renew human souls.* Prometheus, watching, expected
 Caeneus to be protected and the family to fall, and did not expect this.
 
@@ -288,7 +295,8 @@ about the underworld to the living and is not under anyone's orders.
 > **Settled — [DC17](11-S2-CANON.md).** Runs in **2**, **26**, **33**.
 **Evidence.** Confined by Zeus, stripped of her bees and her leverage. She immediately
 phones someone, calls herself "Mommy," and instructs them to gather the troops and make up
-a spare bed.
+a spare bed. The subtitles place a `[coin clinks]` cue directly after the call — possibly
+Hera palming a dead-passage coin **(inference — a sound cue only)**.
 
 **Confirmed.** She has an ally with troops and a household, whom she addresses as a
 parent.
@@ -300,7 +308,13 @@ ambiguous.
 raise a force, which points at the absent Olympians named in Episode 2 or at some power
 outside Zeus's household. (b) Hera refused Poseidon's offer to run away on the grounds that
 Olympus is *her* house — so any plan she runs is about taking it, not leaving it. (c) She
-has lost the tacitas' confessions as a power source, which was the basis of her influence.
+built her influence on the tacitas' confessions, and whether she can still draw on them
+while confined is unestablished. *[Corrected against the transcripts: an earlier version
+of this constraint said she had lost the tacitas as a power source. Nothing in E8
+establishes that — Zeus confines her on Olympus, where the tongue cabinet is, and his
+seizures name cities, not tacitas; [06-OLYMPUS.md](06-OLYMPUS.md) has this right. That
+she walks north without a single tacita is a canon decision ([DC17](11-S2-CANON.md)),
+not S1 fact.]*
 
 ### O10. Poseidon, dispossessed and in love
 > **Settled — [DC26, DC36](11-S2-CANON.md).** Runs in **11** and **34**. He is *for* nothing, and the year is the demonstration of it.
@@ -313,7 +327,8 @@ lost everything self-interest could protect. His alliance is available to whoeve
 first, and Hera is the obvious buyer.
 
 ### O11. Dionysus and Troy
-> **Settled — [DC10, DC35](11-S2-CANON.md).** Runs in **8**, **39**.
+> **Settled — [DC10, DC35](11-S2-CANON.md); Nax's non-restoration settled separately by
+> [DC40](11-S2-CANON.md).** Runs in **8**, **39**.
 **Evidence.** He asks the Trojans what they want and promises to do it — *What do you
 want? Tell me, and I'll do it.* They want Troy rebuilt and Olympus destroyed. The scene
 carries no speaker tags; **Nax is not in it** (dead since Olympia night, extracted by Hades
@@ -331,7 +346,7 @@ he cannot bring the dead back, and he has been told so by everyone. (c) His decl
 for Ari has not been acted on and Ari does not know he exists.
 
 ### O12. What does Ari do with Krete?
-> **Settled — [DC10, DC12, DC18, DC24](11-S2-CANON.md).** Runs in **3**, **6**, **18**, **21**, **39**.
+> **Settled — [DC10, DC12, DC18, DC24, DC34](11-S2-CANON.md).** Runs in **3**, **6**, **9**, **18**, **21**, **39**.
 **Evidence.** She killed the president, refused to rule for the gods, and told Riddy's
 world nothing yet. Her mother approves. Glaucus is dead — Minos knifed him in the
 labyrinth minutes after she unmasked him — and she has his body and thirty years of
@@ -379,15 +394,55 @@ phone — and, given O9, for who might be raising troops.
 ### O16. Small threads worth not dropping
 > **Settled — [DC10, DC11](11-S2-CANON.md) in part.** Runs in **21**, **39**.
 - **Dennis.** Killed to make a point. Dionysus's grief over him is the hinge of his defection.
-- **Fotis** — "light" — left with Charon, and Caeneus promised to visit.
+- **Fotis** — "light" — left with Charon, and Caeneus promised to visit. His parting
+  words at the port — "Look out for her, okay?" — read as leaving the dog watching for
+  the mother he was himself waiting for **(inference)**.
 - **Theseus**, last seen in Episode 3, a Trojan operative inside the palace of a dead president.
 - **Calli**, who manages Orpheus's schedule in Episode 1 and is never seen again. The show
   does not establish whether she is family or staff. She is *not* the woman at the Cave who
   says *bring him back* — in context that is Anatole's wife, about their son
   **(inference)**. Persephone separately offers to visit Orpheus's mother, who never
   appears.
+- **Riddy's mother**, a tacita since Riddy was five. Riddy's last living act was
+  confessing to her, and Riddy is now alive on Earth while the booths stay open.
+  Settled for the novelization in [DC18](11-S2-CANON.md) — alive, still in the booth,
+  and her whole answer is *Did it hurt?* *(Added in the 2026-08 audit; this thread was
+  live in E1 and previously unlisted.)*
+- **The tacita Zeus tortured and Hera had buried** (E5) is never identified. She is
+  **not** established as Riddy's mother — DC18 depends on the mother being alive, so no
+  file may quietly merge the two women.
 - **Agatha**, who lived to die and, at the water, thought of everything she hadn't done.
 - **The bees** — the mothers of Zeus's children, burned. Dionysus never learned which one was his.
 - **Hercules's watch**, twice-lucky, now on a burned Fate's wrist.
+- **Charon and Prometheus.** The murdered lover kept the promise for thousands of years
+  ("The man with the mark is here." / "I know." — E6), and the murderer is now free to
+  walk down to the Styx. The novelization's Part Two runs on this — see
+  [DC2, DC3](11-S2-CANON.md). *(Added in the 2026-08 audit; previously unlisted.)*
 - **Hippolyta and Carl**, freshly dead and cheerfully violent in the underworld.
 - **The Scylla**, named and never used.
+
+### O17. The Furies
+> **Settled — [DC39](11-S2-CANON.md) — released, with the reason on record.**
+
+*(Added in the 2026-08 transcript audit: the season leaves this faction unaccounted for,
+and no earlier entry covered it.)*
+
+**Evidence.** E3: Alecto and Tisiphone drive a man named Terry to shoot himself in a
+gas-station bathroom — "you know how to get rid of us" — then pick their next target.
+Prometheus's gloss: as old as the gods, or older; delivering justice where they feel it
+has been denied, "quite subjective"; visible and audible only to their target. Theseus's
+gloss: they come for murderers and, crucially, for people who go unpunished — and not for
+those who have punished themselves. E5: with Megaera, they hold Ari not to punish her but
+to show her the truth, tell her to fuck the gods, and close out a favor with the Fates —
+"we're even now, no more favors" — with a Fate present (see the favor note in
+[01-CHARACTERS.md](01-CHARACTERS.md)).
+
+**Confirmed.** They exist outside the Olympian hierarchy, predate it, act autonomously,
+and were used — once — as the instrument that put the third of Prometheus's three humans
+in motion.
+
+**Resolution constraints.** (a) Their trigger is justice *denied*, and the season ends
+thick with enormous unpunished acts — Zeus's above all — so any continuation owes their
+absence a stated reason, not silence. (b) Only their target perceives them, which caps
+how visibly they can ever act. (c) The favor with the Fates is closed; nothing obliges
+either side to the other again.

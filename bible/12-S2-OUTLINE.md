@@ -168,10 +168,11 @@ and does not recover its footing. *(newQ1, D1)*
 **25.** Prometheus goes to the Fates for a correction and receives none, because they have
 never said an untrue thing to him and are not about to start. *(O4, partial)*
 
-**26.** Hera, Ares and Poseidon strike Olympus and fail. Zeus kills **Artemis** in front of
-the others to end the argument — chosen because she was not part of the strike, and because a
-twin destroyed by a father's decision is the show's own central image. The absent Olympians
-stop being absent. *(O15)*
+**26.** Hera, Ares and Poseidon strike Olympus and fail. Zeus kills **Artemis** at the noon
+argument — for saying she would rather be in the north ([DC5](11-S2-CANON.md)), and because
+he needed something to drink ([DC26](11-S2-CANON.md)); that a twin destroyed by a father's
+decision is the show's own central image is why the choice lands. The absent Olympians stop
+being absent. *(O15)*
 
 **27.** Zeus puts the Nothing under direct guard and cuts Caeneus off from the river. The
 reservoir is now a garrison.
@@ -197,11 +198,19 @@ has had a year of being a prophet, and 31 is later still. *(newQ4)*
 **32.** Zeus ages in public. The Meander fails in the middle of a sentence. His children
 arrive — the five who are left — not to fight, just to watch. *(P2, O15)*
 
-**33.** Hera takes Olympus and finds it worthless: the throne was a distribution point and
-there is nothing left to distribute. She sits in it anyway, because it is hers. *(O9)*
+**33.** Hera takes Olympus and finds it worthless — there is no throne, and the river was
+the seat ([DC26](11-S2-CANON.md)): the reason nobody took the place in four thousand years
+is that taking it would have got you the tap. Nobody stops her, there is no siege, and the
+inventory comes to a dry ditch, a year of unopened post, a cabinet that works perfectly
+and is worth nothing, and a husband who tells the staff she has come back and is never
+corrected by anybody, including her. *(O9)*
 
-**34.** Poseidon dies covering her retreat from a war she has already won, and she is
-genuinely, inconveniently grieved. *(O10)*
+**34.** Poseidon's death, as the winter has it in [DC26](11-S2-CANON.md): a starving Zeus
+stands up and crosses the room toward Hera, and Poseidon — between the table and the doors
+because that is where he is standing — puts an arm out the way you break up something at a
+party, says *All right. All right —*, and does not finish the second one. Whether he knew
+what he was doing is deliberately unresolved. Afterward Hera walks the dry bed of the
+Meander the way he used to, and Riddy refuses to build a theory out of the pair. *(O10)*
 
 **35.** Prometheus and Zeus, last conversation — **not** the one in which he puts the
 arithmetic to him and gets "All right," which 36 already narrates in six lines and must
@@ -234,7 +243,7 @@ which is a confusion every one of them had.
 properly somewhere else*, and this is somewhere else: she walks into the Nothing, in the water,
 and the definition arrives as a thing she is standing in rather than a paragraph she writes.
 **Show it with the reopened port**, moved here from 39 — no ferry fare, Medusa running it,
-Hades working it — because that *is* the definition, demonstrated. *(P1, P3, O13)*
+Hades working it — because that *is* the definition, demonstrated. *(P1, P3, P4, O13)*
 
 *Guard rails:* 37 already has *nobody was ever going to be on our side* and 40 has *I never
 convinced anybody.* 38 must not restate either. It is the only one of the three that is about
@@ -244,10 +253,12 @@ the world rather than about her.
 one. Ari goes down and stands in the water and says her brother's name, which is the one
 thing in this story nobody had to talk her into. The labyrinth is filled in with concrete —
 [DC10](11-S2-CANON.md)'s first item on the list, once the four hundred have somewhere to go.
-Dionysus stays mortal-adjacent and does not get Ari. Daedalus. Fotis — **decide whether the
-dog dies here**; 40 has Riddy answering *ten years* in the past tense. Orpheus sings the last
+Dionysus stays mortal-adjacent and does not get Ari. Daedalus. Fotis lives — decided in
+[DC32](11-S2-CANON.md): old, port in the mornings, asleep under Charon's desk, and the dog
+gets up when Caeneus comes in; 40's *ten years* is about the ownership, not the animal.
+Orpheus sings the last
 true song and is believed, which is all he ever actually wanted and he does not enjoy it.
-*(O8, O11, O12, O16, P4)*
+*(O8, O11, O12, O16)*
 
 *The port moved to 38.* This chapter was carrying seven threads and is now carrying five, and
 it is still the densest in the book — keep the register the show uses for this, which is fast
@@ -270,7 +281,7 @@ Every open thread, and where it closes.
 | P1 | What "kaos reigns" means | 38 |
 | P2 | Can Zeus be killed / is he mortal | 7, 20, 32, 36 |
 | P3 | What Hades is planning | 10, 14, 38 |
-| P4 | How organized the rebellion is | 12, 22, 29, 39 |
+| P4 | How organized the rebellion is | 12, 22, 29, 38 |
 | P5 | Is Daedalus alive | 17 |
 | O1 | Cassandra's source | [D2](11-S2-CANON.md), dramatized 22 |
 | O2 | Who visited Prometheus | [D1](11-S2-CANON.md), dramatized 24 |
@@ -278,12 +289,12 @@ Every open thread, and where it closes.
 | O4 | What the Fates want | 25, 37 |
 | O5 | Zeus's belief: broken or hardened | 20, 36 |
 | O6 | Why Caeneus can renew | [D3](11-S2-CANON.md), dramatized 15–16 |
-| O7 | Riddy's prophecy now | 28 |
+| O7 | Riddy's prophecy now | 28, 40 |
 | O8 | Orpheus's fate | 5, 19, 39 |
 | O9 | What Hera is building | 2, 26, 33 |
 | O10 | Poseidon dispossessed | 11, 34 |
 | O11 | Dionysus and Troy | 8, 39 |
-| O12 | Ari and Krete | 6, 9, 18, 21, 39 |
+| O12 | Ari and Krete | 3, 6, 9, 18, 21, 39 |
 | O13 | The Nothing and the collapse | 27, 30, 38 |
 | O14 | The unresolved dead | 12, 29 |
 | O15 | Zeus's absent children | 2, 26, 32 |
@@ -304,6 +315,10 @@ Things the outline refuses to resolve, on purpose:
 - **Dennis is not renewed.** The kitten stays dead. Dionysus's whole arc is learning that
   loving something that can be taken is not weakness; undoing the loss would retroactively
   make Zeus right.
+- **Nax is not restored.** The machinery that could reach him exists by 30 and his mother
+  allies with the people who built it, and nobody goes into the water for him — because
+  Andromache, told what restoration actually is (a face given away permanently, into a
+  life that will never know him), declines the trade. See [DC40](11-S2-CANON.md).
 - **Nobody thanks Caeneus.** He pays the entire cost and ends without the memory of having
   paid it. No character delivers a speech about his sacrifice, because he would not be able
   to follow it.
@@ -422,7 +437,8 @@ stand on it. What the expansion settled is in
 talking given two scenes instead of a list, the route down named, and the two hundred thousand
 introduced before 29 needs them. No drafted chapter is now below its band.
 
-**Target roughly 85,000**, reached by type rather than by padding:
+**The roughly-85,000 target is met.** The bands by type are the standard to revise
+against, not a quota to fill:
 
 | Chapter type | Band | Examples |
 |---|---|---|
@@ -430,10 +446,7 @@ introduced before 29 needs them. No drafted chapter is now below its band.
 | Event — cross-cut, multiple speakers, things happen | 2,200–3,000 | 15, 19, 21, 26, 29, 30, 31, 32, 33, 34, 39 |
 | Hinge — an event *and* its reckoning | 1,900–2,400 | 20, 24, 28, 35, 36, 37, 40 |
 
-Part One still has the most room and the least written: 6 and 8–12 are single-beat sketches,
-and several are event chapters carrying a whole strand's opening.
-
-Do not hit the number by lengthening the reckoning chapters. Their compression is the voice.
+Do not revise the reckoning chapters longer. Their compression is the voice.
 
 ---
 

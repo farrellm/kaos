@@ -81,9 +81,11 @@ disintegrate what it holds, that it will eventually break, and that when it does
 takes the underworld, Olympus and Earth with it. Zeus's answer is that you cannot run
 out of souls, because he is king of the gods.
 
-**Manual extraction.** Hades can finish the job by hand, by touch. Caeneus physically
-feels it happen as a piercing pain; Riddy standing beside him feels nothing at all.
-Neither of them knows why. **(Open — see [05-MYSTERIES.md](05-MYSTERIES.md).)**
+**Manual extraction.** Hades can finish the job by hand, by touch. Riddy physically
+feels it happen — the ringing hurts her, and she is left retching; Caeneus, standing
+beside her, feels nothing at all and cannot say why. Prometheus's aside — *he will
+soon* — pays off in Episode 8, when Caeneus gasps at the Frame's ringing as his mother
+passes through. **(Open — see [05-MYSTERIES.md](05-MYSTERIES.md).)**
 
 ---
 
@@ -156,7 +158,8 @@ tests below, ending with Hades himself, who is not obliged to say yes.
 takes Orpheus. Working **cerberus dogs** at the port, which are not to be petted and
 which can smell a coinless soul.
 
-**The mark.** A sign given by a Fate, worn on the hand. Prometheus made Charon swear,
+**The mark.** A sign given by a Fate; the transcripts never say where on the body it
+sits. Prometheus made Charon swear,
 before killing him, to protect a stranger he would recognize by the mark. Orpheus
 carries it; Charon honors the oath. Orpheus is told only that it means *something is
 true*.

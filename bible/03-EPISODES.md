@@ -210,8 +210,9 @@ for it; Riddy and Caeneus find the Nothing.
     break the pact. Orpheus kills Anatole.
 13. Hippolyta, the Amazon who killed Caeneus, arrives dead and recognizes him. She tells
     him his mother gave him up freely. Very freely.
-14. Dionysus tortures a shopkeeper for a replacement watch, then returns the original to
-    Zeus, claiming he found it by the gate.
+14. Dionysus tortures a shopkeeper for a look-alike watch, then passes the replacement
+    off to Zeus as the original, claiming he found it by the gate. (The real watch went
+    to the Fates in Episode 2 — Zeus wears a counterfeit from here to the end.)
 15. The unresolved hold a party. Prue's prophecy game. Riddy refuses to share hers.
     Riddy and Caeneus talk on the steps: the Amazons, his transition, being murdered by
     his own people, what kissing feels like.
@@ -258,8 +259,10 @@ a confession booth; Hades harvests a boy in front of two witnesses.
 5. Ari refuses to watch the end and demands to be let out. She accuses the Furies of
    driving humans mad until they kill themselves. **Megaera**'s answer, seconded by
    **Alecto** and **Tisiphone**: fuck the gods —
-   they're the source of all your pain. They let her go. The favor owed by the Fates is
-   settled; she's on her own. Parting advice: talk to Daedalus.
+   they're the source of all your pain. They let her go. A favor between the Furies and
+   the Fates is settled — a Fate (tagged Atropos) is present, and who owed whom is never
+   stated **(inference: the Furies read as the repayers)**; she's on her own. Parting
+   advice: talk to Daedalus.
 6. Ari returns home. Minos is frantic with relief. She asks him to recite his prophecy;
    he detonates, then apologizes.
 7. Daedalus confesses: he killed the baby on Minos's orders because Minos threatened
@@ -281,8 +284,8 @@ a confession booth; Hades harvests a boy in front of two witnesses.
 14. Prometheus: all actions have consequences, even for Zeus. Hera orders the tacita
     buried.
 15. Riddy and Caeneus in the Nothing. Hades finds Nax, tells him there's no need to be
-    afraid, and extracts him by hand. Caeneus is knocked down by the pain; Riddy feels
-    nothing.
+    afraid, and extracts him by hand. Riddy is knocked down by the pain; Caeneus feels
+    nothing at all and doesn't know why. Prometheus: *he will soon.*
 16. Hades recites the prophecy to himself: *what have I done?* Prometheus: he did what
     Zeus told him to; that is his tragedy; Caeneus and Riddy must undo it.
 17. Caeneus offers to sit with Riddy. She declines. Prometheus: love is the point of
@@ -297,7 +300,7 @@ young Glaucus, the mechanics of manual extraction.
 
 **What this plants.** The unidentified visitor — the largest unanswered question in the
 series. Minos's prophecy in full. Glaucus alive. Hera's singular secret. Zeus's oath-
-breaking. Caeneus's inexplicable sensitivity to soul-extraction.
+breaking. Riddy's sensitivity to soul-extraction, and Caeneus's inexplicable immunity to it.
 
 ---
 
@@ -308,9 +311,9 @@ the system is breaking and is struck by lightning for it.
 
 **Beats**
 1. Caeneus tells Riddy how he left the Amazons: his friend Leos came back and was killed;
-   Sofie, the woman who had harbored him, is left wailing and reminded that she knew the
-   rules; his mother named him Caeneus and told him to go; her own prophecy had foretold a
-   boy.
+   a woman named Sofie — held responsible with him ("you both knew the rules"; her
+   relationship to Leos is unstated) — is left wailing; his mother named him Caeneus and
+   told him to go; her own prophecy had foretold a boy.
    They agree they hate the gods. They kiss.
 2. Charon leaves Orpheus at the wilderness — the final test, which nobody has ever reached.
 3. Persephone dresses Hades for the confrontation. The Nothing is overloaded; that's why
@@ -326,7 +329,9 @@ the system is breaking and is struck by lightning for it.
    rule, calls him the runt, and blasts him with lightning.
 7. Riddy and Caeneus reason it out: there is no Renewal; everyone who goes through the
    Frame ends up in the Nothing; the family that falls is the gods.
-8. Persephone, over Hades's body, vows to find a way to destroy Zeus.
+8. Over Hades's body, a vow addressed to Hera: *I will destroy him… I swear, I will find
+   a way.* Spoken by Persephone **(inference — the line is untagged in the transcript;
+   she is the plausible speaker, weeping over Hades)**.
 9. Poseidon consults the Fates. They confirm Minos can kill his son, recite Minos's
    prophecy, and confirm that people can occasionally defy their prophecies.
 10. **Prometheus's central monologue**: Zeus killed Kronos and absorbed his soul; the
@@ -348,7 +353,7 @@ the season's thesis statement.
 
 **First appearances.** Leos (flashback), young Caeneus, Clotho in the wilderness.
 
-**What this plants.** The identical prophecies. Persephone's vow. Hera and Poseidon
+**What this plants.** The identical prophecies. Persephone's vow **(inference — untagged)**. Hera and Poseidon
 exposed to Dionysus. Prometheus's fingerprints on the Minos plan — he supplied the idea
 that kills Minos, topples Krete, and destroys Zeus's composure.
 
@@ -412,7 +417,10 @@ his mother and brings her back; Prometheus walks free and finds he was never the
    was a vision, not a dream, and goes to destroy the Fates.
 2. Hera summons the family. Persephone refuses to be summoned, then comes with a sandwich.
 3. Hades tells Medusa he has taken too much from humans, that he has a plan to restore
-   things, and that he is going to defy his brother.
+   things, and that he is going to defy his brother. (The transcript follows with an
+   unattributable interstitial — "We've been expecting you… Want a beer?" / "He's not…
+   No, he wouldn't do that" — between his departure and the Zeus–Fates scene; no speaker
+   can be fixed, so it is left uninterpreted here.)
 4. Zeus and the Fates. They know why he's come and help him stage it. They explain that a
    prophecy requires his belief to come to pass, that they are everywhere and nowhere,
    and that he should perhaps be scared of those moving against him. **Atropos** wants somewhere less predictable
@@ -455,7 +463,10 @@ his mother and brings her back; Prometheus walks free and finds he was never the
 17. Hera phones an unnamed party: gather the troops and make up a spare bed.
 18. Prometheus appears inside Zeus's house and tells him the vision was real, and kaos is
     coming.
-19. Dionysus asks the Trojans what they want. Rebuild Troy and destroy Olympus.
+19. The final scene, untagged in the transcript: *What do you want? Tell me, and I'll do
+    it* — answered: *Help us rebuild Troy and destroy Olympus.* That the asker is Dionysus
+    and the Trojans present are Hecuba and Andromache is **(inference)** — see O11 in
+    [05-MYSTERIES.md](05-MYSTERIES.md).
 
 **Prometheus's narration.** Sparse and, for the first time, panicked. He does not know what
 is happening. His last line to Zeus is a warning, not a plan.

@@ -87,7 +87,8 @@ several pages later, which is how the show plays it.
 - **"Fuck the gods."** Graffiti, blasphemy, criminal charge, Fury advice, and finally Ari's
   answer to her father. It escalates from vandalism to a political position.
 - **"There are no mistakes here."** The underworld's administrative motto.
-- **"Gods don't bleed."** Said as fact three times, and once as a taunt in a dream.
+- **"Gods don't bleed."** Said as fact twice — Dionysus in Episode 1, Zeus ("we don't
+  bleed") in Episode 8 — and once as a taunt in a dream (Lachesis, Episode 8).
 
 ## Music
 

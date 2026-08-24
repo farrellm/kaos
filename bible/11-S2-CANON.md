@@ -1040,8 +1040,11 @@ Nothing, and he has been there for the whole of this book.
   the one person in the story who has to walk into the worst place that has ever existed and
   say a name at a brother she knew for four minutes.
 - **Nobody talks her into it and nobody thanks her for it.** She goes in the ordinary way,
-  on the rota, with the shift that is on — the same water, the same knee-deep end. 39 gives
-  it a sentence, not a scene. If it swells into a set piece it is stealing from 36.
+  on the rota, with the shift that is on — the same water, the same knee-deep end. Her
+  route down is Persephone's crossing, per
+  [DC6](#dc6--persephone-carries-riddy) — the living have no other door, and 39 names it
+  in one clause. 39 gives the whole of it a sentence, not a scene. If it swells into a
+  set piece it is stealing from 36.
 - **Chapter 6 is re-commissioned** around what she actually has: a state whose constitution
   cannot explain her, a mother, a waxwork nobody thought to cancel, and Daedalus's bell in a
   workshop drawer.
@@ -2008,6 +2011,62 @@ three are gone; the chapter now opens *I'll do the number first*, which is hers.
   is load-bearing and 30's is the smaller of the two.
 - The four *eleven* sets survive Part Three untouched: the crate in 28 and 40, the days off the
   river in 28, the gods counted in 29, the first mass renewal recalled in 31.
+
+### DC39 — Why the Furies never come
+Closes [O17](05-MYSTERIES.md), added by the transcript audit. **No draft changes** — the
+drafted book is already consistent with this, and Chapter 25's one Megaera aside is the
+only trace they leave in it.
+
+**The decision.** The Furies sit Season 2 out, and the reason is the book's own thesis.
+Their trigger is a debt that stands: a guilty person, unpunished, walking around inside
+the life their act bought them. Nobody in this story ends in that condition. Zeus is not
+unpunished — by the winter there is nobody left in him to punish, and after 36 what
+remains is one mortal life, owed nothing; a Fury cannot pursue a debtor who has stopped
+existing, which is Chapter 35's finding at faction scale. Ari punished herself for thirty
+years for a crime that was not hers, which is why they came to her with popcorn instead
+of whispers: they were never after her. And the book's one murderer at large, Orpheus, is
+covered by the rule Theseus states in E3 — *you've punished yourself; they're not coming
+for you.* He spends three months on the floor discovering there is no mechanism and then
+carries it in the open (DC20), which is self-appointment, not escape.
+
+**Why this is the right shape.** The Furies are the universe's enforcement of exactly what
+Chapter 35 discovers: punishment requires somebody home to receive it. Their absence is
+the same finding, demonstrated rather than argued — and it keeps them alive and unspent
+for any future story in which somebody profits from an unacknowledged crime.
+
+*Forces:*
+- Megaera's aside in Chapter 25 stays exactly as drafted — Prometheus guessing at what
+  would amuse a Fury is the correct amount of them.
+- No chapter may stage them, name their absence, or have a character wonder where they
+  are. The reason lives here, for the writer; the book demonstrates it without saying it.
+
+### DC40 — Nax stays in the water
+Closes the gap the audit found in O11: the prince of Troy stands in the Nothing while the
+book drains it, and no earlier decision said whether anyone goes in for him.
+
+**The decision. Nobody restores Nax, and it is Andromache's call.** She is told what the
+room is and what can be done — the network knows by 23, and she and Hecuba are nodes of
+it — and she asks the two questions she asked Orpheus in Chapter 5: whether it hurt, and
+whether he is all right down there. Then she declines. Restoration is not getting him
+back: it is giving his face away permanently, into a life that will never know him
+([DC9](#dc9--how-renewal-actually-works-and-why-it-does-not-scale)), and she has already
+done the arithmetic on offers that look like getting him back — she did it standing in
+her own house while a god withdrew one
+([DC35](#dc35--chapter-8-what-dionysus-agreed-to-and-what-he-was-actually-wanted-for)).
+What she says is a sentence, not a speech: she has lost him twice, and she will not lose
+him a third way.
+
+**Why this is the right shape.** It is the refusal the book already makes about Dennis, at
+adult height — undoing the loss would retroactively make the machinery right — and it
+keeps DC35 honest: Andromache is the one person who heard *tell me and I'll do it* and
+correctly sorted it into the performable parts. This is the last and largest sorting.
+
+*Forces:*
+- One passage at most, in 30 or 31's register, and no scene — a griever declining is told
+  the way the book tells losses, flatly, and is never re-litigated. If revision finds no
+  room, it lives entirely off the page; this entry is the record either way.
+- Hecuba is not consulted and does not overrule. Grief is not a committee.
+- Nobody tells Dionysus. He would offer again.
 
 ## New questions this opens
 
