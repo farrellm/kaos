@@ -188,16 +188,15 @@ I want it on the record that I thought this was sound. It is sound. It is the on
 answer to the actual question and she took it in about a day, and there is a version of the
 next two years in which it is the making of her.
 
-It is also, and she could not have known this and neither could I, the sentence that a woman
-who watched her son thrown off a wall is going to repeat back to her in a room in that same
-palace in a year and a half, in the same tone, with two words on the end of it. *Holding
-whom.*
+It is also, and she could not have known this and neither could I, a sentence that is going
+to be handed back to her in a room in that same palace, in the same tone, with two words on
+the end of it. I am not going to give you the two words now. You would not feel them yet.
 
 Keep the cells. You will want them three times.
 
 ---
 
-One more thing from those weeks and then I will take you north.
+One more thing from those weeks and then I will take you back up the mountain.
 
 The compound numbers did not add up.
 

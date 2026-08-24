@@ -9,9 +9,9 @@ that occurred that day which was of any importance whatsoever.
 
 I was not in the water and I did not see it. I was on a terrace being fond of.
 
-I got there about an hour later, which is as fast as anything can be done, and I have the
-first part from four people who were standing on that bank, and they agree, and where they
-don't I have said so.
+I got there in the fourth hour — as fast as it could be done, given that I had first to hear
+of it — and I have the first part from four people who were standing on that bank, and they
+agree, and where they don't I have said so.
 
 ---
 
@@ -164,9 +164,9 @@ out.
 There were perhaps thirty people at the Lethe when it happened and about half of them were
 dead and off shift and had come down for the last crossing, which people do, because there is
 not a great deal on. By the following evening the story was in the canteens. By the end of the
-week it was in every sector, and by the time anybody upstairs had begun to think about
-containing it there were, on Ione's estimate, fifteen hundred people who could tell you a
-version of it, most of them wrong in the same three ways.
+week it was in every sector, and by the time anybody in the office above the port had begun
+to think about containing it there were, on Ione's estimate, fifteen hundred people who could
+tell you a version of it, most of them wrong in the same three ways.
 
 The version that travelled was not the one about a god on his knees. Nobody cared about that.
 

@@ -30,7 +30,7 @@ careless of me, because Hera does not have habits. Hera has instruments.
 
 She left Olympus at about four in the morning with two bags.
 
-Two. I counted them, and I have thought about the two bags a great deal since. She is a queen
+Two. I counted them, and the two bags have stayed with me since. She is a queen
 of four thousand years' standing and she walked out of the house she had spent that entire
 period furnishing with a bag in each hand and nothing else at all, and she did not take a
 single tacita, which is the detail that should tell you the most and which I did not read
@@ -169,9 +169,9 @@ to write.
 Nothing came back. Not one of the five answered, and I checked, and I checked again in the
 spring because I did not believe it.
 
-I want to set down what I thought at the time, which was that they were being careful, and
-that a letter from a woman who has just been shut in a room by the king of the gods is a
-dangerous thing to be holding, and that they would come when it was safer.
+At the time I read the silence as caution — a letter from a woman who has just been shut in
+a room by the king of the gods is a dangerous thing to be holding — and expected them when
+it was safer.
 
 They did come, eventually. Five of them came home in the autumn, to a white house with a
 swimming pool in it, when their father had gone back to killing gods with his hands and was

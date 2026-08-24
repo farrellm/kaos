@@ -161,7 +161,8 @@ Dionysus paid his father's watch to three women to buy him a door, and lost a ki
 hive and a household over it, and told him to his face that his love was greater than death
 and appears to have meant every word.
 
-He is also the only other creature in the world who saw the whole of it and could say so.
+He is also the only creature left in the world above who knows the whole of it happened and
+could say so.
 
 He did not come.
 

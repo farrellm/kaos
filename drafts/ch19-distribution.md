@@ -2,8 +2,7 @@
 
 ## Distribution
 
-Early in this account, before most of you had decided what you thought of me, I said three
-sentences about Orpheus.
+Early in this account I said three sentences about Orpheus.
 
 I said that he was useful. I said that an ego like that has no trouble accepting the notion of
 a cosmic purpose. And I said that it has no suspicion that the purpose might be co-opted.
@@ -14,8 +13,8 @@ They are efficient, they are true of a great many people, and they have the part
 quality I have always prized in my own sentences, which is that they cannot be argued with by
 the person they are about.
 
-I am going to leave them exactly where they are. You can go back and look at them. I am not
-going to revise them, because the revising is the chapter.
+I am going to leave them exactly where they are, unrevised, because the revising is the
+chapter.
 
 ---
 

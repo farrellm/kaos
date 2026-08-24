@@ -66,9 +66,8 @@ the shape people carry — and you can serve a grievance like that for the rest 
 with wells and weather and never be asked for anything sharp.
 
 He was in mourning himself, which did not help. He had a kitten four weeks earlier and his
-father killed it in front of him to demonstrate a principle, and he still had the sling. I want
-to record that without doing anything to it. He wore it under the coat and I do not believe
-he was aware of it.
+father killed it in front of him to demonstrate a principle, and he still had the sling on,
+under the coat, and I do not believe he was aware of it.
 
 So he had a grief, and they had a grief, and he had assembled a picture in which they were the
 same size and the same age and could be worked on with the same instruments, which are time

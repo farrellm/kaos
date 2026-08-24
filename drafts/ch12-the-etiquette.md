@@ -90,18 +90,16 @@ decide it again at eighty.
 
 You get the industry. There is an enormous amount to arrange when you are waiting for
 somebody: the meeting itself, which is rehearsed; what will be said; where they will sleep;
-what to warn them about first. Prue has a room allocated for a woman who has not arrived and
-has had it for a very long time and moves things in it.
+what to warn them about first. There is a woman in the fourth sector who has a room allocated
+for a brother who has not arrived, and has had it for the better part of a century, and moves
+things in it.
 
 And you get the thing underneath all of it, which is that not one of them is idle and not one
 of them is doing anything. Two hundred thousand people conducting, with real discipline and
 considerable ingenuity, an activity with nothing at the end of it.
 
-I watched a canteen of them for most of an afternoon and I could have described every one to
-you inside a minute, because I have been each of them.
-
-I am putting that sentence down and I am going on, because we have a great deal to get through
-and because there is nothing in it that helps.
+I watched a canteen of them for most of an afternoon and I could have described every one of
+them to you inside a minute.
 
 ---
 
@@ -159,8 +157,8 @@ every room in the underworld and have asked every person in it whether they are 
 a cup. There is no register of the dead. There is no list of who is where; the establishment
 has sectors and numbers and does not have names.
 
-Prue is the list. She has been the list since before Krete had a president and nobody had
-noticed, including me, and including her.
+Prue is the list. She has been the list for decades and nobody had noticed, including me, and
+including her.
 
 Medusa noticed in four minutes and did not tell her, and told her nothing whatsoever about
 why she was being asked, and simply gave her the accurate version and asked her to have it
@@ -179,14 +177,14 @@ He was a clerk of some kind — he has told me twice and I have not retained it,
 and he is fussy and slow and courteous and I have never once been interested by anything he has
 said to me, and I include in that a four-thousand-year acquaintance with the god of the sea.
 
-His wife came down about a year after he did. She had a coin. He did not.
+His wife came down not long after he did. She had a coin. He did not.
 
 I want to give that its proper size, because everybody hears it and moves on. They were in the
 same building for a fortnight. Then a diver stood in the shallows and did the job, which is
 persuasion, which is the whole job — and she went into the water believing what everybody in
 that queue believes, and he stood on the bank and watched her go, and was pleased for her,
-and has been in a canteen ever since with a sentence that still has most of its second century
-left in it.
+and has been in a canteen ever since, with the better part of two centuries still on the
+clock.
 
 He has never once, in the whole of that, said a word against it. He explains the salt to new
 arrivals. He tells them the ones who ask questions get into trouble. He is, by any measure the

@@ -19,7 +19,7 @@ piece of writing that man ever did that I would keep exactly as it is.
 Here's the mechanism, and it's short, and I'll do it myself because nobody in this story ever
 said it out loud to anybody.
 
-The Frame stopped taking people in the spring.
+The Frame stopped taking people in the autumn.
 
 Not because anybody stopped it. Adrian stood on a dock for six days telling arriving souls the
 truth and then other people took over doing it, and something like a hundred and ten thousand

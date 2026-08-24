@@ -43,8 +43,8 @@ he has done since — the ball boys, the phases, the tacitas, his brother in the
 Fates in the poolroom, the kitten, the rationing — is the behaviour of a frightened man
 tidying. He now has, in his hand, the first physical evidence that the supply which sustains
 his immortality is finite and moving in the wrong direction. There is a second line above
-the first; it arrived weeks ago and he has been managing it with the lighting in the west
-room.
+the first and a third running down towards the temple; he has been managing them with the
+lighting in the west room.
 
 He will be here within the hour.
 
@@ -160,6 +160,16 @@ I have gone back over it since — the sentence, the shape of it, the way it arr
 and so soon — and I notice that it is the same sentence I made about a man at a desk who
 would not look at me, in the same voice, at the same speed, and both times it let me get up
 from the table and go on with the day.
+
+---
+
+He began telephoning his children again that week.
+
+I have given you the other end of this already — five letters in a queen's own hand, and
+nothing back. Five of the six answered him; the sixth was in the north, with the best reason
+in the world for not saying so. They were in the house before the leaves were done, not
+fetched and not apologised to. They came back to strength, which is the only address that
+family has ever answered at.
 
 ---
 

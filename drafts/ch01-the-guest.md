@@ -72,8 +72,8 @@ accurate thing I can tell you about Olympus.
 
 Inside there were two ball boys with a dustpan and a bucket, and a smear on the marble that
 they were working on with the concentration of men doing surgery, and one of them was
-crying, which the other one kept quietly telling him to stop, because there is no crying
-about a cat where he might see you.
+crying, and the other kept quietly telling him to stop, because there is no crying about a
+cat where he might see you.
 
 The bottles were on the table in a row. Six of them. One was half.
 
@@ -213,18 +213,19 @@ Because while I sat in that chair being fond of, three things were happening tha
 know about and could not have found if he had looked, and I want them in front of you before
 we go any further, since everything from here is these three things arriving at each other.
 
-**On a road outside a welded bin**, a young woman who had been dead a fortnight was standing
-in the dark with a prophet, being handed the only job in the world that nobody has ever
-completed.
+**On a road outside the mouth of the Cave**, a young woman who had been dead since the
+spring was standing in the dark with a prophet, being handed the only job in the world that
+nobody has ever completed.
 
 **On a riverbank under the world**, a dead man was holding his mother, who was breathing, and
 the god of death was on his knees in the mud in front of them asking a question that he — the
 god, the professional, the one who built the machine — did not have the answer to.
 
-**And in a walled compound in the north**, a woman with two bags and no retinue was walking
-up to a door she had not knocked on in three hundred years, behind which was a son, and
-behind him, standing in ranks in the cold and waiting to be asked, was every soldier her
-husband had ever failed to visit.
+**And on a road going north**, a woman with two bags and no retinue was walking — nine days
+of it, on her own feet, because a god who arrives in an instant announces herself — toward
+a door she had not knocked on in three hundred years. Behind the door was a son. Behind the
+son, standing in ranks in the cold, was an army that had spent four centuries waiting to be
+asked.
 
 That was the afternoon. That was all of it, running at once, and none of them knew about the
 others, and I knew about all three, and I want to be very clear with you that at the time I

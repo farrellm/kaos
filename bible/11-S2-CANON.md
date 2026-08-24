@@ -425,7 +425,7 @@ is why the concession must be made to look like strength in the moment.
 ### DC11 — Orpheus sings it, and it is Riddy's life
 Established in Chapter 19. Closes the working half of O8.
 
-**Nobody recruited him.** He does not touch an instrument for four months, then plays a room
+**Nobody recruited him.** He does not touch an instrument for three months, then plays a room
 above a bar on the north coast that holds sixty, because he cannot hold the thing privately —
 which is the only consistent fact about him. There is no decision, no protest, no
 instruction. He is not in anybody's plan, and several sensible people have since made
@@ -563,7 +563,7 @@ ever added it up.
 
 **Prue organises it**, which pays off her ineligibility in 15: sixty-one years of doing the
 chairs turns out to be a qualification, because she knows everybody and everybody likes her.
-Eleven thousand names on a list before she tells anyone she is making one. Her question is the
+Nine thousand names on a list before she tells anyone she is making one. Her question is the
 whole chapter: *what have they actually got?* She cannot be killed, cannot be denied a Renewal
 that does not exist, and cannot be sacked. The only threat left is the Frame.
 
@@ -1263,7 +1263,7 @@ a man is to choose one who cannot take the short way.
 
 **Lachesis's line from 25 lands here.** *The reason it had to be him is that it had to be
 somebody I could not do it to twice.* He heard it as being about Charon. It was his job
-description, and he has been carrying it in a notebook since October.
+description, and he has been carrying it in a notebook since April.
 
 ***He does not know what it is for, and 35 may not point at 36.*** Per
 [DC15](#dc15--renewing-zeus), the reader assembles that his weakness is the qualification —

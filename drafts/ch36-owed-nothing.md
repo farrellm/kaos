@@ -56,8 +56,9 @@ in it for anyone to hold.
 The second problem is that Zeus is not one soul.
 
 I don't know how many. Nobody does. Kronos, and then everyone he took in the years he was
-doing it by hand, and then four thousand years of drinking the rest. Hades put it in the
-hundreds of thousands and then said that was a guess and that he'd rather not guess.
+doing it by hand, and then four thousand years of drinking the rest. Hades had put it in the
+hundreds of thousands, and then said the thing he always says, which is that he'd rather not
+guess.
 
 So the thing on the table was not: can a god be renewed. It was: what happens if you carry
 something that size, and what comes out the other end, and does any of it go where it should.

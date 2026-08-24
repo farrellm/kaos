@@ -50,9 +50,9 @@ about forty feet from her, and neither of us said anything to anybody.
 
 Ari was thirty yards in front of her and up a flight of steps.
 
-That is the closest the two of them came for another five weeks, and I have thought about it
-since as a piece of theatre I would have been proud of if I had arranged it, and I did not
-arrange it, and it did not do anything.
+That is the closest the two of them came for another five weeks, and I think of it now as a
+piece of theatre I would have been proud of if I had arranged it, and I did not arrange it,
+and it did not do anything.
 
 Ari read the words she had been given. She read them properly, in a black coat, in a voice
 that carried, and she did not add anything and did not look at her mother and did not look at
@@ -132,7 +132,7 @@ out loud.
 She said: "If he says it, it's his."
 
 I did not understand and I asked her to explain and she declined to, which is the correct
-response to me on most days. I understood it about ten months later, in a square, at the back,
+response to me on most days. I understood it about a year later, in a square, at the back,
 watching four thousand people learn her life from a stage.
 
 She was not protecting him and she was not being proud. She had done the arithmetic in
@@ -228,3 +228,7 @@ all, because there was something nearer.
 
 She had understood every word of it. She had simply had a question of her own, and it had been
 sitting in her for four months, and it got there first.
+
+You should keep the shape of this, because it keeps happening. Somebody is handed a person
+and files an asset. It is done throughout this book, mostly by me — and eventually, so that
+you will know it when you see it, it is done to me.

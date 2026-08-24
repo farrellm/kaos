@@ -169,7 +169,7 @@ is surprised by most questions now.
 
 But the honest answer is that I did not want to be the person who stopped it.
 
-Not because of the nine thousand. Because I have spent my entire death being the one who says
+Not because of the eight thousand. Because I have spent my entire death being the one who says
 the true thing that nobody acts on, and here was the one thing in the world that was actually
 moving, and I was inside it, and I was not going to be the one who put a hand up.
 

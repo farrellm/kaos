@@ -122,6 +122,11 @@ them.
 And she is not arguing with that. She simply does not think a rule that produced the Nothing
 is owed anything.
 
+That is why I gave you the pomegranate first. She has spent four thousand years inside a
+story that was written about her in an afternoon, and she knows better than anybody alive
+that a rule is a story with staff. He keeps the rules because they are the difference between
+him and his brother. She knows who wrote them.
+
 Neither of them says a word about Orpheus. It is in every sentence and it is not in one of
 them, and they are both far too old and far too fond of each other to bring it out on the
 table where it would have to be dealt with.
