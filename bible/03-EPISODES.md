@@ -463,7 +463,10 @@ his mother and brings her back; Prometheus walks free and finds he was never the
 17. Hera phones an unnamed party: gather the troops and make up a spare bed.
 18. Prometheus appears inside Zeus's house and tells him the vision was real, and kaos is
     coming.
-19. Dionysus asks the Trojans what they want. Rebuild Troy and destroy Olympus.
+19. The final scene, untagged in the transcript: *What do you want? Tell me, and I'll do
+    it* — answered: *Help us rebuild Troy and destroy Olympus.* That the asker is Dionysus
+    and the Trojans present are Hecuba and Andromache is **(inference)** — see O11 in
+    [05-MYSTERIES.md](05-MYSTERIES.md).
 
 **Prometheus's narration.** Sparse and, for the first time, panicked. He does not know what
 is happening. His last line to Zeus is a warning, not a plan.

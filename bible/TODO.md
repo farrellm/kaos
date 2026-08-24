@@ -250,7 +250,7 @@ outline-side fixes.
       `09-VOICE-AND-STYLE.md`" — there are now thirteen; 10/11/12 are also load-bearing
       (11–12 are invention-not-evidence, which CLAUDE.md should note so a fresh session
       doesn't treat them as show canon).
-- [ ] `03-EPISODES.md` › E08 beat 19 states "Dionysus asks the Trojans what they want"
+- [x] `03-EPISODES.md` › E08 beat 19 states "Dionysus asks the Trojans what they want"
       plainly, while `01-CHARACTERS.md` and O11 carefully mark the scene as having no
       speaker tags. Add the same caveat or a pointer to O11.
 - [ ] `01-CHARACTERS.md` › Persephone (and `00-OVERVIEW.md` table): the "statement of
