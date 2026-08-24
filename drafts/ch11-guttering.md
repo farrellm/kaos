@@ -224,8 +224,7 @@ That is the whole of my error and it is not an error of reasoning. Everything I 
 what I had was correct. I simply took a hole in an account of a minor god's living arrangements
 and weighed it against a rationed river and a chart and a woman counting, and I put it at the
 bottom of the list, and I did not go back to it for a year and a half — and when it did come to
-me it came from Dionysus, not making a point, in a completely
-different spring.
+me it came from Dionysus, not making a point, in a completely different spring.
 
 ---
 

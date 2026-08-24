@@ -110,13 +110,12 @@ same year, and the boy said it the way you say a thing everybody knows.
 
 And then he said the bit that did it, which was: "He was the one who did the monument."
 
-Because Dionysus knew that. He had heard it the way everybody in that
-country heard it, because for two days it was the only thing on: that there had been a seventh
-Trojan, that the seventh had put the shit on the monument, that he had been hidden by his own
-people, and that Minos had offered the six their lives if he came forward. He had simply never
-put the boy in the ground with the
-name he had heard, because nobody had ever said them in the same sentence to him, and because
-the pardon had been the last part of the story he was told.
+Because Dionysus knew that. He had heard it the way everybody in that country heard it, because
+for two days it was the only thing on: that there had been a seventh Trojan, that the seventh
+had put the shit on the monument, that he had been hidden by his own people, and that Minos had
+offered the six their lives if he came forward. He had simply never put the boy in the ground
+with the name he had heard, because nobody had ever said them in the same sentence to him, and
+because the pardon had been the last part of the story he was told.
 
 He thought the seventh had been pardoned. So did everybody who was not in Krete that
 midnight, which is most of the world, and none of the rest of them had promised anybody

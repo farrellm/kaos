@@ -39,9 +39,9 @@ the office above the port, perhaps forty times since I came off the rock, the wa
 through a district on the way to somewhere with a name.
 
 It has a canteen. It has a games room and a basketball court and a laundry and several hundred
-blocks of accommodation, and it has a smell of the same soup at the same hour, and it
-is neither a prison nor a camp and it does not look like suffering, and that is the first
-thing that has to be understood about it or nothing else in this book makes sense.
+blocks of accommodation, and it has a smell of the same soup at the same hour, and it is
+neither a prison nor a camp and it does not look like suffering, and that is the first thing
+that has to be understood about it or nothing else in this book makes sense.
 
 They eat. They do not need to. They sleep, in beds, at night, and there is no night. They
 shower. They queue for the shower and there is an argument about the queue. And they salt
@@ -177,10 +177,9 @@ bits left in.
 
 Adrian is the other one and Adrian is the reason I have written this chapter at all.
 
-He was a clerk of some kind — he has told me twice and I
-have not retained it, which I notice — and he is fussy and slow and courteous and is the most
-boring man I have ever spoken to, and I include in that a four-thousand-year acquaintance with
-the god of the sea.
+He was a clerk of some kind — he has told me twice and I have not retained it, which I notice —
+and he is fussy and slow and courteous and is the most boring man I have ever spoken to, and I
+include in that a four-thousand-year acquaintance with the god of the sea.
 
 His wife came down about a year after he did. She had a coin. He did not.
 

@@ -174,6 +174,7 @@ Not out of principle, or not only. There was a practical fact, which is that the
 were falling down and two of them had no water that summer, and there was a political one,
 which is that she had just stood on those steps and told a full square that her father fed
 seven Trojans to a man in a mask and she could not then leave the rest of them in his sheds.
+
 And there was nowhere to put them. That is the whole of the decision and everybody who has
 since described it as a gesture was not in Heraklion that month. There is no housing stock in
 that city. There is a palace, there are temples, and there is the largest single structure in

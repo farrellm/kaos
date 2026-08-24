@@ -50,9 +50,8 @@ record before I tell you the rest.
 
 ---
 
-Ari stood on the palace steps on the sixth day and told the city that a man
-everybody knew had died in infancy had in fact been alive under that building for thirty
-years.
+Ari stood on the palace steps on the sixth day and told the city that a man everybody knew had
+died in infancy had in fact been alive under that building for thirty years.
 
 You cannot say that once and then say the other thing.
 
