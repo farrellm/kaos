@@ -166,7 +166,7 @@ The season's most charged unresolved relationship (E04 flashback; E06 phone call
 with the mark is here" / "I know… Prometheus was telling the truth") — and the actual spine
 of the novelization's Part Two (chapters 13/24, DC2/DC3) — has no bullet in 05.
 
-- [ ] Add to O16 with pointer to DC2/DC3. Also `00-OVERVIEW.md` state-of-play table says
+- [x] Add to O16 with pointer to DC2/DC3. Also `00-OVERVIEW.md` state-of-play table says
       Charon knows Prometheus killed him "and why" — at his death he explicitly did not
       ("I wish you'd tell me why" / "Well, I can't"); what he knows by E06 is partial.
       Soften or mark.

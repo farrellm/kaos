@@ -98,7 +98,7 @@ her father's crime and the gods' hand in it from inside the palace of Krete.
 | **Orpheus** | Earth, alone, driving away | Unknown | That the gods lie, and that his marriage is over |
 | **Glaucus** | Dead — knifed by Minos in the labyrinth, minutes after Ari unmasked him | — | — |
 | **Medusa** | The underworld | To recruit for the rebellion | That there is an organized underworld resistance |
-| **Charon** | The Styx | To keep a promise to a dead lover | That Prometheus killed him and why |
+| **Charon** | The Styx | To keep a promise to a dead lover | That Prometheus killed him for a plan — the full *why* was refused him ("I wish you'd tell me why" / "Well, I can't") |
 | **Cassandra** | Earth, at the Cave's exit | For someone to finally believe her | Everything, always. Nobody listens |
 | **The Fates** | Alive after their own immolation | Whatever they want | That fate cannot be destroyed |
 

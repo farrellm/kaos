@@ -410,6 +410,10 @@ phone — and, given O9, for who might be raising troops.
 - **Agatha**, who lived to die and, at the water, thought of everything she hadn't done.
 - **The bees** — the mothers of Zeus's children, burned. Dionysus never learned which one was his.
 - **Hercules's watch**, twice-lucky, now on a burned Fate's wrist.
+- **Charon and Prometheus.** The murdered lover kept the promise for thousands of years
+  ("The man with the mark is here." / "I know." — E6), and the murderer is now free to
+  walk down to the Styx. The novelization's Part Two runs on this — see
+  [DC2, DC3](11-S2-CANON.md). *(Added in the 2026-08 audit; previously unlisted.)*
 - **Hippolyta and Carl**, freshly dead and cheerfully violent in the underworld.
 - **The Scylla**, named and never used.
 
