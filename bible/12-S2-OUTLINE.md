@@ -244,8 +244,10 @@ the world rather than about her.
 one. Ari goes down and stands in the water and says her brother's name, which is the one
 thing in this story nobody had to talk her into. The labyrinth is filled in with concrete —
 [DC10](11-S2-CANON.md)'s first item on the list, once the four hundred have somewhere to go.
-Dionysus stays mortal-adjacent and does not get Ari. Daedalus. Fotis — **decide whether the
-dog dies here**; 40 has Riddy answering *ten years* in the past tense. Orpheus sings the last
+Dionysus stays mortal-adjacent and does not get Ari. Daedalus. Fotis lives — decided in
+[DC32](11-S2-CANON.md): old, port in the mornings, asleep under Charon's desk, and the dog
+gets up when Caeneus comes in; 40's *ten years* is about the ownership, not the animal.
+Orpheus sings the last
 true song and is believed, which is all he ever actually wanted and he does not enjoy it.
 *(O8, O11, O12, O16, P4)*
 

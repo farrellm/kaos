@@ -202,7 +202,7 @@ Nothing while his mother allies with the people draining it is a hole, not an am
 The canon file has moved on; the outline has not been re-synced. All of these are
 outline-side fixes.
 
-- [ ] **Ch 39 / Fotis:** outline still says "decide whether the dog dies here." DC32
+- [x] **Ch 39 / Fotis:** outline still says "decide whether the dog dies here." DC32
       decided: **Fotis lives**; 40's "ten years" is about the ownership. Replace the open
       question with the decision.
 - [ ] **Ch 34 / Poseidon's death:** outline: "dies covering her retreat from a war she has
