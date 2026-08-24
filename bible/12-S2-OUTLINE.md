@@ -425,9 +425,11 @@ needs a witness, not how much standing he has left.
 
 ## Length
 
-**All forty chapters are drafted.** 85,964 words, averaging 2,149. Nothing is below its band.
+**All forty chapters are drafted.** 85,714 words after the 2026-08 editorial pass, averaging
+2,143. Nothing is below its band.
 
-The book is now a complete first draft and the work from here is revision, not composition.
+The book is now a complete, line-edited first draft and the work from here is revision, not
+composition.
 The bands below stay as the standard to revise against; the ledgers stay as the check.
 
 **Chapter 26 has been expanded** from 1,429 to 3,000 — it carries the strike on Olympus,
