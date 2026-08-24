@@ -30,7 +30,7 @@ its shape, and because it is not the problem anybody thought they had.
 
 They can do it. That was established in the autumn: eleven souls went back into the world in a
 single day and are out there now. What they cannot do is do it *often*, and the reason is not
-the one you would guess.
+the obvious one.
 
 The reason is not Caeneus. He is the part everybody looks at and he is not the bottleneck; he
 can carry as many as there are, and what it costs him is a separate horror and is not a rate
@@ -61,7 +61,7 @@ afterwards.
 
 Then he asked Hades how the Frame was made.
 
-I was there for this and I would like to give it to you at length, because it is the most
+I was there for this and I am going to set it down at length, because it is the most
 frightening conversation I have ever sat through and nothing in it is raised above a
 conversational volume.
 
@@ -185,9 +185,8 @@ They started on the Tuesday.
 
 ---
 
-That is the sentence I would give you if you only took one out of this chapter, and I did not
-understand it at the time and have understood it since, mostly because Riddy said it to me
-plainly when I was being slow.
+That is the sentence this chapter exists for, and I did not understand it at the time and
+have understood it since, mostly because Riddy said it to me plainly when I was being slow.
 
 He told them it would take longer than they have. He was not being modest and he was not
 angling for a bigger crew; he had been asked a technical question and he gave the technical
