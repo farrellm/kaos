@@ -307,7 +307,13 @@ ambiguous.
 raise a force, which points at the absent Olympians named in Episode 2 or at some power
 outside Zeus's household. (b) Hera refused Poseidon's offer to run away on the grounds that
 Olympus is *her* house — so any plan she runs is about taking it, not leaving it. (c) She
-has lost the tacitas' confessions as a power source, which was the basis of her influence.
+built her influence on the tacitas' confessions, and whether she can still draw on them
+while confined is unestablished. *[Corrected against the transcripts: an earlier version
+of this constraint said she had lost the tacitas as a power source. Nothing in E8
+establishes that — Zeus confines her on Olympus, where the tongue cabinet is, and his
+seizures name cities, not tacitas; [06-OLYMPUS.md](06-OLYMPUS.md) has this right. That
+she walks north without a single tacita is a canon decision ([DC17](11-S2-CANON.md)),
+not S1 fact.]*
 
 ### O10. Poseidon, dispossessed and in love
 > **Settled — [DC26, DC36](11-S2-CANON.md).** Runs in **11** and **34**. He is *for* nothing, and the year is the demonstration of it.

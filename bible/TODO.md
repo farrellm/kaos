@@ -123,7 +123,7 @@ supports it: Zeus confines her *on Olympus, where the tongue cabinet is*; his se
 cities, not tacitas. `06-OLYMPUS.md` says the opposite ("the tacita network itself is not
 shown dismantled") and the S2 canon runs on the booths staying open (DC18, DC26).
 
-- [ ] `05-MYSTERIES.md` › O9(c): correct with a bracketed note (O11 precedent). Note that
+- [x] `05-MYSTERIES.md` › O9(c): correct with a bracketed note (O11 precedent). Note that
       the *canon* answer (DC17: she walks north with "no tacitas") is a choice, not S1 fact.
 
 ---
