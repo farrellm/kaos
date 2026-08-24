@@ -50,9 +50,12 @@ than sampling.
 
 ## The `bible/` directory
 
-Ten cross-linked Markdown files, `00-OVERVIEW.md` through `09-VOICE-AND-STYLE.md`, written
-from the transcripts. `00-OVERVIEW.md` is the index; `05-MYSTERIES.md` is the load-bearing
-file (open/resolved threads, each with resolution constraints for Season 2).
+Thirteen cross-linked Markdown files, `00-OVERVIEW.md` through `12-S2-OUTLINE.md`.
+`00-OVERVIEW.md` is the index; `05-MYSTERIES.md` is the load-bearing file (open/resolved
+threads, each with resolution constraints for Season 2). Files `00`–`10` are written from
+the transcripts. **`11-S2-CANON.md` and `12-S2-OUTLINE.md` are invention, not evidence** —
+decisions and structure for the novelization itself (drafted as forty chapters in
+`drafts/`); never cite them as show canon.
 
 Conventions to preserve when editing:
 
