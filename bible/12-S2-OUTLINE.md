@@ -328,24 +328,45 @@ authorship is the only thing left to take.
 
 ### The five dials
 
-Each moves in one direction only. A drafter should be able to open any Part Two chapter and
-place it on all five.
+Four of the five move in one direction only. Address does not — see the note under the table.
+A drafter should be able to open any Part Two chapter and place it on all five.
 
 | Dial | Ch 14 | Ch 18 | Ch 22 | Ch 24 | Ch 27 |
 |---|---|---|---|---|---|
 | **Possessive on the plan** | "my plan" | "the plan" | "their plan" | "her plan" | no possessive available |
 | **Foreknowledge verb** | "I knew" | "I had assumed" | "I had been told" | "I was told" | "I don't know" |
-| **Address to the reader** | freely, several times | sparingly | twice | once — and it fails | none |
+| **Address to the reader** | freely, several times | none at all | four | four, and a fifth that fails | none |
 | **Tense** | past, with foreknowledge | past | past with present intrusions | present, from the break | present |
 | **The staging trick** (place a question, digress, return) | used invisibly | used | used and flagged | named, and burned on the page | unavailable |
 
-**One documented exception: address spikes at 20.** The dials otherwise fall monotonically,
-and rule 1 below says he never recovers a layer. Chapter 20 breaks that on purpose, and the
-drafted chapters measure it — roughly five direct-address moves against four in 16 and three
-in 22. It is the wager chapter: he stakes his authority on the reader an hour before the
-event, in as many words, and the event declines it. Leaning on the reader is what makes the
-loss cost something, and it is the last credit he has to spend before 24 finds nobody there.
-Do not "correct" the dip-then-rise in 16→20→22. It is the shape it is meant to be.
+**The address dial is not monotonic and must not be made so.** The other four dials fall in
+one direction only. This one does not, and the drafted book is right and an earlier version of
+this table was wrong. Counted against the finished chapters — direct address to the reader
+only, excluding dialogue and generic *you* — the curve is:
+
+| 14 | 15 | 16 | 17 | 18 | 19 | **20** | **21** | 22 | 23 | 24 | 25 | 26 | 27 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| many | 1 | 3 | 4 | 0 | 0 | **6** | **6** | 4 | 1 | 4 + the failure | 0 | 0 | 0 |
+
+**A trough, then a two-chapter peak, then nothing.** The trough is 18 and 19, which are the two
+chapters he is most completely outside — 18 ends *I did nothing that week*, and 19 is Orpheus
+doing the largest thing in the book without him. He has nobody to say it to and does not try.
+
+**The peak is 20 and 21 together, not 20 alone**, and the two halves pull opposite ways, which
+is why a dial counting frequency cannot see it:
+
+- **20 spends authority as command.** He stakes it on the reader an hour before the event, in
+  as many words, and the event declines it. It is the last credit he has.
+- **21 spends it as surrender.** Every one of its six moves hands something over — a
+  reliability disclaimer at the top, *I cannot tell you which of those Ari is*, *I could have
+  told you what was in a human's head... I have lost that*, the verdict given to the reader to
+  settle between two witnesses, and finally an instruction to go back through the account and
+  count how many of his own sentences would survive. He talks to the reader more than
+  anywhere else in Part Two precisely because he can no longer adjudicate alone.
+
+So frequency rises across 20–21 while authority falls through both. **Do not flatten this, and
+do not "correct" 17 above 16 or 22 above 19 either.** Address in this part tracks how badly he
+needs a witness, not how much standing he has left.
 
 ### Chapter by chapter
 
@@ -368,12 +389,19 @@ Do not "correct" the dip-then-rise in 16→20→22. It is the shape it is meant 
 
 ### Three rules while drafting
 
-1. **Monotonic.** He never recovers a layer because a scene would be easier to write with it.
-   If a chapter needs authoritative narration, that is a signal the chapter is misplaced in
-   the sequence, not a licence to lend him confidence back.
+1. **Monotonic — in authority, not in word counts.** He never recovers a layer because a
+   scene would be easier to write with it. If a chapter needs authoritative narration, that is
+   a signal the chapter is misplaced in the sequence, not a licence to lend him confidence
+   back. **This governs what he claims, not how often he turns round.** Address rises at 20 and
+   21 while authority falls through both, and the drafted book is right about that; do not
+   read a frequency count as a recovery.
 2. **He never names the decline.** Riddy names it in 28, from outside. Any paragraph in
    which he says *I was losing my grip on this* is the book explaining itself, which
-   [09-VOICE-AND-STYLE.md](09-VOICE-AND-STYLE.md) and the show both forbid.
+   [09-VOICE-AND-STYLE.md](09-VOICE-AND-STYLE.md) and the show both forbid. **The one line
+   that comes close is deliberate and stays:** 21's *I have lost that, somewhere, recently,
+   and I did not notice it going*. It names a single faculty — reading a room he was not in —
+   and not the arc, and the not-noticing is the part that keeps it a symptom rather than a
+   diagnosis. No second line may go this far.
 3. **The reader should be able to date the collapse to 24 and then, on a reread, find it
    started at 14.** That is the test. If a rereader cannot point at 20 and say *there* —
    the theory of Zeus failing a prediction out loud — the slope is too shallow to feel.
