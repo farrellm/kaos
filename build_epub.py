@@ -25,7 +25,11 @@ BOOK_URN = "https://github.com/farrellm/kaos/kaos-season-two"
 
 ROOT = Path(__file__).resolve().parent
 DRAFTS = ROOT / "drafts"
+RECAP = ROOT / "RECAP-SEASON-ONE.md"
 OUTPUT = ROOT / "KAOS-Season-Two.epub"
+
+# Front matter: the Season 1 recap, rendered between the title page and Part One.
+RECAP_TITLE = "Season One: The Story So Far"
 
 # Chapter ranges per bible/12-S2-OUTLINE.md (invention, not show canon).
 PARTS = [
@@ -104,6 +108,47 @@ def load_chapters():
             }
         )
     return chapters
+
+
+def parse_recap():
+    """Render RECAP-SEASON-ONE.md to body HTML.
+
+    A wider Markdown subset than parse_chapter: three heading levels and plain
+    section rules, with no chapter-number/title contract to satisfy.
+    """
+    if not RECAP.exists():
+        raise SystemExit(f"missing front matter: {RECAP}")
+
+    levels = [
+        ("### ", "h3", "recap-section"),
+        ("## ", "h2", "recap-part"),
+        ("# ", "h1", "recap-title"),
+    ]
+    body = []
+    fresh = True
+
+    for block in re.split(r"\n\s*\n", RECAP.read_text(encoding="utf-8").strip()):
+        block = block.strip()
+        if not block:
+            continue
+        for prefix, tag, cls in levels:
+            if block.startswith(prefix):
+                heading = inline(block[len(prefix):].strip())
+                body.append(f'<{tag} class="{cls}">{heading}</{tag}>')
+                fresh = True
+                break
+        else:
+            if set(block) == {"-"} and len(block) >= 3:
+                body.append('<hr class="section" />')
+                fresh = True
+            else:
+                # Hard-wrapped in the source, same as the drafts; unwrap before rendering.
+                para = " ".join(line.strip() for line in block.splitlines())
+                indent = ' class="first"' if fresh else ""
+                body.append(f"<p{indent}>{inline(para)}</p>")
+                fresh = False
+
+    return "\n".join(body)
 
 
 # --------------------------------------------------------------------------- documents
@@ -263,6 +308,42 @@ body.cover {
   text-align: center;
 }
 
+/* Front matter recap */
+h1.recap-title {
+  margin: 2em 0 1.6em;
+  font-size: 1.6em;
+  font-weight: normal;
+  letter-spacing: 0.06em;
+  text-align: center;
+  text-wrap: balance;
+}
+
+h2.recap-part {
+  margin: 2.4em 0 1em;
+  font-size: 1.05em;
+  font-weight: normal;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  text-align: center;
+  page-break-after: avoid;
+}
+
+h3.recap-section {
+  margin: 1.8em 0 0.6em;
+  font-size: 1.1em;
+  font-weight: normal;
+  font-style: italic;
+  text-align: left;
+  page-break-after: avoid;
+}
+
+hr.section {
+  border: 0;
+  border-top: 1px solid #ccc;
+  width: 30%;
+  margin: 2.4em auto;
+}
+
 nav ol {
   list-style: none;
   padding-left: 0;
@@ -322,6 +403,10 @@ def title_xhtml():
     return page(TITLE, body)
 
 
+def recap_xhtml():
+    return page(RECAP_TITLE, parse_recap())
+
+
 def part_xhtml(label, name):
     body = (
         '<section class="part" epub:type="part">\n'
@@ -371,10 +456,12 @@ def content_opf(docs):
         'properties="cover-image" />',
         '<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />',
         '<item id="titlepage" href="title.xhtml" media-type="application/xhtml+xml" />',
+        '<item id="recap" href="recap.xhtml" media-type="application/xhtml+xml" />',
     ]
     spine = [
         '<itemref idref="cover" linear="yes" />',
         '<itemref idref="titlepage" linear="yes" />',
+        '<itemref idref="recap" linear="yes" />',
     ]
     for doc_id, href, _title, _is_part in docs:
         manifest.append(
@@ -410,6 +497,7 @@ def nav_xhtml(docs):
         "  <h1>Contents</h1>",
         "  <ol>",
         '    <li><a href="title.xhtml">Title Page</a></li>',
+        f'    <li><a href="recap.xhtml">{html.escape(RECAP_TITLE)}</a></li>',
     ]
     open_part = False
     for _doc_id, href, title, is_part in docs:
@@ -448,6 +536,10 @@ def toc_ncx(docs):
         )
 
     points.append(nav_point("nav-title", "title.xhtml", "Title Page", 2))
+    points.append("    </navPoint>\n")
+    order += 1
+
+    points.append(nav_point("nav-recap", "recap.xhtml", RECAP_TITLE, 2))
     points.append("    </navPoint>\n")
     order += 1
 
@@ -498,6 +590,9 @@ def build():
     chapters = load_chapters()
     docs = spine_documents(chapters)
     by_file = {ch["file"]: ch for ch in chapters}
+    # Render front matter before the archive is opened, so a missing or malformed
+    # recap fails without leaving a truncated .epub behind.
+    recap = recap_xhtml()
 
     with zipfile.ZipFile(OUTPUT, "w", zipfile.ZIP_DEFLATED) as z:
         # The mimetype entry must come first and be stored uncompressed.
@@ -513,6 +608,7 @@ def build():
         z.writestr("OEBPS/images/cover.svg", cover_svg())
         z.writestr("OEBPS/cover.xhtml", cover_xhtml())
         z.writestr("OEBPS/title.xhtml", title_xhtml())
+        z.writestr("OEBPS/recap.xhtml", recap)
 
         for index, (label, name, _lo, _hi) in enumerate(PARTS, start=1):
             z.writestr(f"OEBPS/part{index}.xhtml", part_xhtml(label, name))

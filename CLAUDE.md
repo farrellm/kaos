@@ -31,6 +31,13 @@ adding or renaming a chapter needs no edit — except that its `PARTS` constant 
 three chapter ranges from [12-S2-OUTLINE.md](bible/12-S2-OUTLINE.md) and the script exits
 with an error if they stop covering every draft. The `.epub` is gitignored.
 
+It also renders [RECAP-SEASON-ONE.md](RECAP-SEASON-ONE.md) as front matter between the title
+page and Part One, and exits with an error if that file is missing. That recap must stay
+inside a narrow Markdown subset — headings (`#`, `##`, `###`), plain paragraphs, `---` rules,
+and `*italic*` / `**bold**`. **No tables, lists, or links**; `parse_recap` does not handle
+them and will render them as literal paragraph text. Unlike the bible it is reader-facing:
+no `**(inference)**` tags, no cross-links, and nothing from the Season 2 invention files.
+
 ## Critical: transcripts are gitignored
 
 `.gitignore` excludes `transcripts/` entirely, even though `README.md` documents its
