@@ -1972,6 +1972,43 @@ embroider.
 - Asphodel is neither a prison nor a camp and does not look like suffering, "and that is the
   first thing that has to be understood about it or nothing else in this book makes sense."
 
+### DC38 — Riddy's voice, and where she is allowed to sound like him
+Established across Part Three by the drafted chapters rather than by decision. Recorded because
+a reviser measuring voice would read the pattern backwards and "correct" the wrong chapters.
+
+**The exactness construction is his.** *I want to be exact / let me be exact / to be exact
+about* is one of Prometheus's most distinctive habits and runs through ten of his twenty-eight
+chapters — 4, 8, 9, 12, 17, 18, 19, 20, 24, 26.
+
+**Riddy uses it in exactly three, and all three are licensed:**
+
+- **30**, which is the chapter that flags the borrowing on the page. She nearly writes
+  *Riddy's account has her asking it in front of him*, catches it, and says outright that it
+  is **his construction, about me**. She names the absorption once and never again.
+- **32 and 34**, which are two of the three chapters she narrates **out of his book**. She
+  sounds most like him in the chapters where she is reading him. Whether or not that was
+  planned, it is what the text does, and it is right.
+
+**So the rule is not "keep his constructions out of her mouth."** It is that she may carry them
+where she is either naming the borrowing or working from his pages, and nowhere else. *Do not
+strip 30, 32 or 34.*
+
+**39 was the exception and has been corrected.** It is her own account of Krete, sourced from
+nobody's book, and it had carried *I want to be exact about how*, *I want it on the record*,
+and a near-verbatim echo of 30's *a number... is the only thing nobody will argue with*. All
+three are gone; the chapter now opens *I'll do the number first*, which is hers.
+
+*Forces:*
+- **Two self-catches, not one.** [DC31](#dc31--chapter-38-the-port-the-manifest-and-the-word)
+  says 38's reach for Caeneus is the only place in Part Three she catches herself, and that is
+  true of the *subject* — but 30 uses the same device on a different subject, and the two are
+  phrased almost identically: *I have caught myself doing it perhaps four times this month*
+  against *I have caught myself starting that sentence four or five times in the last year*.
+  Both are deliberate and both earn their place. **If either is ever revised, vary 30's** — 38's
+  is load-bearing and 30's is the smaller of the two.
+- The four *eleven* sets survive Part Three untouched: the crate in 28 and 40, the days off the
+  river in 28, the gods counted in 29, the first mass renewal recalled in 31.
+
 ## New questions this opens
 
 Live problems for the drafting stage. Each is now placed in

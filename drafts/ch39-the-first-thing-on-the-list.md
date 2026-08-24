@@ -4,11 +4,10 @@
 
 Krete voted in the summer and Ari lost.
 
-I'll give you the number first, because a number is the only thing nobody argues with. A
-hundred and sixty-one thousand people voted, which was every adult in Krete and about nine
-thousand Trojans, and she lost it by four thousand two hundred to a man called Sostratos who
-had run the water board for nine years and has never in his life said anything anybody wrote
-down.
+I'll do the number first. A hundred and sixty-one thousand people voted, which was every adult
+in Krete and about nine thousand Trojans, and she lost it by four thousand two hundred to a man
+called Sostratos who had run the water board for nine years and has never in his life said
+anything anybody wrote down.
 
 That is the whole event. It took a day. There was no trouble anywhere, and the priesthood —
 who had spent four bad-tempered days after her father died inventing a doctrine in which
@@ -50,8 +49,8 @@ It got the number. That was the job.
 
 ---
 
-She lost because of the franchise. I want to be exact about how, because there are two
-versions in circulation and one of them is comfortable.
+She lost because of the franchise. There are two versions of how, in circulation, and one of
+them is comfortable.
 
 The comfortable one is that Krete punished her for giving it away. That is true and it is
 most of it. Half her administration had told her it would end her when she agreed to it in
@@ -124,9 +123,8 @@ He did not mention his son and I did not ask.
 
 Ari went down in the autumn, on the rota, with the shift that was on.
 
-Nobody talked her into it. That is the one thing in the whole of this that nobody had to
-talk anybody into, and I want it on the record because almost everything else in this account
-took a committee.
+Nobody talked her into it. That is the one thing in the whole of this that nobody had to talk
+anybody into. Everything else in this account took a committee.
 
 Here is her difficulty. She had four minutes of him. She took a mask off a man in a corridor
 and said the word *twin* and he said it back, and then her father came in with a knife. Four
