@@ -243,7 +243,7 @@ outline-side fixes.
 
 ## 5. Convention and small fixes
 
-- [ ] `09-VOICE-AND-STYLE.md` › Recurring language: "Gods don't bleed. Said as fact three
+- [x] `09-VOICE-AND-STYLE.md` › Recurring language: "Gods don't bleed. Said as fact three
       times, and once as a taunt in a dream." Actual count: **twice as fact** (E01
       Dionysus; E08 Zeus "We don't bleed") plus the dream-taunt (E08 Lachesis). Fix.
 - [ ] `../CLAUDE.md`: "Ten cross-linked Markdown files, `00-OVERVIEW.md` through
