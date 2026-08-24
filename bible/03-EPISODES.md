@@ -210,8 +210,9 @@ for it; Riddy and Caeneus find the Nothing.
     break the pact. Orpheus kills Anatole.
 13. Hippolyta, the Amazon who killed Caeneus, arrives dead and recognizes him. She tells
     him his mother gave him up freely. Very freely.
-14. Dionysus tortures a shopkeeper for a replacement watch, then returns the original to
-    Zeus, claiming he found it by the gate.
+14. Dionysus tortures a shopkeeper for a look-alike watch, then passes the replacement
+    off to Zeus as the original, claiming he found it by the gate. (The real watch went
+    to the Fates in Episode 2 — Zeus wears a counterfeit from here to the end.)
 15. The unresolved hold a party. Prue's prophecy game. Riddy refuses to share hers.
     Riddy and Caeneus talk on the steps: the Amazons, his transition, being murdered by
     his own people, what kissing feels like.

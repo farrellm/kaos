@@ -47,9 +47,9 @@ one!") and gives *that* to Zeus ("Found this. By the gate"). Zeus wears a counte
 the rest of the season — which is exactly why seeing the real one on Lachesis's wrist in
 E08 detonates ("Wait… Where'd you get that watch?").
 
-- [ ] `03-EPISODES.md` › E04 beat 14: "then returns the original to Zeus" → "then passes
+- [x] `03-EPISODES.md` › E04 beat 14: "then returns the original to Zeus" → "then passes
       the replacement off to Zeus as the original."
-- [ ] Optional: R7 in `05-MYSTERIES.md` is technically correct but could add the
+- [x] Optional: R7 in `05-MYSTERIES.md` is technically correct but could add the
       counterfeit detail — it sharpens the E08 reveal.
 
 ### 1.3 Prometheus's freeing is mistimed in `01-CHARACTERS.md`

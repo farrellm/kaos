@@ -57,7 +57,9 @@ Episode 4. **The visitor's identity remains open — see O2.**
 
 ### R7. Who took Zeus's watch, and where did it end up?
 Dionysus took it to get his father's attention, then paid it to the Fates as the price of
-Orpheus's entry into the underworld. Zeus sees it on Lachesis's wrist as she burns, and
+Orpheus's entry into the underworld. The watch he "finds" and returns in Episode 4 is a
+shop-bought look-alike, so Zeus wears a counterfeit for the rest of the season — which is
+why seeing the real one on Lachesis's wrist as she burns detonates the way it does.
 Dionysus confesses in full in Episode 8.
 
 ### R8. Is Persephone in the underworld against her will?
