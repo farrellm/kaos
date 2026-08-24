@@ -329,7 +329,9 @@ the system is breaking and is struck by lightning for it.
    rule, calls him the runt, and blasts him with lightning.
 7. Riddy and Caeneus reason it out: there is no Renewal; everyone who goes through the
    Frame ends up in the Nothing; the family that falls is the gods.
-8. Persephone, over Hades's body, vows to find a way to destroy Zeus.
+8. Over Hades's body, a vow addressed to Hera: *I will destroy him… I swear, I will find
+   a way.* Spoken by Persephone **(inference — the line is untagged in the transcript;
+   she is the plausible speaker, weeping over Hades)**.
 9. Poseidon consults the Fates. They confirm Minos can kill his son, recite Minos's
    prophecy, and confirm that people can occasionally defy their prophecies.
 10. **Prometheus's central monologue**: Zeus killed Kronos and absorbed his soul; the
@@ -351,7 +353,7 @@ the season's thesis statement.
 
 **First appearances.** Leos (flashback), young Caeneus, Clotho in the wilderness.
 
-**What this plants.** The identical prophecies. Persephone's vow. Hera and Poseidon
+**What this plants.** The identical prophecies. Persephone's vow **(inference — untagged)**. Hera and Poseidon
 exposed to Dionysus. Prometheus's fingerprints on the Minos plan — he supplied the idea
 that kills Minos, topples Krete, and destroys Zeus's composure.
 

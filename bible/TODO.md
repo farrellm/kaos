@@ -84,7 +84,7 @@ is untagged; Persephone is the most plausible speaker (weeping over Hades, addre
 Hera), but the file's own convention marks exactly this kind of attribution (cf. Glaucus's
 "twin", the "we just sent her" line).
 
-- [ ] `03-EPISODES.md` › E06 beat 8: add **(inference — the line is untagged)**.
+- [x] `03-EPISODES.md` › E06 beat 8: add **(inference — the line is untagged)**.
       Same for the "**Prometheus's central monologue**" cross-refs if any lean on it
       (E06 "What this plants": "Persephone's vow" — tag it there too).
 
