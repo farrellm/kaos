@@ -29,11 +29,11 @@ adult, no rule about what you do when two people give the same name at the same 
 
 They had to build all of it from nothing in a summer.
 
-And here is the part I have not been able to stop turning over. The one list Krete did have
-was the Trojan registration — the thing Hecuba took apart in front of Ari's own chamberlain,
-the system that follows a Trojan for life and that under a third of them were honest on,
-because being honest on it got you moved. It was the most complete record of persons in the
-country and it was complete because it was designed to be a leash.
+And here is the bit I keep going back to. The one list Krete did have was the Trojan
+registration — the thing Hecuba took apart in front of Ari's own chamberlain, the system that
+follows a Trojan for life and that under a third of them were honest on, because being honest
+on it got you moved. It was the most complete record of persons in the country and it was
+complete because it was designed to be a leash.
 
 They could not use it. Andromache would not have it in the building, and she was right, and
 so the first act of the first vote in the history of that country was to destroy the only

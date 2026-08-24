@@ -203,28 +203,20 @@ asset, because there was no market.
 
 He was a man in a spare room over a kitchen who saw to the water.
 
-And I will be honest with you about the state of my understanding at the time, because I have
-promised you that and because it is going to matter later.
-
 I could not account for it.
 
-I had three readings and every one of them was sound and not one of them survived a week. He
-did not sell himself, and there were buyers. He did not go somewhere warm. He did not go back
-to the terrace, and going back to that terrace was, on the arithmetic available to him, the
-correct move — it cost him an afternoon of contrition and it returned him a city and a ration
-and a brother, and he did not do it, and he has never done a thing that cost him more than it
-returned in four thousand years.
+Three readings, all sound, and not one of them survived a week — and the third was not merely
+available to him, it was correct. An afternoon of contrition on that terrace returned him a
+city and a ration and a brother, and he has never in four thousand years done a thing that
+cost him more than it returned.
 
 So there is a piece of this that I do not have.
 
-I want that on the record, because I noticed it at the time and said so to myself in a valley
-in the autumn, and then I did the other thing, which is that I decided the piece was small.
-
-That is the whole of my error and it is not an error of reasoning. Everything I concluded from
-what I had was correct. I simply took a hole in an account of a minor god's living arrangements
-and weighed it against a rationed river and a chart and a woman counting, and I put it at the
-bottom of the list, and I did not go back to it for a year and a half — and when it did come to
-me it came from Dionysus, not making a point, in a completely different spring.
+I noticed that at the time. I said it to myself in a valley, in as many words, and then I did
+the other thing, which is that I decided the piece was small — and weighed a hole in a minor
+god's living arrangements against a rationed river and a chart and a woman counting, and put
+it at the bottom of the list, and did not go back to it for a year and a half. It came to me
+in the end from Dionysus, not making a point, in a completely different spring.
 
 ---
 

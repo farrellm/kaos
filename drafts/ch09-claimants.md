@@ -208,12 +208,11 @@ Now. What I expected, and what happened.
 
 I expected an announcement.
 
-I want to set that down plainly because it was not a stupid expectation and I would make it
-again. That woman had a fact of the first order, and the only instrument she had ever used to
-any effect was the one she used on the sixth day, from those steps, in front of the country —
-she had detonated four days of priestcraft with about six minutes of true statements and I
-had watched her do it and had admired it. I assumed she would do it again, larger. I said so,
-to myself, on the stairs, and I began composing what I would have advised.
+It was not a stupid expectation and I would make it again. The only instrument that woman had
+ever used to any effect was the one she used on the sixth day, from those steps, in front of
+the country — four days of priestcraft detonated with about six minutes of true statements,
+and I had watched her do it and had admired it. I assumed she would do it again, larger. I
+said so, to myself, on the stairs, and began composing what I would have advised.
 
 She did not announce anything. She has still not announced anything, and it is two years, and
 the coins are still going into the ground in that city at the ordinary rate.
@@ -226,9 +225,8 @@ not a secretary, her own hand, over the better part of two more hours — and wh
 not certain she wrote *not certain* in the margin, and where Riddy had it secondhand from a
 diver or a handler she wrote the name of the diver or the handler.
 
-I thought it was shock. I thought she had been handed something too large to be used and had
-reached for the smallest available action, the way people do, and that the announcement would
-come in a week when she had slept.
+I thought it was shock — something too large to be used, and a reach for the smallest
+available action, and an announcement to follow in a week when she had slept.
 
 It was not shock. It was the first sound piece of statecraft anybody in this account performed
 against Olympus, and it was performed forty minutes after she found out there was an Olympus

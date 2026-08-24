@@ -2,11 +2,7 @@
 
 ## Standing Orders
 
-I have told you what the priesthood came up with, and I have told you that nobody in that
-square believed it and that it did not matter, because it required nothing to change and
-that was the entire specification.
-
-It lasted two days.
+The priesthood's answer lasted two days.
 
 I want to give you those two days properly, because they are the best thing Ariadne of Krete
 ever did and she did it before she had the faintest idea what she was doing, and because
@@ -93,9 +89,9 @@ exactly what he had been doing and exactly who had told him to do it, and the an
 Olympus in the night. It was a prophecy read wrong thirty years ago by a frightened man
 who had been given some advice, and everything after it was administration.
 
-They could not withdraw the *calling*. That is the part I would put in front of you. A thing
-said on those steps on a holy day cannot be unsaid by the people who said it; the only
-instrument they had for correcting the record was the record, and she had just used it.
+They could not withdraw the *calling*, and that is the whole of it. A thing said on those steps
+on a holy day cannot be unsaid by the people who said it; the only instrument they had for
+correcting the record was the record, and she had just used it.
 
 So Krete went into the summer holding two accounts of the same fortnight, both of them
 official, one of them issued by the priesthood and one by the head of state, and no mechanism
@@ -108,9 +104,6 @@ holding now.
 ---
 
 Her mother was in the house.
-
-I am going to be careful here because I like being right about people and this is the thing I
-was right about, and I would rather set it down plainly than perform it.
 
 Everybody around that woman expected grief. She had been given her son back and had him taken
 away in the same hour, at thirty years old, having been told for the whole of that time that
@@ -135,19 +128,16 @@ filled it with rage.
 That is what the waxworks were. They were not a memorial. They were an annual instrument for
 saying one sentence to a living child, and the sentence was that the wrong one had lived.
 
-And it is now void. Ari did not smother anybody in her sleep. The whole apparatus — the wax,
-the nose, the birthday, the thirty years of it — was built on a fact that turned out to be a
-lie told by the man they were both married to and fathered by, and there is nothing left to
-do with it.
+And it is now void. Ari did not smother anybody in her sleep. The wax, the nose, the birthday,
+the thirty years of it, all of it stood on a lie told by the man who had married one of them
+and fathered the other.
 
 She said *good* and it cost her the only thing she had.
 
-Ari has taken that word as an absolution. I watched her take it and I have watched her go on
-taking it, and I did not correct her, because it is not my business and because she needed
-something that fortnight and there was nothing else on offer. But it was not one. Nobody in
-that house has ever said a forgiving thing to that woman's daughter and nobody is going to,
-and the fact that the accusation has been withdrawn is not the same as it having been
-answered.
+Ari has taken that word as an absolution and has gone on taking it, and I did not correct her,
+because she needed something that fortnight and there was nothing else on offer. It was not
+one. Nobody in that house has ever said a forgiving thing to that woman's daughter, and an
+accusation withdrawn is not an accusation answered.
 
 Her mother asked for one of them. The first one — the one made when the boy would have been
 one — and Ari had it carried up, and it is in her mother's room, and it stayed there.

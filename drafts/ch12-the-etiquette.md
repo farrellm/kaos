@@ -107,11 +107,11 @@ and because there is nothing in it that helps.
 
 Medusa did not make a speech.
 
-I had expected one and I had, God help me, thought about what I would have put in it. What she
-did instead was work the sectors for nine days, one at a time, in the canteens, at the hour
-when the shift changes and there are two shifts in the room, and she talked to people the way
-she talks to people, which is briskly and without any warmth on the surface of it and with a
-great deal underneath that she would deny.
+I had expected one, and I had — this is the sort of thing I was still doing — thought about
+what I would have put in it. What she did instead was work the sectors for nine days, one at a
+time, in the canteens, at the hour when the shift changes and there are two shifts in the room,
+and she talked to people the way she talks to people, which is briskly and without any warmth
+on the surface of it and with a great deal underneath that she would deny.
 
 She was not recruiting rebels. I want that clear because she used the word *rebels* to Riddy
 on a platform a few weeks earlier and everybody who hears about this expects a cell and a
@@ -119,13 +119,11 @@ password.
 
 She was recruiting for accuracy.
 
-Her reasoning is the best piece of thinking anybody did in that season and she did it in about
-a day and has never once been credited with it, so: the story is going to be told. There is no
-version of the year in which it is not told, and no power on Earth or under it can stop two
-hundred thousand people talking in a canteen. So the only live question is which version is in
-circulation when it matters, and the way you settle that is not by suppressing the wrong one.
-It is by putting the right one into the hands of the people everybody talks to, early, and
-letting it be the boring one.
+Her reasoning is the best piece of thinking anybody did that season, she did it in about a day,
+and nobody has ever credited her with it. No power on Earth or under it can stop two hundred
+thousand people talking in a canteen — so you do not suppress the wrong version, you put the
+right one into the hands of the people everybody talks to, early, and let it be the boring
+one.
 
 So she went looking for the reliable.
 
@@ -178,8 +176,8 @@ bits left in.
 Adrian is the other one and Adrian is the reason I have written this chapter at all.
 
 He was a clerk of some kind — he has told me twice and I have not retained it, which I notice —
-and he is fussy and slow and courteous and is the most boring man I have ever spoken to, and I
-include in that a four-thousand-year acquaintance with the god of the sea.
+and he is fussy and slow and courteous and I have never once been interested by anything he has
+said to me, and I include in that a four-thousand-year acquaintance with the god of the sea.
 
 His wife came down about a year after he did. She had a coin. He did not.
 
@@ -226,8 +224,7 @@ took his tray back, because you take your tray back.
 
 ---
 
-I have thought about that exchange more than anything else that happened in Part One and I am
-going to put my reading of it down plainly and let you hold me to it.
+I have thought about that exchange more than anything else in the first part of this account.
 
 That question is the most dangerous thing that has happened underneath the world in four
 thousand years, and it is more dangerous than the woman in the river, and I knew it in the
@@ -245,15 +242,14 @@ sort of thing you tell people, and the person he tells is going to ask him how h
 he is going to say a Gorgon told him at the shift change, and that is not a rumour any more.
 That is provenance.
 
-It took a year to arrive. I want to be accurate about the year: nothing happened. Nothing
-happened at all, for months, and I went back down four or five times expecting something and
-found a canteen and a queue for the shower and a man explaining the salt.
+It took a year to arrive, and for months nothing happened at all. I went back down four or
+five times expecting something and found a canteen and a queue for the shower and a man
+explaining the salt.
 
-But it arrived, and when it arrived it did not arrive as a rising. It arrived as an
-enormously boring man standing at the edge of a dock for six days telling frightened strangers
-the truth, plainly, in the right order, with the boring bits left in — which is precisely and
-exactly what he was given in a canteen in the sixth week by a woman with no time for anybody,
-who picked him because he could not embroider.
+When it came it did not come as a rising. It came as an enormously boring man at the edge of a
+dock for six days, telling frightened strangers the truth, plainly, in the right order, with
+the boring bits left in — which is exactly what he was handed in a canteen in the sixth week by
+a woman with no time for anybody, who picked him because he could not embroider.
 
 ---
 
