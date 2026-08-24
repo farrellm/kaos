@@ -30,8 +30,10 @@ humans in the right place at the right time, and this is the only chance.
 humans"; "the Meander doesn't blip"), while telling the audience the opposite.
 Steers Zeus away from wiping out half the world and toward stories. In Episode 6,
 deliberately plants the idea of Minos defying his prophecy — which detonates Minos,
-Krete, and Zeus's grip in one move. In Episode 8, freed by the Fates the instant
-Caeneus passes through the Frame, and told his freedom is his own problem now.
+Krete, and Zeus's grip in one move. In Episode 8, his reading of the Fates' promise
+fails in front of him: Caeneus enters the water and no freedom comes, and he despairs
+on the page. He vanishes mid-sentence during his last speech to Zeus, and the Fates
+free him only after the renewal — telling him his freedom is his own problem now.
 
 **Exit position.** Free, uncaged, standing inside Zeus's house, telling Zeus that
 his vision was real and that kaos is coming. Visibly less in control than he has

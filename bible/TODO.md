@@ -60,7 +60,7 @@ your streng-- / Where'd he go?"); the Fates greet and free him after the renewal
 can't be destroyed… All you had to do was trust. And wait."). `03-EPISODES.md` (E08 beat
 13) and O3 already have it right.
 
-- [ ] `01-CHARACTERS.md` › Prometheus › Arc: fix to match 03/O3 — the despair beat is part
+- [x] `01-CHARACTERS.md` › Prometheus › Arc: fix to match 03/O3 — the despair beat is part
       of the point (his reading of the Fates' promise was wrong in the moment).
 
 ---
