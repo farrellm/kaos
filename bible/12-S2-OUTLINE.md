@@ -243,7 +243,7 @@ which is a confusion every one of them had.
 properly somewhere else*, and this is somewhere else: she walks into the Nothing, in the water,
 and the definition arrives as a thing she is standing in rather than a paragraph she writes.
 **Show it with the reopened port**, moved here from 39 — no ferry fare, Medusa running it,
-Hades working it — because that *is* the definition, demonstrated. *(P1, P3, O13)*
+Hades working it — because that *is* the definition, demonstrated. *(P1, P3, P4, O13)*
 
 *Guard rails:* 37 already has *nobody was ever going to be on our side* and 40 has *I never
 convinced anybody.* 38 must not restate either. It is the only one of the three that is about
@@ -258,7 +258,7 @@ Dionysus stays mortal-adjacent and does not get Ari. Daedalus. Fotis lives — d
 gets up when Caeneus comes in; 40's *ten years* is about the ownership, not the animal.
 Orpheus sings the last
 true song and is believed, which is all he ever actually wanted and he does not enjoy it.
-*(O8, O11, O12, O16, P4)*
+*(O8, O11, O12, O16)*
 
 *The port moved to 38.* This chapter was carrying seven threads and is now carrying five, and
 it is still the densest in the book — keep the register the show uses for this, which is fast
@@ -281,7 +281,7 @@ Every open thread, and where it closes.
 | P1 | What "kaos reigns" means | 38 |
 | P2 | Can Zeus be killed / is he mortal | 7, 20, 32, 36 |
 | P3 | What Hades is planning | 10, 14, 38 |
-| P4 | How organized the rebellion is | 12, 22, 29, 39 |
+| P4 | How organized the rebellion is | 12, 22, 29, 38 |
 | P5 | Is Daedalus alive | 17 |
 | O1 | Cassandra's source | [D2](11-S2-CANON.md), dramatized 22 |
 | O2 | Who visited Prometheus | [D1](11-S2-CANON.md), dramatized 24 |

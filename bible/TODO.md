@@ -227,7 +227,7 @@ outline-side fixes.
       Both 3 (DC18) and 9 (DC34) are real; reconcile to one list in both places.
 - [x] **O7:** 05 says runs in 28, **40**; ledger says 28 only. DC16 (ch 40) is the payoff —
       add 40 to the ledger.
-- [ ] **P4:** ledger says 12, 22, 29, **39**; 05 says 12, 22, 29; outline ch 39's tag line
+- [x] **P4:** ledger says 12, 22, 29, **39**; 05 says 12, 22, 29; outline ch 39's tag line
       also claims P4 — but the port beat that carried it moved to 38 (DC29), and 38's tag
       says (P1, P3, O13) only. Decide where P4's last beat actually lives now (38 seems
       right) and align all three places.

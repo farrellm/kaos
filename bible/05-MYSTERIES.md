@@ -127,7 +127,7 @@ in his own house: by his wife releasing Orpheus and by Caeneus renewing a soul. 
 philosophically cornered.
 
 ### P4. How organized is the underworld rebellion?
-> **Settled — [DC7, DC14, DC37](11-S2-CANON.md).** Runs in **12**, **22**, **29**.
+> **Settled — [DC7, DC14, DC31, DC37](11-S2-CANON.md).** Runs in **12**, **22**, **29**, **38**.
 **Known.** Medusa recruits Riddy and names "rebels — people who see the gods for what
 they are." Persephone gave the diver order that put Caeneus in place, and unilaterally
 released Orpheus as an act of war. Charon takes a phone call about "the man with the
