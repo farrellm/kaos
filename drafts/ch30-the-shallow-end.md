@@ -173,7 +173,7 @@ Four hundred and some came on the Tuesday.
 
 They came because of the dock. That's the whole of it and I've thought about it for two years
 and I cannot improve on it. Two hundred thousand people had spent twenty-three days in the
-spring standing still in a place where standing still was the entire strategy, and had watched
+autumn standing still in a place where standing still was the entire strategy, and had watched
 a forty-one-year man go into the Frame off the edge of a dock and had not dispersed, and had
 found out — most of them for the first time in a century of being told to wait — that they were
 the ones who did everything and that nothing at all happened when they stopped.
