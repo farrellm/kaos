@@ -200,8 +200,12 @@ arrive — the five who are left — not to fight, just to watch. *(P2, O15)*
 **33.** Hera takes Olympus and finds it worthless: the throne was a distribution point and
 there is nothing left to distribute. She sits in it anyway, because it is hers. *(O9)*
 
-**34.** Poseidon dies covering her retreat from a war she has already won, and she is
-genuinely, inconveniently grieved. *(O10)*
+**34.** Poseidon's death, as the winter has it in [DC26](11-S2-CANON.md): a starving Zeus
+stands up and crosses the room toward Hera, and Poseidon — between the table and the doors
+because that is where he is standing — puts an arm out the way you break up something at a
+party, says *All right. All right —*, and does not finish the second one. Whether he knew
+what he was doing is deliberately unresolved. Afterward Hera walks the dry bed of the
+Meander the way he used to, and Riddy refuses to build a theory out of the pair. *(O10)*
 
 **35.** Prometheus and Zeus, last conversation — **not** the one in which he puts the
 arithmetic to him and gets "All right," which 36 already narrates in six lines and must

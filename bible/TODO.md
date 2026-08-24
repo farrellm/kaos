@@ -205,7 +205,7 @@ outline-side fixes.
 - [x] **Ch 39 / Fotis:** outline still says "decide whether the dog dies here." DC32
       decided: **Fotis lives**; 40's "ten years" is about the ownership. Replace the open
       question with the decision.
-- [ ] **Ch 34 / Poseidon's death:** outline: "dies covering her retreat from a war she has
+- [x] **Ch 34 / Poseidon's death:** outline: "dies covering her retreat from a war she has
       already won." DC26: he dies stepping between a starving Zeus and Hera at the table
       ("All right. All right —", four seconds), with *whether he knew* deliberately
       unresolved. Rewrite the beat.
