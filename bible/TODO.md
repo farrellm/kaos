@@ -75,7 +75,7 @@ She's on her own. [kisses]` — a *Fate* (Atropos tag) is present at the settlem
 owed whom is never said. The more natural reading is the reverse: the Furies repaying a
 favor **to** the Fates (showing Ari the truth is the Fates' plan being serviced).
 
-- [ ] Both files: mark the direction **(inference)**, note Atropos's on-scene presence
+- [x] Both files: mark the direction **(inference)**, note Atropos's on-scene presence
       (or the possibility of a subtitle mis-tag), and stop asserting a direction.
 
 ### 2.2 "I will destroy him, Hera" is untagged (E06)

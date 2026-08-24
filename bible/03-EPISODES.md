@@ -259,8 +259,10 @@ a confession booth; Hades harvests a boy in front of two witnesses.
 5. Ari refuses to watch the end and demands to be let out. She accuses the Furies of
    driving humans mad until they kill themselves. **Megaera**'s answer, seconded by
    **Alecto** and **Tisiphone**: fuck the gods —
-   they're the source of all your pain. They let her go. The favor owed by the Fates is
-   settled; she's on her own. Parting advice: talk to Daedalus.
+   they're the source of all your pain. They let her go. A favor between the Furies and
+   the Fates is settled — a Fate (tagged Atropos) is present, and who owed whom is never
+   stated **(inference: the Furies read as the repayers)**; she's on her own. Parting
+   advice: talk to Daedalus.
 6. Ari returns home. Minos is frantic with relief. She asks him to recite his prophecy;
    he detonates, then apologizes.
 7. Daedalus confesses: he killed the baby on Minos's orders because Minos threatened

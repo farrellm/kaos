@@ -448,11 +448,14 @@ he had to do was trust and wait.
 ### The Furies — Alecto, Tisiphone, Megaera
 Older than the gods. Roam the Earth delivering justice where they judge it denied,
 which is subjective. Only their target can see or hear them; they drive people to
-suicide. They are owed a favor by the Fates, and spend it on Ari — abducting her,
-feeding her popcorn, and showing her the film of her father's crime, on the explicit
-grounds that they are not there to punish her but to show her the truth. Their advice
-to a devout woman: fuck the gods; they are the source of all your pain. Then they let
-her walk out and call the debt settled.
+suicide. A favor stands between them and the Fates, and it is spent on Ari — abducting
+her, feeding her popcorn, and showing her the film of her father's crime, on the explicit
+grounds that they are not there to punish her but to show her the truth. Who owed whom is
+never stated: a Fate (the subtitles tag Atropos) is present when the debt is closed —
+*we're even now, no more favors, she's on her own* — and the likelier reading is that the
+Furies were repaying the Fates, since showing Ari the truth services the Fates' design
+**(inference)**. Their advice to a devout woman: fuck the gods; they are the source of
+all your pain. Then they let her walk out.
 
 ---
 
