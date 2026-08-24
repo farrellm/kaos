@@ -30,7 +30,7 @@ the way that nobody in that family has ever taken anything seriously, which is t
 the apparatus and then maintained it, annually, for four hundred years, without being asked and
 without once being visited. There are supply lines. There is a standing order about boots.
 
-I made a joke of the boots in the autumn and I am going to put them down properly now, because
+I made a joke of the boots in the summer and I am going to put them down properly now, because
 they are the reason the west face works.
 
 A formation is finished the day the boots are. That is his own sentence, said to his mother in

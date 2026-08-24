@@ -80,7 +80,7 @@ courtesy and it is not a test.
 
 It is the first item.
 
-I had that place wrong in the autumn and I have said so — I sat on a hill and watched forty
+I had that place wrong in the summer and I have said so — I sat on a hill and watched forty
 people move in lines at a fixed hour and concluded it was tidy, and there were nine hundred men
 over a rise I had not walked to. I would like to record that I have now got it right in the
 other direction, because the correction is not *there was an army*. Anybody can see an army
