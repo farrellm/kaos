@@ -28,14 +28,28 @@ That's what she handed me on the road outside the Cave like she was giving me a 
 
 I've had a year of it now. I've said it in temples. I've said it in the square in Heraklion
 with a crate under me and eleven people listening, four of whom were waiting for the crate.
-I said it to a priest who cried, agreed with me, thanked me, and then went and did the
-evening service exactly the way he always had, because what else was he going to do, he's
-sixty-one and he's got a house. I said it to my own aunt. My aunt asked if I'd been
-sleeping.
+I've said it to priests. I've said it to my own aunt.
 
 They don't disbelieve you the way you'd think. That's what nobody tells you. They don't
 argue. Arguing would be something. They *agree* with you and it doesn't go in. It's like
 pouring water on a table.
+
+I'll give you two and then I'll stop.
+
+The priest was in Kydonia and he cried, properly, and had to sit down to do it. He asked me
+questions for an hour and they were better questions than mine. At the end of it he said he
+had not heard anything in thirty years that he believed more, and he thanked me, and he
+walked me to the door, and at six he did the evening service exactly the way he has always
+done it. Coin and all. Two hundred people come on a Thursday and he is sixty-one and he has
+a house.
+
+I don't think he was a coward. I've had a year to decide that and it's the answer I keep
+getting. A thing can go all the way in and still have nowhere to come out.
+
+My aunt asked whether I'd been sleeping. Then she asked whether I'd seen anybody about it,
+and then she gave me lunch, and then at the door she said that my mother would have known
+what to do with me. Which is true, and is not about any of it, and I stood on her step for
+a while afterwards.
 
 So no, I don't know what a prophet is. I know what one does. One talks.
 
@@ -75,6 +89,27 @@ I stood at the back of one of those. I don't recommend it.
 
 ---
 
+And then there's the part that none of that is about, which is that there are two hundred
+thousand of us down there.
+
+I say us. I've been alive for a year and I still say it and I've stopped correcting myself.
+
+Three of them you'll need. Prue has been dead sixty-one years and does the chairs and the lists
+and the notices and the urn, and is not waiting for anybody, which she will tell you
+cheerfully, and which took me about a year to hear properly. Adrian has been dead forty-one and
+is the most boring man I have ever met and is the reason I got through my first week. Medusa
+runs the divers, has no time for anyone, and is the only person down there who has been right
+about all of it from the beginning and has said so to nobody.
+
+They are not a resistance. Nobody recruited them and there is nothing to join. They work
+the port and the turnstiles and the boats and the canteen and the laundry and the dogs, and
+they have done it for as long as there has been a building, in exchange for two hundred
+years at the end of which nothing happens.
+
+Hold on to that. I didn't, and it was in front of me the entire time.
+
+---
+
 The other thing you should know about is the book.
 
 Caeneus is paying for every soul he brings back, and what he pays in is what's already
@@ -83,8 +118,14 @@ compound, then the dog, then the crossing, then his mother — he lost her about
 after we got her out, which if you have any sense of proportion at all is the single filthiest
 joke this universe has managed, and it's managed some.
 
-So there's a book. It's a ledger, actually, one of Charon's, he had crates of them. Every
-night I read him back to him.
+So there's a book. It's a ledger, actually, one of Charon's, he had crates of them.
+
+I go down twice a week. Persephone takes me — she crosses the way other people get a bus,
+and she has never once made me ask twice, and it is a favour and not a service and I am
+aware of the difference every single time. Tuesdays and Fridays. She waits at the top of
+the steps and reads something and does not ask me about any of it.
+
+And I read him back to him.
 
 It's not moving. Don't make it moving. It's admin. You do a page and a half or he gets
 tired, and there's an order to it that works and an order that doesn't, and you learn to put

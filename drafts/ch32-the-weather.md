@@ -19,7 +19,7 @@ piece of writing that man ever did that I would keep exactly as it is.
 Here's the mechanism, and it's short, and I'll do it myself because nobody in this story ever
 said it out loud to anybody.
 
-The Frame stopped taking people in the autumn.
+The Frame stopped taking people in the spring.
 
 Not because anybody stopped it. Adrian stood on a dock for six days telling arriving souls the
 truth and then other people took over doing it, and something like a hundred and ten thousand
@@ -31,7 +31,7 @@ on being almost nothing, because you cannot un-tell a hundred and ten thousand p
 and the ones who came after that got told too.
 
 And a river that has been running for four thousand years on a continuous supply is a river
-with about a season in it.
+with the better part of a year in it.
 
 Nobody upstairs connected the dock to the tap. That's the part that still gets me. They knew
 there was a strike, and Hermes had sat in a corridor through the middle of it, and not one of

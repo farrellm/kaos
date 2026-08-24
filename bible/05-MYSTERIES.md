@@ -123,7 +123,7 @@ in his own house: by his wife releasing Orpheus and by Caeneus renewing a soul. 
 philosophically cornered.
 
 ### P4. How organized is the underworld rebellion?
-> **Settled — [DC7, DC14](11-S2-CANON.md).** Runs in 12, **22**, **29**.
+> **Settled — [DC7, DC14, DC37](11-S2-CANON.md).** Runs in **12**, **22**, **29**.
 **Known.** Medusa recruits Riddy and names "rebels — people who see the gods for what
 they are." Persephone gave the diver order that put Caeneus in place, and unilaterally
 released Orpheus as an act of war. Charon takes a phone call about "the man with the
@@ -152,11 +152,11 @@ vague.
 
 The real Season 2 workload. Ordered by structural importance.
 
-> **Almost all of these have now been settled for the novelization.** The decisions live
+> **All of these have now been settled for the novelization.** The decisions live
 > in [11-S2-CANON.md](11-S2-CANON.md); the constraints below stay put as the audit trail
-> those decisions had to satisfy, and are not edited to match them. Two are genuinely still
-> open — **O10**, which has no canon entry, and **P1**, which is the book's last real
-> question.
+> those decisions had to satisfy, and are not edited to match them. The last two to close
+> were **P1**, the book's final question, answered by [DC29](11-S2-CANON.md) in Chapter 38,
+> and **O10**, answered by [DC36](11-S2-CANON.md) in Chapter 11.
 
 ### O1. Who is Cassandra working for, and how does she keep finding Riddy?
 **Settled — see [D2 in 11-S2-CANON.md](11-S2-CANON.md).**
@@ -273,7 +273,7 @@ supposedly dead, so any new prophecy has to be reconciled with Zeus's belief tha
 abolished fate.
 
 ### O8. What becomes of Orpheus?
-> **Settled — [DC11, DC20](11-S2-CANON.md).** Runs in **5**, **19**, 39.
+> **Settled — [DC11, DC20](11-S2-CANON.md).** Runs in **5**, **19**, **39**.
 **Evidence.** He is the only living human to have entered the underworld and returned. He
 committed murder to do it. He learned his wife was leaving him the day she died, released
 her, and drove away alone. Hades knows his name. Dionysus loves him. Persephone likes his
@@ -303,7 +303,7 @@ Olympus is *her* house — so any plan she runs is about taking it, not leaving 
 has lost the tacitas' confessions as a power source, which was the basis of her influence.
 
 ### O10. Poseidon, dispossessed and in love
-> **Partly settled — [DC26](11-S2-CANON.md)** covers his death. Runs in 11 (undrafted) and **34**; what he is *for* in the year between still has no canon entry.
+> **Settled — [DC26, DC36](11-S2-CANON.md).** Runs in **11** and **34**. He is *for* nothing, and the year is the demonstration of it.
 **Evidence.** Stripped of Krete and every city, told to grow up. He has admitted to
 Dionysus that he has loved Hera forever and that it feels like his heart is outside his
 body. Dionysus promised not to tell, and kept the promise.
@@ -313,9 +313,13 @@ lost everything self-interest could protect. His alliance is available to whoeve
 first, and Hera is the obvious buyer.
 
 ### O11. Dionysus and Troy
-> **Settled — [DC10](11-S2-CANON.md).** Runs in 8, 39.
-**Evidence.** He asks Hecuba, Andromache and Nax what they want and promises to do it.
-They want Troy rebuilt and Olympus destroyed. He has just watched his father murder his
+> **Settled — [DC10, DC35](11-S2-CANON.md).** Runs in **8**, **39**.
+**Evidence.** He asks the Trojans what they want and promises to do it — *What do you
+want? Tell me, and I'll do it.* They want Troy rebuilt and Olympus destroyed. The scene
+carries no speaker tags; **Nax is not in it** (dead since Olympia night, extracted by Hades
+in E5, and the name does not occur after E5), and that the survivors present are Hecuba and
+Andromache is **(inference)**. Constraint (a) below was right and the evidence line was
+wrong; corrected against the transcripts. He has just watched his father murder his
 cat to teach him that love is weakness, and been told by Prometheus that maybe the better
 part of him is human. He has also declared, watching Ari kill Minos, that he thinks he's
 in love.
@@ -327,7 +331,7 @@ he cannot bring the dead back, and he has been told so by everyone. (c) His decl
 for Ari has not been acted on and Ari does not know he exists.
 
 ### O12. What does Ari do with Krete?
-> **Settled — [DC10, DC12, DC18, DC24](11-S2-CANON.md).** Runs in **3**, 6, **18**, **21**, 39.
+> **Settled — [DC10, DC12, DC18, DC24](11-S2-CANON.md).** Runs in **3**, **6**, **18**, **21**, **39**.
 **Evidence.** She killed the president, refused to rule for the gods, and told Riddy's
 world nothing yet. Her mother approves. Glaucus is dead — Minos knifed him in the
 labyrinth minutes after she unmasked him — and she has his body and thirty years of
@@ -354,7 +358,7 @@ demonstrated. (c) Zeus has now taken direct charge of the City of the Dead, whic
 failing system under the management of the one god who denies it is failing.
 
 ### O14. The unresolved dead
-> **Settled — [DC14](11-S2-CANON.md) — the Stoppage.** Runs in 12, **29**.
+> **Settled — [DC14, DC37](11-S2-CANON.md) — the Stoppage.** Runs in **12**, **29**.
 **Evidence.** Riddy's cohort was sentenced to two hundred years. Prue and Adrian have
 their own waits. Caeneus has served ten. Fotis is still at the port.
 
@@ -373,7 +377,7 @@ non-existence. Any appearance must account for six gods who chose to stop answer
 phone — and, given O9, for who might be raising troops.
 
 ### O16. Small threads worth not dropping
-> **Settled — [DC10, DC11](11-S2-CANON.md) in part.** Runs in **21**, 39.
+> **Settled — [DC10, DC11](11-S2-CANON.md) in part.** Runs in **21**, **39**.
 - **Dennis.** Killed to make a point. Dionysus's grief over him is the hinge of his defection.
 - **Fotis** — "light" — left with Charon, and Caeneus promised to visit.
 - **Theseus**, last seen in Episode 3, a Trojan operative inside the palace of a dead president.

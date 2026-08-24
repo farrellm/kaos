@@ -93,8 +93,13 @@ Season 2 novelization chapters, written against the outline in
 | 3 — The Booth | [ch03-the-booth.md](drafts/ch03-the-booth.md) |
 | 4 — How Did You Do That | [ch04-how-did-you-do-that.md](drafts/ch04-how-did-you-do-that.md) |
 | 5 — Witness | [ch05-witness.md](drafts/ch05-witness.md) |
+| 6 — Standing Orders | [ch06-standing-orders.md](drafts/ch06-standing-orders.md) |
 | 7 — Technique | [ch07-technique.md](drafts/ch07-technique.md) |
+| 8 — Useful | [ch08-useful.md](drafts/ch08-useful.md) |
+| 9 — Claimants | [ch09-claimants.md](drafts/ch09-claimants.md) |
 | 10 — The Rule | [ch10-the-rule.md](drafts/ch10-the-rule.md) |
+| 11 — Guttering | [ch11-guttering.md](drafts/ch11-guttering.md) |
+| 12 — The Etiquette | [ch12-the-etiquette.md](drafts/ch12-the-etiquette.md) |
 | 13 — Grief | [ch13-grief.md](drafts/ch13-grief.md) |
 | 14 — The Name of It | [ch14-the-name-of-it.md](drafts/ch14-the-name-of-it.md) |
 | 15 — Volunteers | [ch15-volunteers.md](drafts/ch15-volunteers.md) |
@@ -121,4 +126,5 @@ Season 2 novelization chapters, written against the outline in
 | 36 — Owed Nothing | [ch36-owed-nothing.md](drafts/ch36-owed-nothing.md) |
 | 37 — The Tenth | [ch37-the-tenth.md](drafts/ch37-the-tenth.md) |
 | 38 — The Manifest | [ch38-the-manifest.md](drafts/ch38-the-manifest.md) |
+| 39 — The First Thing on the List | [ch39-the-first-thing-on-the-list.md](drafts/ch39-the-first-thing-on-the-list.md) |
 | 40 — Page One | [ch40-page-one.md](drafts/ch40-page-one.md) |

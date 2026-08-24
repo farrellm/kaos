@@ -167,8 +167,11 @@ Blackmails Poseidon into silence, then keeps the secret anyway. Confesses everyt
 to his father in Episode 8 and is answered with a dead kitten and a lecture on love
 as weakness.
 
-**Exit position.** On Earth with Andromache, Hecuba and Nax, offering to do whatever
-they want. What they want is to rebuild Troy and destroy Olympus.
+**Exit position.** On Earth with the Trojans, offering to do whatever they want. What
+they want is to rebuild Troy and destroy Olympus. **Nax is not there** — he was killed on
+Olympia night and extracted from the Nothing by Hades in Episode 5, and the name does not
+occur anywhere in Episodes 6–8. The Episode 8 scene carries no speaker tags at all, so that
+the survivors present are Andromache and Hecuba is **(inference)**.
 
 **Voice.** Warm, profane, puppyish, easily wounded. The only god who likes humans and
 says so.

@@ -97,7 +97,7 @@ though it doesn't sound like one.
 
 And he had her name.
 
-I read to him every night. It's one of Charon's ledgers and I do a page and a half, good one
+I read to him twice a week. It's one of Charon's ledgers and I do a page and a half, good one
 first, bad ones in the middle, and I go down on the Tuesdays and Fridays with Persephone, who
 crosses the way other people take a train and who waits and reads a book while I do it and has
 never once asked me about any of it.

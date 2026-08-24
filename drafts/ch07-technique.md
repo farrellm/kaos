@@ -34,7 +34,7 @@ one to the underworld, one to wherever Dionysus was understood to be, and one â€
 absolutely rigid about this â€” held for his wife and not sent.
 
 Hades's came back. It came back unopened with a note from Persephone that said *thank you, he
-has what he needs*, which is nine words and is one of the great acts of violence of that year.
+has what he needs*, which is seven words and is one of the great acts of violence of that year.
 
 Poseidon's came back too, in the second week, without a note.
 

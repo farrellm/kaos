@@ -239,7 +239,7 @@ table, and Chapter 26's own arithmetic depends on Ares being absent from Olympus
 Riddy is alive on Earth from the Season 1 curtain onward and never dies again. Chapter 28
 fixes that beyond argument: she has a flat above a chandler's with a balcony, she waters the
 thyme in the evening so she can tell him what it smells like, and she reads him his own past
-back **every night**. So she is living up here and getting down there regularly, and the
+back **twice a week**, on the Tuesdays and Fridays. So she is living up here and getting down there regularly, and the
 route has to be named, because the Cave is welded shut from Chapter 5 and the only other
 door is dying.
 
@@ -671,7 +671,7 @@ nobody has ever done, and that if they got to the end thinking *yes, that's what
 that is the entire thing. **That is the payoff of Cassandra's curse and the reason the
 narration changed hands. It is available to no other form.**
 
-**Cassandra is dead** — two winters before, quietly, in the room above the fishmonger's, with
+**Cassandra is dead** — the winter before, quietly, in the room above the fishmonger's, with
 Ekhi there. Riddy has taken her seat and does not have her patience and is told she will.
 
 **The session is the shape of the chapter.** A page and a half, good one first, bad ones in
@@ -928,8 +928,8 @@ mother, the letters go out and come back empty and she recalculates in her own t
 bought by a quarter of an hour in a garden.
 
 *Forces:*
-- **It is also why Zeus looks.** He counts for eleven weeks, is thorough, comes back in the
-  spring with a figure and a slope, and is correct about what the slope means. He would never
+- **It is also why Zeus looks.** He counts for nine weeks, is thorough, comes back in the
+  autumn with a figure and a slope, and is correct about what the slope means. He would never
   have looked; looking is what a man does when he is anxious about a supply, and it had not
   occurred to him there could be a bottom to it. Prometheus put a ledger in his hand to keep
   him in a garden, and it produced Alpheus. He claims the knowing and explicitly does not claim
@@ -1405,8 +1405,10 @@ working it. That arrangement is the definition, and 40 is already looking at it.
 - **Three chapters in a row must not say the same thing.** 37 has *nobody was ever going to be
   on our side*; 40 has *I never convinced anybody*; 38 is the only one of the three that is
   about the world rather than about her, and it has to stay that way.
-- The word *kaos* appears in only two drafted chapters — Caeneus's mother saying it in the
-  river in 4, and Riddy reciting her own prophecy in 37. The ground is clean.
+- The word *kaos* appears in only three drafted chapters — Caeneus's mother saying it in the
+  river in 4, Riddy reciting the prophecy to Ari from a doorway in 9, and Riddy reciting her own
+  in 37. All three are the verbatim clause, which [09-VOICE-AND-STYLE.md](09-VOICE-AND-STYLE.md)
+  forbids paraphrasing. The ground is still clean and no fourth use may be added outside 38.
 
 ### DC30 — The first disagreement, and what it was actually about
 Established in Chapter 10. Prometheus narrating, Part One, in command — this is the second of
@@ -1512,6 +1514,463 @@ the notice was for people who knew where their person was. Riddy knocks on his d
   top, from no arrangement at all.
 - **Ends on Bion, not on the thesis.** He goes in most weeks now, for other people's, and is good
   at it. Asked why, he says somebody came and knocked on his door.
+
+### DC32 — Chapter 39: the vote, the eight words, and the dog
+Established in Chapter 39. Closes the Earth half of O8, O11, O12 and O16, and makes the two
+decisions [12-S2-OUTLINE.md](12-S2-OUTLINE.md) deliberately deferred.
+
+**Fotis lives, and this is the answer to the outline's open question.** Old, grey to the
+shoulders, port in the mornings only, asleep under Charon's desk in the afternoons; Charon
+feeds him things he should not have. Caeneus walks past him most days, has asked whose he is
+twice about a year apart, was told both times, said "Ah, right," and was pleased. **The dog
+gets up when he comes in.** Killing the dog would be tidier and would resolve the thing the
+book is actually about: Caeneus loses what is still standing in front of him. It also could
+not happen — [Ch36](#dc15--renewing-zeus) has him asking whether the dog belongs to anybody
+in the spring of the second year. 40's *ten years* is about the ownership, not the animal.
+*Do not kill this dog later.*
+
+**Ari has nothing particular to say, so she says somebody else's list.** [DC9](#dc9--how-renewal-actually-works-and-why-it-does-not-scale)
+requires a griever to say something particular, and Ari has four minutes of a man in a
+corridor. What she uses is Glaucus's **other eight words** — the list Daedalus kept for thirty
+years and handed over in `ch17` with nobody until then to give it to. Six minutes, on the
+rota, with the shift that was on. **Caeneus does not know who either of them is.** Nobody
+thanks her; she has tea afterwards with a man from the fourth sector who does not know who
+she is either. Per [DC24](#dc24--glaucus-went-through-the-frame-and-ari-is-still-coming-for-him)
+this stays a passage and not a set piece, or it steals from 36. **The eight words are never
+printed** — 17 does not print them either.
+
+**The vote.** A hundred and sixty-one thousand voted, about nine thousand of them Trojans;
+Ari lost by four thousand two hundred to **Sostratos**, nine years on the water board, who has
+never said anything anybody wrote down. Two causes and the comfortable one is only most of it:
+Krete punished her for the franchise, **and the Trojan vote split** — a little over half to
+Ari, the rest to Sostratos or nowhere. Andromache does the arithmetic and calls it the correct
+outcome: anybody who expected a block had not given them a vote, they had bought one. Hecuba
+had waited twelve years to disappoint somebody in a polling station.
+
+**The register, which is the chapter's own argument and is never glossed.** Krete had no
+electoral machinery at all, because *the gods choose who rules* is a constitutional position
+and not a sentiment ([DC18](#dc18--krete-after-minos-and-why-riddy-cannot-get-a-hearing)). The
+one complete record of persons in the country was the **Trojan registration** — complete
+because it was built as a leash — and Andromache would not have it in the building, so the
+first act of the first free vote was destroying the only document that would have made it
+easy. They counted off **temple attendance lists** instead, parish by parish, and nobody on
+either side remarked that a country told for a year that its religion was a machine for taking
+souls had just run its first election off the church roll. Riddy declines to draw the moral.
+
+**The labyrinth is filled in by her successor.** Andromache's condition from `ch21` went on a
+list two years earlier; the four hundred got housing on the east side in the spring; Sostratos
+did it in his second month and was mildly surprised to find it there. Daedalus specifies it —
+in lifts, from the bottom, seven weeks, **and the room with the button comes down first and
+separately**, so that nobody cuts into a solid block in four hundred years and finds a working
+switch. He asks whether anybody wants the mask. Nobody had thought about the mask; it is in a
+drawer in Heraklion. He does not mention Icarus.
+
+**Being believed is being corrected.** Orpheus gets the order wrong in Heraklion — the water
+before the coin — and a woman four rows back says "It was the coin first," and two hundred
+people agree, and he says "Yes — sorry, yes" and goes back four lines. That is the payoff of
+[DC11](#dc11--orpheus-sings-it-and-it-is-riddys-life): not a room weeping at him, a room that
+holds the material better than he does, because it has stopped being his. **He does not enjoy
+it.** He asks after Riddy, means it, and then tells her the tour dates.
+
+*Forces:*
+- **Bakkhos is not mentioned.** [DC28](#dc28--the-channel-opens-and-the-nineteen-days) reserves
+  him to one paragraph in 30 and forbids pathos elsewhere. 39 keeps out.
+- **Dionysus does not get Ari and never says the other thing.** Asked once, badly, he says
+  "Nah" and talks about a well for twenty minutes. He is the last god on Earth doing anything
+  for anybody, and what he does is rain on one side of a valley for farmers who have a name for
+  him that is not his name and whom he has never corrected.
+- **Riddy's Orpheus line must not reach for 40's.** 39 has *he has never asked; I have stopped
+  waiting for it and I have not stopped noticing*; 40 has *I never convinced anybody*. Different
+  claims, and the second must stay 40's.
+- Ari's own verdict — that she was excellent at refusing and had never once practised governing —
+  is stated by her, once, and nobody agrees or disagrees with it on the page.
+
+### DC33 — Chapter 6: the second funeral, the standing order, and the drawer
+Established in Chapter 6, which re-commissions the beat per [DC24](#dc24--glaucus-went-through-the-frame-and-ari-is-still-coming-for-him).
+Prometheus narrating, Part One, in command; **no flagged misreading in this chapter** — the
+plant at the end is dramatic irony, not authority spent. See the note on Part One's ratio in
+the outline's Length section.
+
+**Two funerals, two days apart, and the order is administrative.** Minos on the fourth day
+because there is four hundred years of procedure for a president and a man whose job is the
+book; Glaucus on the sixth because there was no procedure for the other thing and it took two
+days to establish there was not going to be one. **The old grave is the problem** — the palace
+ground on the north side already holds the closed coffin his mother buried thirty years ago,
+with a stone and a name on it. The chamberlain's advice was to put him in quietly and let the
+stone stand, and it was correct advice, and 17 needs him to have been right once before he is
+famously wrong in the fourteenth week.
+
+**She told the truth instead, and it detonated the *calling* within forty-eight hours.** All of
+it, from the same steps, in the same coat, two days after reading the priesthood's words about
+her father without adding anything ([Ch3](#dc18--krete-after-minos-and-why-riddy-cannot-get-a-hearing)).
+The one omission is *and I killed him* — she does not say it, everybody already knows, and she
+has never confused not saying a thing with denying it. **The priesthood cannot withdraw the
+*calling*:** the only instrument for correcting the record was the record and she had just used
+it. So Krete carries two official accounts of the same fortnight with no mechanism for choosing
+between them, and not choosing holds for years. *This is why nobody in 21 or 39 ever appeals to
+doctrine.*
+
+**The coin goes in on the sixth day** and Prometheus says nothing, standing at the back. He
+flags that she finds out what she did in about five weeks, from a dead woman in a borrowed coat
+— which is DC18's five-week gap, and hands the detonation to Chapter 9. *9 must pay this.*
+
+**What the mother lost was the instrument, not the son.** She had been grieving Glaucus for
+thirty years and was practised at it; it did not need to start. The **thirty waxworks** were
+never a memorial — they were an annual mechanism for telling a living child that the wrong one
+had survived, and the whole apparatus rested on a fact that turned out to be her husband's lie,
+so it is now void. *Good* cost her the only thing she had. **Ari has taken that word as an
+absolution and it was not one**, and Prometheus does not correct her, and nobody in that house
+ever says a forgiving thing to her. Do not resolve this later — 39 has Ari's own verdict on
+herself and it is not about her mother.
+
+**Objects:** her mother asks for **the first waxwork**, the one made when the boy would have
+been one, and it goes up to her room and stays. The other twenty-nine are still in the room
+they were always in; nobody has decided anything and there is no procedure. **The commission is
+a standing order** and went into the palace accounts that year on the date, and a clerk brought
+it up to be signed, and Ari asked who would make it now and nobody had thought about that
+either. *Rhymes forward, unremarked, with the mask in the drawer in 39.*
+
+**The cells, which the chapter tells the reader to keep.** Compounds falling down, two with no
+water that summer, no housing stock in Heraklion, and the largest structure in the country
+sitting empty under the palace. Sixty-odd people in the fourth week, with bedding, a water
+point and an immediate argument about the rota — ramping to the better part of two hundred by
+17 and four hundred by 21/39. Ari's line when it is put to her: they could have the cells or
+they could have the south, she would take the cells, and she would understand anybody who did
+not. Most took the cells. **Prometheus calls it sound, and it is sound, and it is also the
+sentence Hecuba hands back to her in 21 with two words on the end of it.**
+
+**The compound numbers do not add up.** The south empties faster than Ari's transfers account
+for — a few dozen at a time, always the outlying compounds, always people registered at
+addresses they never lived at. Prometheus makes a correct note (*somebody is moving Trojans out
+of the south, competently, without telling the president*) and files it under *to be
+established*. **He never connects it to Theseus**, whom he has been told is dead, which is
+exactly the state 21 finds him in. This is a plant, not a misreading — he is right about the
+fact and never asks the next question.
+
+**The drawer.** Ari goes into Daedalus's workshop in the first week — the table still set for
+two — finds a small flat piece of metal on a wire, turns it over, it makes a noise, and she puts
+it back and closes the drawer. **The chapter ends on Prometheus saying he was standing in the
+doorway and saw her do it**, and does not say why that matters. He does not know. 17 does the
+rest, and its *he was not on the list* lands against this.
+
+*Forces:*
+- Chapter 6 does **not** re-argue the *calling* doctrine; Ch3 spent it. 6 goes past it.
+- The staging trick is used invisibly and points at the cells, which are genuinely load-bearing
+  three times over. It does not point at the bell. That is the whole design.
+- Ari's knowledge is kept to what she can have: the prophecy, Daedalus's order, the thirty
+  years. **She does not name Poseidon or Hera** — she says a frightened man was given some
+  advice, and stops.
+
+### DC34 — Chapter 9: why a Titan cannot deliver the message, and what Ari did with it
+Established in Chapter 9, five weeks after Minos's funeral per
+[DC18](#dc18--krete-after-minos-and-why-riddy-cannot-get-a-hearing). Pays the coin planted in
+[DC33](#dc33--chapter-6-the-second-funeral-the-standing-order-and-the-drawer). Prometheus
+narrating, in command, with **one flagged misreading** — he expects an announcement.
+
+**Why Prometheus cannot simply tell her, and this is the load-bearing idea.** He can walk into
+that building and considered it seriously. It is worthless, because the content of the message
+is *the gods are lying*, and a Titan in your bedroom at four in the morning does not establish
+that — it establishes that **a god says so**, against a building full of men in robes with
+better credentials who say the opposite. That is a doctrinal dispute between two supernatural
+authorities, which is the exact position the priesthood spent four thousand years arranging and
+the exact position in which it wins. **The message has to come from a human who has been there
+or it is not the message; it is just a different god.** He works this out on the second day,
+never revises it, and calls it the most useful thing he contributed all year. *This is why no
+god short-circuits the human strand anywhere in the book, and no later chapter may have one
+try.*
+
+**The claimants, which are Chapter 6's bill.** Ari told the city that a man everyone knew had
+died in infancy had been alive under the building for thirty years, and *that does not happen*
+is not doctrine — it is the sentence every administration on Earth needs to get through a
+Tuesday. She removed it from the vocabulary. Somewhere over forty came forward in the first
+month and it did not slow for a year. The palace invented a procedure: a clerk, a two-sided
+form asking date of death, place of burial and **name of the coin bearer**, and six seen by the
+president herself each Tuesday for a quarter of an hour, because she decided she would not let
+anybody else be the person who said no. She is quick and kind and good at it, and four of the
+six cried that morning.
+
+**Riddy gets in by filling in the form** — after five weeks of Prometheus working the
+chamberlain's secretary, a paper supplier with a grievance and the woman who does the flowers.
+Her form goes to the top of the pile because under *coin bearer* she wrote Orpheus's name and
+the clerk recognised it. She was fourth of six.
+
+**She does not argue, and that is the growth.** Six weeks earlier she argued nine times in six
+days and lost all nine ([DC18](#dc18--krete-after-minos-and-why-riddy-cannot-get-a-hearing)).
+She says thank you, gets up, and delivers the four clauses **from the doorway**, to Ari's back.
+It is unanswerable inside four seconds: yours is yours, no two are ever the same, and there is
+no mechanism by which a woman off the harbour road has Ariadne of Krete's prophecy in her
+mouth. Ari sends the clerk out.
+
+**Riddy volunteers the reading and is not asked for it.** Ari has believed since before she
+could speak that hers was about smothering her twin, and six weeks earlier learned she had not
+done it, which left her holding four clauses with nothing under them. Riddy tells her *the
+family* is not the house of Minos. **This is the only thing Riddy has that nobody else in the
+world has, and she gives it away in the first meeting.**
+
+**Ari does the arithmetic herself and nobody hands it to her:** *"Six weeks ago I put a coin in
+my brother's mouth."* Then: ***"Is he still there?"*** Riddy says yes. That is the end of the
+meeting, and it is the engine of [DC24](#dc24--glaucus-went-through-the-frame-and-ari-is-still-coming-for-him)
+— **Ari has known for two years that her brother is standing up in that room** before she walks
+into it in 39.
+
+**What she does is not an announcement, and Prometheus is wrong about this on the page.** He
+expected her to detonate it from the steps the way she detonated the *calling*, and says so,
+and was composing the advice on the stairs. She never announces it; two years on, the coins are
+still going into the ground at the ordinary rate. Instead she **asks for it in writing** — her
+own hand, two hours, *not certain* in the margin where Riddy is not certain, the name of the
+diver or handler where it is secondhand. He files it as shock. It is the first sound piece of
+statecraft anybody performs against Olympus, forty minutes after she learns there is an Olympus
+to perform against: she learned on the sixth day not that truth-telling works but that
+truth-telling *from those steps* buys two official accounts and a queue, and she was not going
+to spend the second fact the way she spent the first.
+
+**The document has one word on the front, in her writing, and it is not *Renewal* or *Olympus*
+or *the Frame*. It says *Glaucus*.** It goes in a drawer and nothing comes of any of it for
+four months — the next thing built on it is the door in 18.
+
+*Forces:*
+- Riddy sleeps that night in the room off the west courtyard with a table in it and nothing
+  else, which is where 16 finds her.
+- **Ch22 adjusted.** Its line now reads that the room above the fishmonger's was the first place
+  she was not *the only one holding it*, rather than the first place she was not disbelieved —
+  because Ari believes her completely here. What 22 gives her is membership, not belief.
+- The verbatim clause is spoken here, which is the third and last permitted instance outside 38.
+  See [DC29](#dc29--what-kaos-turns-out-to-mean).
+
+### DC35 — Chapter 8: what Dionysus agreed to, and what he was actually wanted for
+Established in Chapter 8. Closes the opening half of O11. Prometheus narrating, in command,
+with **one flagged misreading**, and it is a generous one — he predicts Dionysus will leave.
+
+**First, a transcript correction this chapter forced.** Two bible files had Dionysus at the
+curtain "with Andromache, Hecuba and **Nax**". Nax is not in that scene: he is killed on
+Olympia night, extracted from the Nothing by Hades in E5, and **the name does not occur
+anywhere in E6, E7 or E8**. The E8 scene carries no speaker tags at all, so even Hecuba and
+Andromache being the survivors present is inference. `01-CHARACTERS.md` and `05-MYSTERIES.md`
+are corrected; `00-OVERVIEW.md` and `03-EPISODES.md` were already right. O11's own constraint
+(a) had it correct and the evidence line above it did not — same class of error as
+[DC24](#dc24--glaucus-went-through-the-frame-and-ari-is-still-coming-for-him).
+
+**The promise precedes the answer, and that is the whole trouble.** *What do you want? Tell me,
+and I'll do it* is not a god's sentence — a god arrives with a portfolio and confers and waits
+to be thanked, and nobody up there has ever opened with the question. He undertakes it before
+he hears it, which means there is no comfortable later moment in which he asks what it is
+actually about. **He made the asking into a grand gesture, and a grand gesture is a thing you
+can only do once.**
+
+**He thinks it is about Troy** — a twelve-year-old grievance with a wall in it, the kind you can
+serve for a lifetime with wells and weather. It is about a boy who died four days earlier.
+Nobody corrects him because nobody knows he needs correcting: every person in that compound
+watched seven coffins go into the ground the day after the pardon, it was the largest thing
+that ever happened to them, and it does not occur to anyone that the god at their table does
+not know. **He knew there had been a seventh Trojan and he thought the seventh had been
+pardoned**, as did everybody not in Krete at that midnight.
+
+**Seven graves at the top of the eastern compound**, new, small stones, set slightly apart
+after an argument about whether they should be at the front. He walks past them daily for five
+weeks. He finds out from a boy of about fifteen mending a fence, who names all seven in burial
+order and then says the line that does it: *"He was the one who did the monument."*
+
+**He offers to fix it, and has to withdraw the offer standing up, in her house.** *I'll get him
+back* — not *I'll try*, he is not built for *I'll try* — and then works out over the following
+minute, in front of Andromache, that he cannot. He knows that rule better than any other rule
+in the world. It was not in the room, because when you love somebody the rule is never in the
+room.
+
+**Andromache is not angry and does not forgive him. She is not surprised**, which is the thing
+that lands: *"No. I know. It's all right."* — then she asks whether he will be at the eastern
+compound on the Thursday, because the well. **She never thought he could.** She heard a god say
+*tell me and I'll do it* and understood it precisely as an offer of labour, and had been
+quietly sorting the promise into the parts he could actually perform ever since.
+
+**So he is correctly valued for the first time in his life, and it is as a utility.** He wanted
+to be loved and to matter and has spent his existence being given the first instead of the
+second by people who find him charming and useless. A woman who has buried everybody assessed
+his capacities accurately and put him on the water. *It is also the coldest thing anybody has
+ever done to him and neither of them has ever said so.* This is the seed of
+[DC10](#dc10--the-krete-troy-alliance-and-its-price)'s *they didn't need me for any of it* and
+of the rain on one side of a valley in 39.
+
+**The work is real and it lasts.** Four compounds, two with no water that summer — the same two
+Ari is emptying in [Ch6](#dc33--chapter-6-the-second-funeral-the-standing-order-and-the-drawer),
+and Prometheus notes the repetition himself. He walks them with **Iason**, who has dug wells for
+thirty years. Then the weather: he can bring rain onto one piece of ground without taking it
+off the next, which is a finer instrument than anything his father has ever held. No bad harvest
+in the south that year or since.
+
+**The misreading: Prometheus gives him three weeks.** Everything that boy has ever done was in
+exchange for something and the exchange had just failed — there is no version of it that ends
+with him at the centre of a room. He stays two years. Prometheus's closing line is that he has
+been wrong about a number of things and this is the only one so far he has been glad about.
+
+*Forces:*
+- **He still has the sling.** Dennis is four weeks dead; he wears it under the coat and is not
+  aware of it. One sentence, unremarked, and no later chapter may develop it.
+- He asks after Ari once, obliquely, and does not raise it again. **She does not know he
+  exists**, and the chapter says so flatly at an interval, per O11(c).
+- He misses everything: not at the strike, not in the house in the winter, and nobody thinks to
+  send for him when the Meander stops — he finds out from a song ([DC5](#dc5--the-olympian-ledger-after-chapter-26)).
+
+### DC36 — Chapter 11: what Poseidon was for, which was nothing
+Established in Chapter 11. **Closes [O10](05-MYSTERIES.md)**, the last thread in the bible with
+no canon entry, and plants the finding [DC26](#dc26--the-winter-32-33-and-34) pays off. Prometheus
+narrating, in command; **a competence chapter**, and the error in it is not a misreading.
+
+**The answer to what he is for is: nothing, and the year is the demonstration.** Nothing was
+traded. He never offered Hera an alliance and she never asked for one and neither tried. He was
+not a hostage, because nobody wanted him; not an asset, because there was no market. He was a
+man in a spare room over a kitchen who saw to the water.
+
+**Ares's compound is four hundred miles inland and there is no sea.** Grass, timber, two
+kitchens and an army that has not been used — and in the whole arrangement not one task,
+problem or shortage that the god of the sea bears on. **Nobody asks him for anything**, and it
+is not a snub: it is a working household where everybody does something and the doing is how
+they know each other. He is pleasant about it for a fortnight.
+
+**Then Ares gives him the water.** Roof butts, runs, a silted cistern under the yard losing a
+quantity every winter Ares knows to within a barrel, and a rota of two men. Poseidon does it,
+takes most of a year, has the cistern re-lined by spring, argues about the guttering on the long
+barn for a month with a man called **Perdikkas** and loses. Neither good nor bad at it, never
+complains, and never once makes anything of the comedy, which was available. *Twenty-six barrels
+and a hole under a yard.* **This is not humiliation and must never be written as one** — nobody
+in that valley is making a point.
+
+**The rhyme that is the chapter's competence.** Ares does, by instinct, in under a minute, what
+[DC21](#dc21--the-ledger-in-his-hand)'s fourth rule took Prometheus two thousand years to
+systematise: never leave a man with nothing to do. One principle runs that compound — *a thing
+arrives and you maintain it* — and it covers boots, firewood, nine hundred dead men and people
+who turn up at the gate identically. **He has no technique and would not know what you meant. He
+runs a farm.** This corrects Prometheus's *a tidy sort of place* from Ch2 in the right direction:
+the correction is not *there was an army*, it is the principle.
+
+**"Have you eaten?"** is the first item, said in the same tone to his mother, to Poseidon, and
+to Prometheus six weeks later. Ares does not distinguish between a queen, a god of the sea and a
+Titan.
+
+**The spare bed is taken.** The one room made up in advance on a telephone call is Hera's and she
+has been in it five weeks. Ares settles it in under a minute — a room over the second kitchen
+with a window in the roof, previously holding sacks, cleared by evening. It is warm because it is
+over a kitchen and it is the best room in the compound and everybody except Poseidon knows that.
+**Whether Poseidon knew the bed was taken before he came is left unresolved** and Prometheus
+cannot get underneath either reading.
+
+**Hera and Poseidon are under one roof for the year and nothing is observable.** Prometheus is in
+and out of the building throughout and never sees anything he could write down. His furthest
+reading — and it is as far as he will go — is that the arrangement had been conducted in a
+particular building under a particular man, and the building was four hundred miles away with
+that man alone in it rationing bottles to people who were not there, and **the arrangement did
+not travel**. This is the same finding [DC26](#dc26--the-winter-32-33-and-34) reaches from the
+other end; neither text remarks on the agreement.
+
+***The error is not a misreading — it is a weighting.*** He does the analysis rigorously and it
+is correct: a purely self-interested creature with nothing left does one of three things (sells
+himself, waits it out warm, goes back contrite), and going back was the right move on the
+arithmetic available and he has never in four thousand years done a thing that cost more than it
+returned. All three fail inside a week. **He notices the hole and says so on the page — and then
+decides the hole is small**, weighs it against a rationed river and a chart and a woman counting,
+and puts it at the bottom of the list. Everything he concludes from what he has is right.
+
+**He cannot know the answer here and must not appear to.** Per [DC26](#dc26--the-winter-32-33-and-34),
+Dionysus does not tell him Poseidon loved Hera until the spring of the second year, having taken
+it as blackmail and then kept it. Chapter 11 is written by a narrator without the datum, and the
+reader has had it since Season 1. *No Part One chapter may leak it.*
+
+*Forces:*
+- **The returned bottle.** Poseidon's came back in the second week with no note, no verbal and no
+  reply to the boy — the only one of the four that carried no message
+  ([DC21](#dc21--the-ledger-in-his-hand)). Out of character to the point that Prometheus should
+  have gone and looked and did not, being busy with a garden and a chart.
+- **The closing plant, which must stay unremarked.** In his sixth dispossessed week Poseidon has
+  not once been near salt water, and Prometheus writes the word *sulking*. The chapter ends on
+  the observation that through all of it **nothing whatsoever happened to the sea** — which is
+  DC26's finding, in his own handwriting, a year and a half early, and he does not see it.
+- Ch7 corrected in passing: Persephone's note is *seven* words, not nine. Count it.
+
+### DC37 — Chapter 12: the etiquette, the sentence, and Adrian's question
+Established in Chapter 12, six weeks after the river. Serves O14 and P4 and lays the whole
+foundation of [DC14](#dc14--the-stoppage). Prometheus narrating, in command; **a competence
+chapter**, and the competence is diagnostic.
+
+**Medusa goes down to fix the version, not to raise a rebellion.** By the sixth week the story
+has been through several thousand mouths and has become *a story about a god* — that Hades came
+to the river and raised a woman up. That version is tidier, has somebody in charge of it, asks
+nothing of the hearer, and is **entirely compatible with everything the establishment has ever
+said**: a god did a wonder, now wait your two hundred years. The truth is a coinless handler who
+held on and does not know how. *The difference between those two is the whole war.*
+
+**Her reasoning, which nobody has ever credited her with.** The story will be told; no power can
+stop two hundred thousand people talking in a canteen. So the only live question is which
+version is in circulation when it matters, and you settle that by putting the right one into the
+hands of the people everybody talks to, early, and letting it be **the boring one**. She recruits
+for *accuracy*, not anger: an angry man improves the story he was given every time without
+meaning to, and she has no use for anybody's improvements. Not the leaders either. **The ones
+everybody talks to and nobody watches.**
+
+**The etiquette.** They eat, sleep, shower, queue, and salt the food — *you salt it because you
+salted it*. A person is a set of things they do, and when everything else is off you the doing is
+all that is left; stop, and in a year you are something that stands in a room. They have all seen
+it. There is a word for it down there and Adrian uses a gesture instead. He also says, in the
+same minute, that **the ones who ask questions get into trouble**.
+
+**The two hundred years, and this is Prometheus's real competence.** *A sentence with a date at
+the end of it is not a punishment. It is a job.* That is why Olympus runs this on four to six
+hundred staff — you do not guard a person who has a date, the date does the guarding. It
+produces the arithmetic (everyone gives you their number unprompted, the way the living tell you
+what they do), the unwritten calendars, the elaborate industry of preparing for an arrival, and
+underneath it two hundred thousand people conducting an activity with nothing at the end of it
+with real discipline and considerable ingenuity. **He is the most qualified being alive to
+describe it and he never once turns it on himself.** *Reader does that. Ch23 is where he finally
+does, and no Part One chapter may reach for it.*
+
+**Prue is the list.** No register of the dead exists — the establishment has sectors and numbers
+and no names. Sixty-one years of doing the chairs means she has been in every room in the
+underworld and asked every person in it whether they are all right for a cup, so she knows
+everybody, in every sector, including the ones nobody likes. **Medusa sees it in four minutes;
+Prometheus had ten years and had her merely *filed*.** Medusa tells her nothing about why and
+does not let her write it down; Prue is thrilled, and tells about nine hundred people over the
+following month, correctly, in the right order, with the boring bits left in. *This is the
+qualification DC14 pays off.*
+
+***Prue does not say her line here.*** [Ch15](#dc9--how-renewal-actually-works-and-why-it-does-not-scale)
+fixes *I'm not waiting for anyone* at exactly two occasions — the dock ten years ago and Ch15
+itself. **No third instance may exist**, and 12 characterises her without it.
+
+**Adrian's wife came down not long after he did. She had a coin; he did not.** A fortnight in the
+same building, then a diver did the job, which is persuasion, which is the whole job — and she
+went in believing what everybody in that queue believes, **and he stood on the bank and watched
+her go, and was pleased for her.** He has never said a word against it since. He explains the
+salt to new arrivals. By any measure the establishment would recognise he is the most successful
+product that machine has ever made. *No chapter states his year-count: Ch15 pins the wife at
+forty-one years unwanting and Ch29 pins him at forty-two in the November, and a figure in 12
+fights one or the other.*
+
+**The question, which is the chapter.** Everybody else asks *how did he do it* — a question about
+a wonder, and a wonder has nowhere to go and Olympus has been containing them since before there
+was an Olympus. Adrian, fussy and slow and courteous, asks: ***"Where was she coming back
+from?"*** Medusa has nine days of material prepared and none of it is for that, and cannot think
+of a reason not to answer, so she describes the room. He says "Right." He asks whether it is the
+same for everybody or only the coinless; she says the same for everybody; he says "Right" again,
+says thank you, and takes his tray back, because you take your tray back.
+
+**Prometheus is right about it on the page and says so.** A question about the destination is not
+containable — there is no answer to it that does not end in that room, and once a decent man has
+the room in his head he will describe it to somebody, and when they ask how he knows he will say
+a Gorgon told him at the shift change, **and that is not a rumour, that is provenance.** It takes
+a year to arrive and it does not arrive as a rising. It arrives as a boring man on a dock for six
+days telling frightened strangers the truth in the right order with the boring bits left in —
+which is exactly what he was handed in a canteen by a woman who picked him because he could not
+embroider.
+
+*Forces:*
+- **She never uses them.** Sixty people, an accurate account, and no network, no instruction and
+  nothing to activate; she goes back to the platform and never speaks to fifty-eight of them
+  again. Asked what it was for, she says she does not know, and that when a thing is going to be
+  said either way you may as well have it said right — then asks whether he is coming down
+  Thursday because she is two short on the late. **He says he will see. He does not go, and has
+  no memory of what he had on.**
+- **12 must not add up the workforce.** *Nobody had ever added it up. Prue added it up* is
+  [DC14](#dc14--the-stoppage)'s and Chapter 29's, and 12 gets near it and does not touch it.
+- Asphodel is neither a prison nor a camp and does not look like suffering, "and that is the
+  first thing that has to be understood about it or nothing else in this book makes sense."
 
 ## New questions this opens
 

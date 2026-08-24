@@ -382,20 +382,17 @@ Do not "correct" the dip-then-rise in 16→20→22. It is the shape it is meant 
 
 ## Length
 
-Thirty-four chapters drafted, 70,475 words, averaging 2,073. What is left is 6, 8, 9, 11 and 12
-in Part One and 39 in Part Three, and at the event band they project the book to roughly
-84,000.
+**All forty chapters are drafted.** 85,964 words, averaging 2,149. Nothing is below its band.
 
-Most of what remains is *event* chapters, which carry cross-cut action, multiple locations and
-several speaking characters: the door opening, Zeus ageing in public, Hera taking Olympus,
-Krete voting, the endings. Those cannot be done at 1,600 words without turning into summary,
-which is the one failure mode this book cannot survive — see craft reminder 1.
+The book is now a complete first draft and the work from here is revision, not composition.
+The bands below stay as the standard to revise against; the ledgers stay as the check.
 
 **Chapter 26 has been expanded** from 1,429 to 3,000 — it carries the strike on Olympus,
 Poseidon held in the Meander, and Artemis killed at her father's hands, and 32, 33 and 34 all
 stand on it. What the expansion settled is in
-[DC25](11-S2-CANON.md). **Chapter 28 is still short**, at 1,470 against a hinge band of
-1,900–2,400, and is the only drafted chapter that is.
+[DC25](11-S2-CANON.md). **Chapter 28 has been expanded** from 1,470 to 1,918 — the year of
+talking given two scenes instead of a list, the route down named, and the two hundred thousand
+introduced before 29 needs them. No drafted chapter is now below its band.
 
 **Target roughly 85,000**, reached by type rather than by padding:
 
@@ -424,7 +421,7 @@ chapters:
 3. Keep the comedy in the mouths of the powerful. It is how power sounds from inside.
 4. The Fates never lie. Every line they speak must be technically true.
 5. **Do not write "eleven."** It is this project's authorial tic. It has been thinned four
-   times, reaching forty-eight instances at its worst and standing at thirty after the last
+   times, reaching forty-eight instances at its worst and standing at thirty-two after the last
    pass. **Four sets are load-bearing and no fifth may be created:** the eleven days of
    Prometheus's freedom, which carry the undelivered speech from 13 to 24; the eleven days
    Caeneus is off the river, which carry 27 into 28; the eleven souls of the first mass
@@ -432,4 +429,5 @@ chapters:
    19 and her verdict in 40. One further use is arithmetic and cannot be anything else: the
    **eleven gods** counted in 29, which is the correct total once Artemis is dead. Every
    other quantity in the book should be some other number, chosen deliberately. When a specific figure is wanted, pick it before writing the sentence,
-   not while writing it — and when a chapter is finished, `grep -ci eleven` it.
+   not while writing it — and when a chapter is finished, `grep -ci eleven` it — excluding the heading of Chapter
+   Eleven itself, which is the one unavoidable instance and is not a tic.
