@@ -204,4 +204,4 @@ I sit on the crate.
 
 Behind me a dog whose name I do not know is asleep in a filing tray, and out on the water
 the boat is coming in with its lamp lit, and I have absolutely no idea what happens next,
-and I am going to have to find out the way the rest of you do.
+and I am going to have to find out the way everyone else does.
